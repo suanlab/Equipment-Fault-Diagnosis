@@ -1,0 +1,862 @@
+﻿호기,부위,일자,시작시간,완료시간,정지시간(분),정지시간(시간),고장 원인,처리 내용,MTTR,MTBF,고장강도율,translated_고장원인,translated_처리내용,translated_부위,제품 가격 가중치,risk_impact,가동시간,risk_likehood
+1호기,압출기,3월28일,18:00:00,18:40:00,40,0.67,메인 및 부스타 펌프 트립,작업자 부주위로 노커 케이불 누전,1.16,50.8,2.29,Main and booster pump trip,Knocker cable short circuit due to worker's carelessness,extruder,0.35,4.481211677,203.11,3.998228346
+1호기,압출기,4월11일,13:45:00,17:17:00,212,3.53,콘테이너 메인배관 불럭,풀렌지 볼트 전단 씰 및 볼트 교체,2.19,82.8,2.65,Container main piping block,Full range bolt shear seal and bolt replacement,extruder,0.35,4.841711677,248.44,3.000483092
+1호기,압출기,4월11일,08:30:00,10:43:00,133,2.22,빌레트 로더 기계와 추돌,로 인한 피다 휨 교정 작업,2.19,82.8,2.65,Collision with billet loader machine,Correction work for bending caused by,extruder,0.35,4.841711677,248.44,3.000483092
+1호기,압출기,6월23일,10:44:00,12:30:00,106,1.77,콘테이너 실린다 고정 ,실린다 원 위치 조정 작업,1.6,124.5,1.28,container cylinder fixing,Loaded original position adjustment operation,extruder,0.35,4.635211677,248.99,1.999919679
+1호기,압출기,8월13일,01:00:00,01:30:00,30,0.5,빌레트 로더 전/후진시 소음 발생,테이너 센터 틀려 조정 작업,1.29,21.5,6.03,Noise occurs when billet loader moves forward/reverse,"Tainer center is wrong, adjustment work",extruder,0.35,4.526711677,279.2,12.98604651
+1호기,압출기,2016-10-10 00:00:00,08:30:00,14:20:00,350,5.83,콤푸레샤100HP  고장 물 유입,"콤푸레샤100HP  고장 물 유입 청소및
+파트 교체",1.29,43.7,2.96,"Compressor 100HP failure, water inflow","Compressor 100HP breakdown water inflow cleaning and
+Part replacement",extruder,0.35,4.526711677,262,5.995423341
+1호기,압출기,2016-10-13 00:00:00,16:50:00,17:00:00,10,0.17,"OP판넬에서 콘테이너히터#1,2 온도 표시 불능","콘테이너히터#1,2 온도 보상도선 히터 #3과 
+COM 사용",1.29,43.7,2.96,Container heater #1 and 2 temperatures cannot be displayed on the OP panel.,"Container heater #1, 2, temperature compensation conductor heater #3 and
+Use COM",extruder,0.35,4.526711677,262,5.995423341
+1호기,압출기,2016-11-09 00:00:00,13:30:00,22:02:00,512,8.53,콘테이너 실린더 씰링 안됨,"콘테이너 실린더 씰링 안됨 패킹 교체
+및 배관 패킹 교체",25.58,84.2,30.38,Container cylinder not sealed,"Container cylinder seal not working. Replace packing.
+and pipe packing replacement",extruder,0.35,13.02821168,252.6,3
+1호기,압출기,2016-11-11 00:00:00,01:30:00,08:30:00,3910,65.17,콘테이너 씰링 안됨,"콘테이너 씰링 안됨 하단OP쪽
+로드 파손",25.58,84.2,30.38,Container not sealed,"Container not sealed, bottom OP side
+rod breakage",extruder,0.35,13.02821168,252.6,3
+1호기,압출기,2016-11-10 00:00:00,16:57:00,20:00:00,183,3.05,콘테이너 배관 누유,콘테이너 배관 누유 패킹 교체,25.58,84.2,30.38,container piping leak,Container piping leak packing replacement,extruder,0.35,13.02821168,252.6,3
+1호기,압출기,2014-08-05 00:00:00,11:00:00,17:10:00,370,6.17,유압배관 크랙으로 인한 누유현상,용접가공(외주) 후 장착,31.39,98.4,2.77,Oil leakage phenomenon caused by hydraulic pipe cracks,Installed after welding processing (outsourcing),extruder,0.35,15.06171168,295.33,3.001321138
+1호기,압출기,2014-08-29 00:00:00,10:50:00,12:30:00,100,1.67,냉각수 펌프 교체작업,냉각수 펌프 교체,31.39,98.4,2.77,Coolant pump replacement work,Coolant Pump Replacement,extruder,0.35,15.06171168,295.33,3.001321138
+1호기,압출기,2014-09-15 00:00:00,14:45:00,15:45:00,60,1,메인펌프 자동수동 on 불능,PLC모니터 결과 비상정지 접정 동작됨,24.1,81,1.43,Main pump automatic manual on disabled,"As a result of the PLC monitor, emergency stop contact is activated.",extruder,0.35,12.51021168,243.07,3.000864198
+1호기,압출기,2014-10-29 00:00:00,20:00:00,02:30:00,330,5.5,이젝트 후진동작 불능,"감속기 모터 코일 교체, 
+인버터 교체 및 케이블 베어 배선 확인 후 스페어 선 재연결",30.49,104.3,1.89,Eject backward operation not possible,"reducer motor coil replacement,
+After replacing the inverter and checking bare cable wiring, reconnect the spare wire.",extruder,0.35,14.74671168,312.97,3.000671141
+1호기,가열로,2월12일,01:00:00,02:08:00,68,1.13,푸샤 엔코더 베아링 마모,케이불 정리 임시 처리 작업,1,88.4,1.13,Pusha encoder bearing wear,Temporary handling of cable management,heating furnace,0.25,3.160865483,246.76,2.791402715
+1호기,가열로,2월12일,04:48:00,05:40:00,52,0.87,케이불 열화로 단선, 케이불 연결 작업,1,88.4,1.13,Disconnection due to cable deterioration,Cable connection operation,heating furnace,0.25,3.160865483,246.76,2.791402715
+1호기,가열로,3월3일,11:30:00,12:30:00,60,1,빌레트 이송 체인 전단,전단된 체인 분해후 부분 교체,1.16,50.8,2.29,Billet transfer chain shear,Partial replacement after disassembling the sheared chain,heating furnace,0.25,3.200865483,203.11,3.998228346
+1호기,가열로,3월14일,15:16:00,16:00:00,44,0.73,프르브 열전대 에러,보정 작업(5번 7번),1.16,50.8,2.29,Probe thermocouple error,Calibration operations (No. 5 and 7),heating furnace,0.25,3.200865483,203.11,3.998228346
+1호기,가열로,3월28일,10:00:00,12:15:00,135,2.25,빌레트 가열로 START不,통신 케이불 단락 부분 교체작업,1.16,50.8,2.29,Billet heating furnace does not start,Replacement of short-circuited communication cable,heating furnace,0.25,3.200865483,203.11,3.998228346
+1호기,가열로,4월4일,08:40:00,09:30:00,50,0.83,프르브 온도 감지 에러,프르브 센서 교정 작업,2.19,82.8,2.65,Probe temperature detection error,Probe sensor calibration tasks,heating furnace,0.25,3.458365483,248.44,3.000483092
+1호기,가열로,8월18일,14:33:00,15:20:00,47,0.78,ZONE#1 파이로트 점화 불능,파이로트 연비 조정,1.29,21.5,6.03,ZONE#1 Pilot ignition disabled,Pilot fuel efficiency adjustment,heating furnace,0.25,3.233365483,279.2,12.98604651
+1호기,가열로,8월16일,04:38:00,08:30:00,232,3.87,탑 클램프 실린더 누유,패킹 교체,1.29,21.5,6.03,Top clamp cylinder leak,Packing replacement,heating furnace,0.25,3.233365483,279.2,12.98604651
+1호기,가열로,9월28일,18:26:00,20:30:00,124,2.07,푸샤 체인 아타치 마모,임시 제작 하여 조립,2.07,209,0.99,Pusha chain attache wear,Temporarily manufactured and assembled,heating furnace,0.25,3.428365483,209,1
+1호기,가열로,2016-10-18 00:00:00,23:15:00,23:30:00,15,0.25,빌레트가열로(1호기) 터치스크린 버튼 안눌림,터치스크린 Calibration 영점 조정,1.29,43.7,2.96,Billet heating furnace (unit 1) touch screen button not pressed,Touch screen calibration zero point adjustment,heating furnace,0.25,3.233365483,262,5.995423341
+1호기,가열로,2014-08-26 00:00:00,14:20:00,14:40:00,20,0.33,리턴 감지센서 불능,PR이18-14DN감지 불능으로 교체,31.39,98.4,2.77,Return detection sensor disabled,PR replaced with 18-14DN not detectable,heating furnace,0.25,10.75836548,295.33,3.001321138
+1호기,가열로,2014-10-21 00:00:00,19:10:00,19:25:00,15,0.25,빌레트 감지센서 파손,BJ10M-TDT 1번만 사용,30.49,104.3,1.89,Billet detection sensor damaged,BJ10M-TDT used only once,heating furnace,0.25,10.53336548,312.97,3.000671141
+1호기,가열로,2014-11-04 00:00:00,04:05:00,04:15:00,15,0.25,이젝트 공급 센서 감지 불능,공급 근접 센서 PRL18-8DN 교체,42.54,154.7,0.35,Eject supply sensor not detected,Supply Proximity Sensor PRL18-8DN Replacement,heating furnace,0.25,13.54586548,309.49,2.000581771
+1호기,풀러,6월3일,11:05:00,12:30:00,85,1.42,풀러 2호 체인 고정 볼트 ,전 단 제거 후 볼트교체 조정 작업,1.6,124.5,1.28,Fuller No. 2 chain fixing bolt,Bolt replacement and adjustment work after removing the shear,fuller,0.09,1.191911574,248.99,1.999919679
+1호기,후면,8월04일,11:30:00,11:50:00,20,0.33,Hi-temp C/V 수동 구동은 되나 자동 불능,제품 감지 포토센서 교체,1.29,21.5,6.03,"Hi-temp C/V can be driven manually, but cannot be operated automatically.",Product detection photo sensor replacement,back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,8월19일,07:50:00,08:00:00,10,0.17,파워헤드업/다운 S/W 소손,LVL-2M-1 교체,1.29,21.5,6.03,Power head up/down S/W damage,LVL-2M-1 replacement,back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,8월18일,15:30:00,16:00:00,30,0.5,tail head jaw 하강 동작 불능,IN FEED V/T 센서측 조작 전원 배선정리 및 +24V 단선 재연결 복구,1.29,21.5,6.03,Tail head jaw lowering operation not possible,IN FEED V/T sensor side operation power wiring arrangement and +24V disconnection reconnection recovery,back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,8월08일,09:00:00,10:30:00,90,1.5,교정기 모니터 안됨.,"모니터, 모니터부 파워 12V 5A(1EA)교체, 브라켓 고정작업",1.29,21.5,6.03,Calibrator not monitored.,"Monitor, monitor power 12V 5A (1EA) replacement, bracket fixation work",back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,8월18일,11:20:00,13:20:00,120,2,교정기 테일헤드 조 하강 안됨 조사이 알루미늄 끼임,교정기 테일헤드 조 하강 안됨 조사이 알루미늄 끼임 제거작업,1.29,21.5,6.03,Straightener tailhead jaw not lowered. Aluminum is stuck.,Straightener tail head jaw not lowered. Remove jammed aluminum.,back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,8월10일,05:30:00,06:00:00,30,0.5,비디오 모니터 화면 불능,비디오 모니터 교체 및 카메라 영점 조정,1.29,21.5,6.03,Video monitor screen not working,Replacing the video monitor and adjusting the camera zero point,back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,8월08일,10:00:00,11:10:00,70,1.17,교정기-1호 CCTV MONITOR 화면 이상으로 점검,CCTV MONITOR 불량으로 교체 : JIT-17HD(TV),1.29,21.5,6.03,Calibrator-No. 1 CCTV MONITOR Check for screen abnormalities,Replaced due to defective CCTV MONITOR: JIT-17HD (TV),back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,8월15일,10:55:00,11:05:00,10,0.17,자동 운전시 GAUGE HAED UP동작후 C/V 구동 불능,GAUGE HAED UP감지 근접센서 감지 불능으로 위치조정,1.29,21.5,6.03,"During automatic operation, C/V operation is not possible after GAUGE HAED UP operation.",GAUGE HEAD UP detection Position adjustment due to inability to detect proximity sensor,back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,8월26일,06:50:00,07:00:00,10,0.17,절단작업중 제품에 끼어 톱날 멈춤 및 후진 동작 불능,후진완료 L/S 수동 감지후 클램프 UP 시킨후 끼임 해제 및 EOCR TRIP 복구후 정상 후진 됨,1.29,21.5,6.03,The saw blade stops and cannot move backwards due to being caught in the product during cutting work.,"After manual detection of reverse completion L/S, clamp UP, release jamming, and recovery of EOCR TRIP, normal backward movement is achieved.",back side,0.15,1.94001929,279.2,12.98604651
+1호기,후면,2016-09-28 00:00:00,18:26:00,20:30:00,124,2.07,푸셔 파손,푸셔 파손 절단후 맞춤작업,2.07,209,0.99,pusher broken,Custom work after cutting the pusher damage,back side,0.15,2.05701929,209,1
+1호기,후면,2016-10-05 00:00:00,06:10:00,07:05:00,55,0.92,IN FEED V/T C/V 구동 불능,IN FEED V/T C/V 인버터(SV015IG5A-4) 교체,1.29,43.7,2.96,IN FEED V/T C/V operation not possible,IN FEED V/T C/V Inverter (SV015IG5A-4) Replacement,back side,0.15,1.94001929,262,5.995423341
+1호기,후면,2016-10-31 00:00:00,22:00:00,22:15:00,15,0.25,쫄대C/V 카운터 센서 파손 교체 요청,포토센서 (BUP-50S) 교체,1.29,43.7,2.96,Request for replacement of damaged Jjoldae C/V counter sensor,Photo sensor (BUP-50S) replacement,back side,0.15,1.94001929,262,5.995423341
+1호기,후면,2014-09-03 00:00:00,01:30:00,03:49:00,139,2.32,교정기 테일헤드 전후진 불능,끼임 부위 교정 작업 후 정상작동,24.1,81,1.43,Corrector tail head cannot be moved forward or backward,Normal operation after correcting the stuck area,back side,0.15,5.36151929,243.07,3.000864198
+1호기,후면,2014-09-11 00:00:00,19:35:00,19:45:00,10,0.17,절단기 클럼프 상승 불능,PRDL18-14DN 1EA교체후 정상작동,24.1,81,1.43,Cutter clump cannot be raised,Normal operation after PRDL18-14DN 1EA replacement,back side,0.15,5.36151929,243.07,3.000864198
+1호기,후면,2014-10-15 00:00:00,22:30:00,22:40:00,10,0.17,쫄대 배출 이상으로 점검,센서 파손으로 BUP-50S교체,30.49,104.3,1.89,Check for abnormal discharge of jjoldae,BUP-50S replaced due to sensor damage,back side,0.15,6.32001929,312.97,3.000671141
+1호기,후면,2014-11-04 00:00:00,00:00:00,01:30:00,50,0.83,HYD유닛 압력 생성 불능,"유압유 온도 높음, 유압 블록 체크 및 
+유압유 쿨러 냉각 상태 확인",42.54,154.7,0.35,HYD unit pressure cannot be generated,"High hydraulic oil temperature, check hydraulic block and
+Check the cooling status of the hydraulic oil cooler",back side,0.15,8.12751929,309.49,2.000581771
+2호기,압출기,1월29일,16:20:00,19:25:00,185,3.08,메인 사이드 풀렌지 누유,푸렌지 오링 교체작업,3.57,47.1,7.58,Main side pull range leak,Bluenge O-ring replacement work,extruder,0.35,5.324711677,329.71,7.000212314
+2호기,압출기,2월11일,19:00:00,20:30:00,90,1.5,트렌스 베어 가이드 휨,레일 교정 작업,1.5,276.6,0.54,Trans Bear Guide Bending,Rail straightening work,extruder,0.35,4.600211677,276.56,0.999855387
+2호기,압출기,3월2일,08:20:00,09:00:00,40,0.67,빌레트 챠저 후진 不,출력 릴레이 교체 후 작업,2.32,43.1,5.39,Billet charger not reversing,Operations after replacing the output relay,extruder,0.35,4.887211677,387.89,8.999767981
+2호기,압출기,4월1일,10:20:00,11:10:00,50,0.83,풀러 오피 판넬 파손,부주 위로 인한 파손 (교체),1.31,59.8,2.19,Fuller office panel damage,Damage due to carelessness (replacement),extruder,0.35,4.533711677,418.37,6.996153846
+2호기,압출기,4월6일,03:05:00,06:00:00,175,2.92,금형 크럼프 체결 볼트 ,전단 불리 후 교체 작업,1.31,59.8,2.19,Mold Crump Fastening Bolts,Replacement work after shear failure,extruder,0.35,4.533711677,418.37,6.996153846
+2호기,압출기,4월29일,16:00:00,17:30:00,90,1.5,빌레트 로다 2번 동작 不,하강 릴레이 교체후 정상,1.31,59.8,2.19,Billet loader 2 operation not working,Normal after replacing the lowering relay,extruder,0.35,4.533711677,418.37,6.996153846
+2호기,압출기,5월11일,13:30:00,15:10:00,100,1.67,다이클럼프 작동 不,슬라이드 분해 후 사상 작업,1.99,44.7,4.46,Dieclump not working,Finishing work after disassembling the slide,extruder,0.35,4.771711677,357.35,7.994407159
+2호기,압출기,5월11일,22:31:00,02:45:00,254,4.23,다이클럼프 작동 不,실린다 분 해후 제조립,1.99,44.7,4.46,Dieclump not working,Cylinder disassembly and reassembly,extruder,0.35,4.771711677,357.35,7.994407159
+2호기,압출기,5월12일,10:48:00,12:30:00,102,1.7,다이클럼프 작동 不,다이클럼프 슬라이드 손상 사상,1.99,44.7,4.46,Dieclump not working,Dieclump slide damage,extruder,0.35,4.771711677,357.35,7.994407159
+2호기,압출기,5월12일,03:45:00,05:00:00,75,1.25,다이슬라이드 동작 不,거리 센서 조정 작업,1.99,44.7,4.46,Die slide does not work,Distance sensor adjustment operation,extruder,0.35,4.771711677,357.35,7.994407159
+2호기,압출기,5월16일,19:00:00,19:20:00,20,0.33,빌레트1번 로다클럼프,감지 센서 단선 교체,1.99,44.7,4.46,Billet No. 1 Rhoda Klump,Detection sensor disconnection replacement,extruder,0.35,4.771711677,357.35,7.994407159
+2호기,압출기,5월24일,08:30:00,09:50:00,80,1.33,메인샤 작동 불,샤 로크실린다 솔 뱁브 단선 조인,1.99,44.7,4.46,mainsha working light,Shah Rocsilinda Sol Babb Disconnection Join,extruder,0.35,4.771711677,357.35,7.994407159
+2호기,압출기,7월25일,14:00:00,14:15:00,15,0.25,터치 전원 차단,과온으로 잠시 전원 차단,0.72,132.1,0.55,touch power off,Temporarily shuts off due to overtemperature,extruder,0.35,4.327211677,396.38,3.000605602
+2호기,압출기,8월20일,02:00:00,02:20:00,5,0.08,메인 램 전진 不,전진 솔레노이드 출력 릴레이 교체,0.87,60,1.45,Main ram not moving forward,Replace forward solenoid output relay,extruder,0.35,4.379711677,420,7
+2호기,압출기,8월20일,02:05:00,03:06:00,61,1.02,메인 펌프 작동 안됨,서보 밸브 필터 교체 ,0.87,60,1.45,Main pump not working,Servo valve filter replacement,extruder,0.35,4.379711677,420,7
+2호기,압출기,8월23일,22:20:00,22:40:00,20,0.33,차져 빌레트 감지 센서 오작동,포토센서 교체후 정상 작동,0.87,60,1.45,Charger billet detection sensor malfunction,Normal operation after photo sensor replacement,extruder,0.35,4.379711677,420,7
+2호기,압출기,9월1일,14:10:00,14:40:00,30,0.5,터치 스크린 화면 不,셀렉타 스위치 교체 및 배선수정,0.74,72.5,1.02,No touch screen screen,Selecta switch replacement and wiring modification,extruder,0.35,4.334211677,362.68,5.002482759
+2호기,압출기,9월21일,14:00:00,14:40:00,40,0.67,빌레트 로다 클럼프,에어 배관 닛뿔 전단 교체,0.74,72.5,1.02,Villette Rhoda Klump,Replacement of the front end of the air pipe,extruder,0.35,4.334211677,362.68,5.002482759
+2호기,압출기,2016-09-01 00:00:00,14:10:00,14:40:00,30,0.5,OP 압출기 터치 스크린 화면 불량 ,셀렉터S/W 설치배선(문제 발생시 셀렉터S/W로 전환 요함),1.7,25.9,6.56,OP extruder touch screen screen defective,Selector S/W installation wiring (requires switching to selector S/W if a problem occurs),extruder,0.35,4.670211677,362.68,14.0030888
+2호기,압출기,2016-09-02 00:00:00,02:10:00,05:30:00,200,3.33,압출 2호기 램전진/정지 반복 되면서 이상 소음 발생됨,L/S 배선 절연 불량으로 테이핑후 복구,1.7,25.9,6.56,Extrusion unit 2 generates abnormal noise as ram advances/stops repeatedly,Repair after taping due to poor L/S wiring insulation,extruder,0.35,4.670211677,362.68,14.0030888
+2호기,압출기,9/29,14:40:00,15:00:00,20,0.33,다이카세트 전/후진 감지 포토센서(BUP-30S) 파손으로 교체 요청,포토센서(BUP-30S)  파손 교체,1.7,25.9,6.56,Replacement request due to damage to Dai cassette forward/backward detection photo sensor (BUP-30S),Replace damaged photo sensor (BUP-30S),extruder,0.35,4.670211677,362.68,14.0030888
+2호기,압출기,2016-10-27 00:00:00,04:40:00,05:30:00,50,0.83,트렌스 베어 유도판 파손,트렌스 베어 유도판 파손 용접 수리,1.05,35.5,2.95,Transformer guide plate damaged,Transformer guide plate damage welding repair,extruder,0.35,4.442711677,426.4,12.01126761
+2호기,압출기,2016-10-04 00:00:00,20:30:00,23:20:00,170,2.83,다이슬라이드 전/후진 동작 불능 및 전체동작 느려짐,MAIN PUMP#2(경전각 동작 불능) 서보밸브 교체,1.05,35.5,2.95,Dieslide forward/backward motion is disabled and overall motion is slowed down,MAIN PUMP#2 (tilt angle does not work) Replace servo valve,extruder,0.35,4.442711677,426.4,12.01126761
+2호기,압출기,2016-10-13 00:00:00,03:00:00,03:15:00,15,0.25,보조로더 다운 불능으로 점검요청,DOWN SOL 릴레이 교체.,1.05,35.5,2.95,Inspection request due to inability to download auxiliary loader,Replace DOWN SOL relay.,extruder,0.35,4.442711677,426.4,12.01126761
+2호기,압출기,2016-10-21 00:00:00,01:45:00,03:56:00,131,2.18,"압출 2호기 전체 동작 속도 이상 및 버프전에서 
+멈춰 버프동작 불능","메인펌프#1 경전각 이상으로 서보 밸브 교체
+(45/75B) I1(12002) 휴즈 융단 교체 
+쏠밸브 코일 소손 및 스폴 고착으로 교체
+M/DD3W9CNTW  110/60 V/Hz  .0.4Amps(파커)
+",1.05,35.5,2.95,"Above the overall operating speed of extrusion unit 2 and before buffing
+It stops and the buff doesn't work.","Main pump #1 servo valve replaced due to tilt angle abnormality
+(45/75B) I1(12002) Fuse Carpet Replacement
+Solvalve coil replaced due to burnout and spool sticking
+M/DD3W9CNTW 110/60 V/Hz .0.4Amps (Parker)",extruder,0.35,4.442711677,426.4,12.01126761
+2호기,압출기,2016-10-07 00:00:00,06:55:00,08:30:00,95,1.58,콘테이너 실린더 보호 판 파손,콘테이너 실린더 보호 판 파손 용접 수리,1.05,35.5,2.95,Container cylinder protection plate broken,Container cylinder protection plate breakage welding repair,extruder,0.35,4.442711677,426.4,12.01126761
+2호기,압출기,2016-11-24 00:00:00,05:08:00,05:55:00,47,0.78,NO2 로더 클램프 동작 불능으로 점검요청.,DA75 리드S/W 교체작업.,0.54,205.7,0.26,Request for inspection due to NO2 loader clamp not working.,DA75 lead S/W replacement work.,extruder,0.35,4.264211677,411.4,2
+2호기,압출기,2014-08-19 00:00:00,05:20:00,06:40:00,80,1.33,콘테이너 압력 이상,압력 조정,11.92,90.6,0.95,Container pressure abnormality,pressure adjustment,extruder,0.35,8.247211677,362.43,4.000331126
+2호기,압출기,2014-09-03 00:00:00,22:20:00,23:51:00,91,1.52,로그샤 메인실린더 누유,실린더 오링 교체작업,10.48,75.4,1.51,Logsha main cylinder leak,Cylinder O-ring replacement work,extruder,0.35,7.743211677,377.15,5.00198939
+2호기,압출기,2014-09-18 00:00:00,08:30:00,09:50:00,80,1.33,이젝트 배관 누유,누유부위 용접,10.48,75.4,1.51,Eject pipe leak,Welding of leaks,extruder,0.35,7.743211677,377.15,5.00198939
+2호기,압출기,2014-09-23 00:00:00,01:30:00,02:00:00,30,0.5,크래들실린더 니쁠파손,니쁠 교체 및 용접작업,10.48,75.4,1.51,Cradle cylinder nipple damaged,Nipple replacement and welding work,extruder,0.35,7.743211677,377.15,5.00198939
+2호기,압출기,2014-09-24 00:00:00,12:00:00,12:30:00,30,0.5,로그샤 메인실린더 누유,로드 부싱 오링 교체작업,10.48,75.4,1.51,Logsha main cylinder leak,Rod bushing o-ring replacement work,extruder,0.35,7.743211677,377.15,5.00198939
+2호기,압출기,2014-10-11 00:00:00,01:30:00,03:00:00,90,1.5,챠져판 고정볼트 파손,볼트 교체 및 탭 용접작업,7.58,52.8,1.92,Charger plate fixing bolt damaged,Bolt replacement and tab welding work,extruder,0.35,6.728211677,422.67,8.005113636
+2호기,압출기,2014-10-30 00:00:00,04:50:00,05:40:00,50,0.83,차져 동작 불능,이상 유무 확인중 정상동작(작업자 미숙 예상),7.58,52.8,1.92,Charger not working,Normal operation while checking for abnormalities (expected inexperience of operator),extruder,0.35,6.728211677,422.67,8.005113636
+2호기,압출기,2014-11-25 00:00:00,18:15:00,18:25:00,10,0.17,빌레트 로더 및 메인램,"로더 클램프 리드 스위치 고정볼트 불량
+교체후 재고정",9.35,74.3,1.92,Billet loader and main ram,"Loader clamp reed switch fixing bolt defective
+Restored after replacement",extruder,0.35,7.347711677,371.66,5.002153432
+2호기,압출기,2014-11-26 00:00:00,08:35:00,08:53:00,18,0.3,"로더 감지불량으로 메인램
+전진동작 불능","로더 클램프 리드 스위치 배선 연결부위
+접촉 불량 재연결",9.35,74.3,1.92,"Main RAM due to loader detection failure
+Forward movement is impossible","Loader clamp reed switch wiring connection area
+Reconnect poor contact",extruder,0.35,7.347711677,371.66,5.002153432
+2호기,가열로,1월4일,08:40:00,15:20:00,400,6.67,log shar압력 s/w 에러,압력 스위치 구입 후 교체,3.57,47.1,7.58,log shar pressure s/w error,Replace pressure switch after purchase,heating furnace,0.25,3.803365483,329.71,7.000212314
+2호기,가열로,1월9일,15:45:00,01:30:00,585,9.75,빌레트 가열로 온도 가열로 빌레트,녹음 레일 및 일부 교체작업,3.57,47.1,7.58,Billet Heating Furnace Temperature Heating Furnace Billet,Recording rail and some replacement work,heating furnace,0.25,3.803365483,329.71,7.000212314
+2호기,가열로,3월1일,02:00:00,12:30:00,630,10.5,로그샤 크레들축 용접,부분 크랙 으로 분해 후 용접,2.32,43.1,5.39,Logsha Cradle Shaft Welding,Welded after disassembling with partial cracks,heating furnace,0.25,3.490865483,387.89,8.999767981
+2호기,가열로,3월1일,14:35:00,15:05:00,30,0.5,빌레트 푸샤 전진 不,작업자 조작 므숙 으로 발생,2.32,43.1,5.39,Villette Pusha not moving forward,Occurs due to operator manipulation,heating furnace,0.25,3.490865483,387.89,8.999767981
+2호기,가열로,3월2일,03:05:00,03:43:00,38,0.63,테일헤드 오일누유,유압 호스 교체 작업,2.32,43.1,5.39,Tail head oil leak,Hydraulic hose replacement work,heating furnace,0.25,3.490865483,387.89,8.999767981
+2호기,가열로,3월8일,13:30:00,14:30:00,60,1,프르브 4번 온도 이상,프르 그램 수정 작업,2.32,43.1,5.39,Probe 4 temperature abnormality,program modification operations,heating furnace,0.25,3.490865483,387.89,8.999767981
+2호기,가열로,3월11일,05:30:00,06:15:00,45,0.75,가열로 출구 도어,솔레노이드 밸브 교체작업,2.32,43.1,5.39,furnace outlet door,Solenoid valve replacement work,heating furnace,0.25,3.490865483,387.89,8.999767981
+2호기,가열로,4월4일,16:30:00,17:50:00,80,1.33,로그샤 크레들 실린다,로드 전 단 교체작업,1.31,59.8,2.19,Logsha Cradle Cylinder,Replacement work before loading,heating furnace,0.25,3.238365483,418.37,6.996153846
+2호기,가열로,4월4일,10:00:00,11:00:00,60,1,로그샤 동작에러,프레샤 압력 저하로 인한 에러,1.31,59.8,2.19,Logsha operation error,Error due to low presser pressure,heating furnace,0.25,3.238365483,418.37,6.996153846
+2호기,가열로,4월9일,17:05:00,18:10:00,65,1.08,로그샤 푸시백 실린다,커버 오링 교체 작업,1.31,59.8,2.19,Logsha pushback is carried,Cover O-ring replacement work,heating furnace,0.25,3.238365483,418.37,6.996153846
+2호기,가열로,4월9일,23:40:00,00:10:00,30,0.5,로그샤 푸시백 실린다,누유 오링 교체,1.31,59.8,2.19,Logsha pushback is carried,Leaking O-ring replacement,heating furnace,0.25,3.238365483,418.37,6.996153846
+2호기,가열로,5월26일,12:30:00,17:30:00,300,5,푸시백 실린다 로드,부시 가공 교체및 씰 교체,1.99,44.7,4.46,Pushback Silinda Road,Bush machining replacement and seal replacement,heating furnace,0.25,3.408365483,357.35,7.994407159
+2호기,가열로,6월23일,02:00:00,02:15:00,15,0.25,오퍼레타 터치 화면,전원 on/off반복 후 정상 복귀,1.49,114.4,1.3,Operatta touch screen,Return to normal after repeating power on/off,heating furnace,0.25,3.283365483,457.66,4.000524476
+2호기,가열로,7월8일,15:00:00,16:10:00,70,1.17,빌레트 가열로 푸샤,안되어 PLC 로 확 인후 복구,0.72,132.1,0.55,Billet Heating Furnace Pusha,"If it does not work, check it with PLC and restore it.",heating furnace,0.25,3.090865483,396.38,3.000605602
+2호기,가열로,8월10일,16:45:00,20:00:00,195,3.25,hot jat fan 모타 코일,소손 예비품 모타로 교체,0.87,60,1.45,hot jat fan motor coil,Replacement of damaged spare parts with motor,heating furnace,0.25,3.128365483,420,7
+2호기,가열로,8월29일,10:00:00,10:30:00,30,0.5,ZONE#1 온도 이상,"애자,외통 교체 작업",0.87,60,1.45,ZONE#1 temperature abnormality,Insulator and external cylinder replacement work,heating furnace,0.25,3.128365483,420,7
+2호기,가열로,8월18일,09:51:00,10:30:00,39,0.65,ZONE #2 메인 버너 점화불능,외통 변형에 의해 열전대 온도 감지 불량으로 외통교체,0.87,60,1.45,ZONE #2 Main burner not igniting,External tube replacement due to defective thermocouple temperature detection due to external tube deformation,heating furnace,0.25,3.128365483,420,7
+2호기,가열로,9월29일,08:45:00,09:45:00,60,1,로그샤 푸시백 실린다,누유 로드 페킹 교체 작업,0.74,72.5,1.02,Logsha pushback is carried,Leaking rod peking replacement work,heating furnace,0.25,3.095865483,362.68,5.002482759
+2호기,가열로,2016-09-02 00:00:00,17:15:00,19:10:00,115,1.92,ZONE#3 M/M 열림/닫힘 동작 불능,ZONE#3 M/M 분해 수리(단자 납땜후 재조립),1.7,25.9,6.56,ZONE#3 M/M open/close operation not possible,ZONE#3 M/M disassembly and repair (reassembly after soldering terminals),heating furnace,0.25,3.335865483,362.68,14.0030888
+2호기,가열로,2016-09-29 00:00:00,08:45:00,09:45:00,60,1,푸시벡 로드측 누유,푸시벡 로드측 누유 부싱 및 커버 오링 교체,1.7,25.9,6.56,Pushbeck road side oil leak,Pushback rod side leaking bushing and cover O-ring replacement,heating furnace,0.25,3.335865483,362.68,14.0030888
+2호기,가열로,2016-10-22 00:00:00,12:30:00,13:30:00,60,1,푸시벡 실린더 커버 누유,푸시벡 실린더 커버 누유 오링 교체,1.05,35.5,2.95,Pushbeck cylinder cover leak,Pushback cylinder cover leakage O-ring replacement,heating furnace,0.25,3.173365483,426.4,12.01126761
+2호기,가열로,2014-08-05 00:00:00,13:30:00,14:40:00,70,1.17,빌레트 온도상승 불가,"HOTJET FAN M/M열림으로 불꽃 쏠림현상
+전원 재가동후 정상복구",11.92,90.6,0.95,Billet temperature cannot rise,"Flame shooting phenomenon due to opening of HOTJET FAN M/M
+Normal recovery after power restart",heating furnace,0.25,5.890865483,362.43,4.000331126
+2호기,가열로,2014-11-20 00:00:00,17:20:00,18:20:00,20,0.33,빌레트 감지센서 불능,"광 화이버 센서 교체
+(FD-620-10, FTL-M26, FTH-410)",9.35,74.3,1.92,Billet detection sensor not working,"Fiber Optic Sensor Replacement
+(FD-620-10, FTL-M26, FTH-410)",heating furnace,0.25,5.248365483,371.66,5.002153432
+2호기,풀러,1월7일,20:30:00,23:30:00,180,3,유압펌프 모타 소손,모타 교체 후 정상 작업,3.57,47.1,7.58,Hydraulic pump motor burnout,Normal operation after motor replacement,fuller,0.09,1.369211574,329.71,7.000212314
+2호기,풀러,3월8일,23:40:00,02:14:00,154,2.57,풀러 와이어로프 부분,전단 에비품 으로 교체 작업,2.32,43.1,5.39,Puller wire rope part,Replacement work with spare parts,fuller,0.09,1.256711574,387.89,8.999767981
+2호기,풀러,3월9일,00:00:00,02:30:00,150,2.5,풀러 거리값 틀림,거리값 보정 작업,2.32,43.1,5.39,Fuller distance value is wrong,Distance value correction operation,fuller,0.09,1.256711574,387.89,8.999767981
+2호기,풀러,5월26일,18:25:00,18:50:00,25,0.42,풀러 와이어 클립풀림,크립 조임 작업,1.99,44.7,4.46,Puller wire clip release,Creep tightening operation,fuller,0.09,1.227011574,357.35,7.994407159
+2호기,풀러,7월4일,18:30:00,19:15:00,45,0.75,풀러 와이어로프 전단,예비품 으로 교체작업,0.72,132.1,0.55,Puller Wire Rope Shear,Replacement work with spare parts,fuller,0.09,1.112711574,396.38,3.000605602
+2호기,풀러,9월24일,13:30:00,14:12:00,42,0.7,풀러 와이어 로프 소손,예비품 와이어 로프 교체 작업,0.74,72.5,1.02,puller wire rope burnout,Spare wire rope replacement work,fuller,0.09,1.114511574,362.68,5.002482759
+2호기,풀러,2016-09-24 00:00:00,12:30:00,14:12:00,102,1.7,풀라 와이어 터짐,풀라 와이어 터짐교체,1.7,25.9,6.56,Puller wire burst,Fulla wire burst replacement,fuller,0.09,1.200911574,362.68,14.0030888
+2호기,풀러,2016-11-24 00:00:00,22:22:00,22:40:00,18,0.3,풀러 전/후진 동작불능으로 점검요청.,브레이크컨트롤러 OC알람발생으로 해제후 정상동작.,0.54,205.7,0.26,Request for inspection due to inability to move forward/reverse puller.,Normal operation after release due to brake controller OC alarm.,fuller,0.09,1.096511574,411.4,2
+2호기,풀러,2014-10-11 00:00:00,05:10:00,05:50:00,20,0.33,휠 베어링 파손,OP측 베어링 교체작업,7.58,52.8,1.92,wheel bearing damage,OP side bearing replacement work,fuller,0.09,1.730111574,422.67,8.005113636
+2호기,풀러,2014-10-29 00:00:00,01:10:00,02:08:00,58,0.97,모터 과부하,모터 교체작업,7.58,52.8,1.92,motor overload,Motor replacement work,fuller,0.09,1.730111574,422.67,8.005113636
+2호기,풀러,2014-11-11 00:00:00,04:30:00,09:45:00,315,5.25,트레이 작동 이상,"점검 후 기어 펌프 교체(4D, 7l/min)",9.35,74.3,1.92,Tray malfunction,"Replace gear pump after inspection (4D, 7 l/min)",fuller,0.09,1.889411574,371.66,5.002153432
+2호기,풀러,2014-11-27 00:00:00,10:30:00,11:35:00,65,1.08,"풀러 유압펌프 콘덴서 불량
+모터 코일 교체","1.콘덴서 불량으로 교체후 기동시 같은 현상 
+2. 모터 코일 열화로 교체후정상 동작됨) ",9.35,74.3,1.92,"Fuller hydraulic pump condenser defective
+motor coil replacement","1.Same phenomenon when starting after replacement due to defective condenser
+2. Motor coil deteriorates and operates normally after replacement)",fuller,0.09,1.889411574,371.66,5.002153432
+2호기,핫쏘,6월11일,14:55:00,19:07:00,252,4.2,HOT SAW BEARING,파손 구입 후 교체,1.49,114.4,1.3,HOT SAW BEARING,Replace after purchase damaged,Hasso,0.1,1.313346193,457.66,4.000524476
+2호기,핫쏘,2014-09-23 00:00:00,13:30:00,15:20:00,110,1.83,모터 베이스 파손,모터 교체 및 유압호스 교체작업,10.48,75.4,1.51,Motor base broken,Motor replacement and hydraulic hose replacement work,Hasso,0.1,2.212346193,377.15,5.00198939
+2호기,핫쏘,2014-10-21 00:00:00,22:32:00,00:30:00,118,1.97,클램프 실린더로드 누유,실린더 로드 교체 및 LM베어링 2EA교체,7.58,52.8,1.92,Clamp cylinder rod leakage,실린더 로드 교체 및 LM베어링 2EA교체,Hasso,0.1,1.922346193,422.67,8.005113636
+2호기,후면,1월11일,14:10:00,14:20:00,10,0.17,엔드 쏘 cp 트립,on/off 반볻 동작 후 정상 동작,3.57,47.1,7.58,end saw cp trip,Normal operation after on/off half-turn operation,back side,0.15,2.28201929,329.71,7.000212314
+2호기,후면,1월16일,21:55:00,00:00:00,125,2.08,테일헤드 죠 하강 不,모니터 안전 접점 불량 임시 콤으로 작업,3.57,47.1,7.58,Tailhead jaw not lowered,Monitor safety contact defective. Work with temporary comb.,back side,0.15,2.28201929,329.71,7.000212314
+2호기,후면,8월31일,03:00:00,03:15:00,15,0.25,쫄대 C/V 카운터 센서 파손,BUP-30S 교체,0.87,60,1.45,Jjoldae C/V counter sensor damaged,BUP-30S replacement,back side,0.15,1.87701929,420,7
+2호기,후면,9월21일,01:30:00,02:20:00,50,0.83,교정기 모니터 이상,카메라 단자 고정후 정상,0.74,72.5,1.02,Calibrator monitor abnormalities,Normal after fixing the camera terminal,back side,0.15,1.85751929,362.68,5.002482759
+2호기,후면,2016-09-21 00:00:00,14:00:00,14:40:00,40,0.67,로다 클램프 배관 닛불 파손,로다 클램프 배관 닛불 파손 교체,1.7,25.9,6.56,Damaged rod clamp piping nitbullet,Roda Clamp Piping Nibul Damaged Replacement,back side,0.15,2.00151929,362.68,14.0030888
+2호기,후면,2016-09-03 00:00:00,08:30:00,17:30:00,540,9,교정기 파워헤드 메인 실린더 누유,교정기 파워헤드 메인 실린더 누유 패킹 교체,1.7,25.9,6.56,Calibrator power head main cylinder leak,Calibrator power head main cylinder oil leak packing replacement,back side,0.15,2.00151929,362.68,14.0030888
+2호기,후면,2016-09-03 00:00:00,17:30:00,21:00:00,210,3.5,P.H 보수작업.,"센서, 엔코더 부착 및 시운전 확인",1.7,25.9,6.56,P.H repair work.,Check sensor and encoder attachment and test run,back side,0.15,2.00151929,362.68,14.0030888
+2호기,후면,2016-09-21 00:00:00,01:30:00,02:20:00,50,0.83,모니터 이상으로 점검요청,카메라측 단자 고정 후 정상동작됨,1.7,25.9,6.56,Request for inspection due to monitor error,"After fixing the terminal on the camera side, it operates normally.",back side,0.15,2.00151929,362.68,14.0030888
+2호기,후면,2016-09-27 00:00:00,09:45:00,10:00:00,15,0.25,절단 판넬 PB S/W 간혈적으로 동작 불능,PB S/W (KH-513-2EA) 교체,1.7,25.9,6.56,Cutting panel PB S/W intermittently fails to operate,PB S/W (KH-513-2EA) replacement,back side,0.15,2.00151929,362.68,14.0030888
+2호기,후면,2016-09-27 00:00:00,09:30:00,09:40:00,10,0.17,스크랩덤프 DOWN 동작 불능,AIR S/V  DOWN 배선 접촉 불량으로 재접속,1.7,25.9,6.56,Scrapdump DOWN does not work,AIR S/V DOWN Reconnection due to poor wiring contact,back side,0.15,2.00151929,362.68,14.0030888
+2호기,후면,2016-09-02 00:00:00,09:50:00,10:10:00,20,0.33,GAUGE HEAD 전/후진 동작 불능, AIR S/V(SIV411-IP) 교체,1.7,25.9,6.56,GAUGE HEAD forward/backward operation not possible,AIR S/V(SIV411-IP) replacement,back side,0.15,2.00151929,362.68,14.0030888
+2호기,후면,2016-10-19 00:00:00,12:30:00,13:30:00,60,1,핫쏘우 실린더 및 지지봉 파손,"핫쏘우 실린더 및 지지봉  및 판
+교체 작업",1.05,35.5,2.95,Hot saw cylinder and support rod damaged,"Hot saw cylinder, support rod and plate
+replacement work",back side,0.15,1.90401929,426.4,12.01126761
+2호기,후면,2016-10-12 00:00:00,11:00:00,11:20:00,20,0.33,핫쏘우 클램프 에어 실린더 파손,"핫쏘우 클램프 에어 실린더 파손
+용접 수리",1.05,35.5,2.95,Hot saw clamp air cylinder damaged,"Hot saw clamp air cylinder damaged
+welding repair",back side,0.15,1.90401929,426.4,12.01126761
+2호기,후면,2016-10-13 00:00:00,17:00:00,17:15:00,15,0.25,"HOTSAW CLAMP UP상태에서 계속 하강 상승 
+반복됨","HOTSAW CLAMP UP/DOWN AIR S/V(SF5101-
+IP) 교체후 같은 현상 계속됨 (실린더측P/K 불량
+으로 공작반 수리요청)",1.05,35.5,2.95,"HOTSAW CLAMP Continues to descend and rise in UP state
+repeated","HOTSAW CLAMP UP/DOWN AIR S/V(SF5101-
+IP) The same phenomenon continues after replacement (cylinder side P/K defective)
+(Request repair work on machine tool)",back side,0.15,1.90401929,426.4,12.01126761
+2호기,후면,2016-10-13 00:00:00,16:00:00,16:15:00,15,0.25,"CYCLE START,STOP PB S/W 안눌리는 현상","CYCLE START,STOP PB S/W(KH-513,30Φ
+-2EA) 교체",1.05,35.5,2.95,"CYCLE START, STOP PB S/W not being pressed","CYCLE START,STOP PB S/W(KH-513,30Φ
+-2EA) Replacement",back side,0.15,1.90401929,426.4,12.01126761
+2호기,후면,2016-10-27 00:00:00,15:10:00,16:15:00,65,1.08,푸시벡 실린더 앞 커버 누유,"푸시벡 실린더 앞 커버 누유
+오링 교체",1.05,35.5,2.95,Pushback cylinder front cover leaking,"Pushback cylinder front cover leaking
+O-ring replacement",back side,0.15,1.90401929,426.4,12.01126761
+2호기,후면,2016-10-14 00:00:00,12:30:00,13:30:00,60,1,핫쏘우 클램프 실린더및 판 파손,핫쏘우 클램프 실린더 용접및 판 교체,1.05,35.5,2.95,Hot saw clamp cylinder and plate damage,Hot saw clamp cylinder welding and plate replacement,back side,0.15,1.90401929,426.4,12.01126761
+2호기,후면,2014-08-19 00:00:00,01:30:00,02:10:00,40,0.67,OP모니터 불능으로 점검요청,모니터 교체,11.92,90.6,0.95,Inspection request due to OP monitor failure,monitor replacement,back side,0.15,3.53451929,362.43,4.000331126
+2호기,후면,2014-08-30 00:00:00,10:33:00,10:49:00,16,0.27,테일헤드 조 실린더 커버 누유,오링 교체작업,11.92,90.6,0.95,Tail head jaw cylinder cover leaking,O-ring replacement work,back side,0.15,3.53451929,362.43,4.000331126
+2호기,후면,2014-10-04 00:00:00,06:50:00,07:18:00,20,0.33,스테카 횡행 정지 불능,저속 / 정지 센서 위치조정,7.58,52.8,1.92,Unable to stop Steca running,Low speed/stop sensor position adjustment,back side,0.15,2.88351929,422.67,8.005113636
+2호기,후면,2014-10-06 00:00:00,10:00:00,12:00:00,40,0.67,정지센서 잦은 이탈로 충돌,"브레이크 계속 ON되어있음, 
+인버터 AXA단자 PLC프로그램에서 삭제",7.58,52.8,1.92,Collisions due to frequent departure of stop sensors,"Brake remains on,
+Inverter AXA terminal deleted from PLC program",back side,0.15,2.88351929,422.67,8.005113636
+2호기,기타,6월30일,18:00:00,18:30:00,30,0.5,물류 공파레트 공c/v,무타 소손 예비품 교체작업,1.49,114.4,1.3,Logistics empty pallet empty c/v,Muta burnout spare parts replacement work,etc,0.06,0.788007716,457.66,4.000524476
+2호기,기타,2016-09-12 00:00:00,09:15:00,09:30:00,15,0.25,"빌레트크리너 클램프#2 UP감지 리드S/W 감지 
+불량으로 자동운전 불능","실린더 로드가 휘어 리드S/W 조정 하였으나 UP
+위치가 바뀌어 조정 불능 (공무반 실린더 로드 휨
+수리 요청)",1.7,25.9,6.56,"Billet cleaner clamp #2 UP detection lead S/W detection
+Automatic operation is not possible due to defects","The cylinder rod was bent and the lead S/W was adjusted, but it improved.
+Unable to adjust due to change in position (cylinder rod bending)
+repair request)",etc,0.06,0.800607716,362.68,14.0030888
+2호기,기타,2014-10-16 00:00:00,05:30:00,06:40:00,90,1.5,지브크레인 케이블 단선,집전자 3EA 교체 및 케이블 재 결속,7.58,52.8,1.92,Jib crane cable disconnection,Replacing current collector 3EA and reconnecting cables,etc,0.06,1.153407716,422.67,8.005113636
+3호기,압출기,1월29일,14:21:00,17:30:00,189,3.2,메인샤 버트로커 케이불 베어,고정 부라 켓트 파손 임시 조치 ,10.49,68.1,1,Main Sha Butt Locker Cable Bear,Temporary measures for damaged fixing bracket,extruder,0.35,7.746711677,401.23,5.891776799
+3호기,압출기,2월17일,13:50:00,15:40:00,110,1.8,메인2번 펌프 서보밸브,오일 오염으로 교체및 0점 조정,0.81,39,2.08,Main 2 pump servo valve,Replacement and zero point adjustment due to oil contamination,extruder,0.35,4.358711677,312.04,8.001025641
+3호기,압출기,2월18일,18:30:00,19:20:00,50,0.8,2번 메인 펌프 이상으로,차단 시킨 후 1-3번 만 사용,0.81,39,2.08,Above the 2nd main pump,"After blocking, use only 1-3 times",extruder,0.35,4.358711677,312.04,8.001025641
+3호기,압출기,2월18일,17:08:00,17:30:00,22,0.4,2번 서보 밸브 포텐샤메타,케이불 정검,0.81,39,2.08,No. 2 servo valve potentiometer,cable check,extruder,0.35,4.358711677,312.04,8.001025641
+3호기,압출기,2월19일,08:40:00,09:14:00,34,0.6,2번메인펌프 에러,속도 조절 불가능,0.81,39,2.08,No. 2 main pump error,Speed ​​cannot be adjusted,extruder,0.35,4.358711677,312.04,8.001025641
+3호기,압출기,2월22일,14:05:00,14:30:00,25,0.4,3번 메인펌프 서보 밸브,오일 오염 으로 교체,0.81,39,2.08,No. 3 main pump servo valve,Replaced due to oil contamination,extruder,0.35,4.358711677,312.04,8.001025641
+3호기,압출기,3월1일,01:30:00,02:20:00,50,0.8,오일 쿨러 냉각수 펌프,후드 밸브 교체 작업,0.89,19.4,4.6,oil cooler coolant pump,Hood valve replacement work,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월2일,19:20:00,21:09:00,109,1.8,메인샤 리미트 스위치 ,타치 도그장치 파손,0.89,19.4,4.6,Mainsha limit switch,Tach dog device damaged,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월8일,00:30:00,00:50:00,20,0.3,메인펌프 컨토롤 서보,밸브 교체,0.89,19.4,4.6,Main pump control server,valve replacement,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월9일,22:00:00,23:30:00,90,1.5,버트로커 케이불 부라켓,트 파손 교정후 용접 작업,0.89,19.4,4.6,Buttlocker cable bracket,Welding work after correction of damage,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월18일,09:50:00,11:47:00,117,2,빌레트 로더 안네 패드,고정 볼트 전 교체,0.89,19.4,4.6,Billet Loader Anne Pad,Replace all fixing bolts,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월19일,17:30:00,19:20:00,110,1.8,메인 전진 중 로더 부위 ,에서 정지 로더 하강 센서 조정 작업,0.89,19.4,4.6,Loader area during main advance,Stop loader lowering sensor adjustment work,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월22일,22:00:00,22:14:00,14,0.2,메인샤 리미트 고정 부라,켓트 고정작업,0.89,19.4,4.6,Mainsha limit fixed bra,Kit fixing work,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월22일,13:50:00,14:10:00,20,0.3,빌레트 로다 클럼프 센서,조정 작업,0.89,19.4,4.6,Billet Roda Clump Sensor,coordination work,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월28일,08:45:00,09:20:00,35,0.6,빌레트 로더 클럼프 ,센서 조정 작업,0.89,19.4,4.6,billet loader clump,Sensor adjustment operation,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월29일,02:00:00,04:40:00,160,2.7,버트 로커 실린다 누유,실린다 예비품 으로 교체,0.89,19.4,4.6,Butt locker silinda leakage,Replaced with Silinda spare part,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,3월30일,11:40:00,12:30:00,50,0.8,다이 클럼프 볼트 전단,전단된 볼트 제거 후 교체,0.89,19.4,4.6,Die Clump Bolt Shear,Remove and replace sheared bolts,extruder,0.35,4.386711677,406.69,20.96340206
+3호기,압출기,4월2일,02:12:00,03:09:00,57,1,메인샤 리미트 타치바 파손,교정 작업,0.78,15.9,4.89,Mainsha limit tachi bar damaged,proofreading work,extruder,0.35,4.348211677,317.18,19.94842767
+3호기,압출기,4월11일,19:50:00,23:52:00,242,4,버트샤 유압불럭 브라켓트,파손 분해후 제작 교체 작업,0.78,15.9,4.89,Butt Sha Hydraulic Block Bracket,Manufacturing and replacement work after damage and disassembly,extruder,0.35,4.348211677,317.18,19.94842767
+3호기,압출기,4월25일,13:50:00,14:20:00,30,0.5,메인샤 작동 不,리미트 고정볼트 풀림 조정 작업,0.78,15.9,4.89,Mainsha does not work,Limit fixing bolt loosening adjustment work,extruder,0.35,4.348211677,317.18,19.94842767
+3호기,압출기,4월26일,18:30:00,19:20:00,50,0.8,콘테이너 H불럭 누유,카트리지 카바 오링 교체 작업,0.78,15.9,4.89,Container H block oil leak,Cartridge cover o-ring replacement work,extruder,0.35,4.348211677,317.18,19.94842767
+3호기,압출기,4월28일,13:40:00,14:55:00,75,1.3,압출기 속도 조정 불합리,메인펌프 1~3번 0점 조정,0.78,15.9,4.89,Extruder speed adjustment unreasonable,Main pump 1~3 zero point adjustment,extruder,0.35,4.348211677,317.18,19.94842767
+3호기,압출기,5월2일,16:30:00,17:40:00,70,1.2,버트로커 리드 스위치 不,리드 스위치 교체 ,0.72,40.4,1.79,No buttlocker reed switch,reed switch replacement,extruder,0.35,4.327211677,363.43,8.995792079
+3호기,압출기,5월3일,23:00:00,23:08:00,8,0.1,메인 펌프 2번 동작 불,서보 밸브 교체후 작업,0.72,40.4,1.79,Main pump 2 operation not working,Work after servo valve replacement,extruder,0.35,4.327211677,363.43,8.995792079
+3호기,압출기,5월4일,23:45:00,23:55:00,10,0.2,ap인 펌프 1번 동작 불,서보 밸브 교체 후 작업,0.72,40.4,1.79,AP pump 1 does not work,Operations after servo valve replacement,extruder,0.35,4.327211677,363.43,8.995792079
+3호기,압출기,5월11일,08:30:00,09:10:00,40,0.7,콘테이너 불럭 누유,밸브 유량 조절밸브 오링 교체,0.72,40.4,1.79,container block leak,Valve flow control valve O-ring replacement,extruder,0.35,4.327211677,363.43,8.995792079
+3호기,압출기,5월27일,18:59:00,19:52:00,53,0.9,메인 펌프 1번 동작 不,서보 밸브 영점 작업 후 동작,0.72,40.4,1.79,Main pump 1 not operating,Operation after servo valve zero point operation,extruder,0.35,4.327211677,363.43,8.995792079
+3호기,압출기,6월6일,13:30:00,17:30:00,240,4,메인펌프 컨토롤 서보 밸브,오일 오염으로 동작 不,1.06,26.7,3.98,Main pump control servo valve,Not operating due to oil contamination,extruder,0.35,4.446211677,374.17,14.01385768
+3호기,압출기,6월7일,08:30:00,10:30:00,120,2,메인펌프 1~2번 서보 밸브,영점 조절 작업,1.06,26.7,3.98,Main pump 1~2 servo valve,Zero point operation,extruder,0.35,4.446211677,374.17,14.01385768
+3호기,압출기,6월9일,09:00:00,10:00:00,60,1,메인샤 버트로커 유압 호스,교체및 센서 가이드 조정 작업,1.06,26.7,3.98,Main Sha Butt Locker Hydraulic Hose,Replacement and sensor guide adjustment work,extruder,0.35,4.446211677,374.17,14.01385768
+3호기,압출기,6월13일,19:50:00,20:30:00,40,0.7,트렌스 베어 구동 롤라,고정 볼트 전 단 교체 작업,1.06,26.7,3.98,Trans Bear Drive Roller,Fixing bolt front end replacement work,extruder,0.35,4.446211677,374.17,14.01385768
+3호기,압출기,6월17일,22:40:00,23:15:00,35,0.6,빌레트 로다 UP후 기계 동작 ,에러 감지 센서 조정후 정상 작업,1.06,26.7,3.98,Machine operation after billet loader UP,Normal operation after error detection sensor adjustment,extruder,0.35,4.446211677,374.17,14.01385768
+3호기,압출기,6월23일,04:08:00,04:57:00,49,0.8,버트로커 부라켓트 파손,교정 후 볼트 교체 작업,1.06,26.7,3.98,Buttlocker bracket broken,Bolt replacement work after calibration,extruder,0.35,4.446211677,374.17,14.01385768
+3호기,압출기,7월7일,04:55:00,06:50:00,115,1.9,메인램 스트로크 엔코더,벨트 이탈로 거리값 틀러짐,1.44,51,2.83,Main ram stroke encoder,Distance value is incorrect due to belt deviation,extruder,0.35,4.579211677,357.16,7.003137255
+3호기,압출기,7월22일,07:20:00,08:20:00,60,1,SERVO VALVE 간혈적 ,동작 안됨 포텐샤 메타 배선 납땜,1.44,51,2.83,SERVO VALVE Intermittent,Doesn't work. Soldering the potentia meter wiring.,extruder,0.35,4.579211677,357.16,7.003137255
+3호기,압출기,7월28일,13:30:00,15:50:00,140,2.3,콘테이너 실린다 로드 페킹,오일 누유 심해 교체 작업,1.44,51,2.83,container cylinder rod packing,Severe oil leak replacement work,extruder,0.35,4.579211677,357.16,7.003137255
+3호기,압출기,7월8일,11:30:00,12:50:00,80,1.3,SERVO VALVE 오일 오염 ,밸브 교체 및 용접 조정,1.44,51,2.83,SERVO VALVE oil contamination,Valve replacement and weld adjustments,extruder,0.35,4.579211677,357.16,7.003137255
+3호기,압출기,8월8일,09:12:00,11:00:00,108,1.8,로더 충돌현상,보조로더 리드S/W 감지 교정,2.03,23.4,8.68,Loader crash phenomenon,Auxiliary loader lead S/W detection correction,extruder,0.35,4.785711677,351.5,15.02136752
+3호기,압출기,8월13일,08:45:00,11:23:00,158,2.6,로더판 파손,로더판 교정후 조립,2.03,23.4,8.68,Damaged loader plate,Assemble after calibrating the loader plate,extruder,0.35,4.785711677,351.5,15.02136752
+3호기,압출기,8월4일,08:30:00,17:00:00,510,8.5,"터치스크린 입력값 전체 ""0""표시",Power supply 교체,2.03,23.4,8.68,All touch screen input values ​​display “0”,Power supply replacement,extruder,0.35,4.785711677,351.5,15.02136752
+3호기,압출기,8월18일,03:49:00,05:30:00,101,1.7,로더판 볼트 파손,로더판 볼트 파손 교체,2.03,23.4,8.68,Loader plate bolt damaged,Replace damaged loader plate bolts,extruder,0.35,4.785711677,351.5,15.02136752
+3호기,압출기,8월27일,14:00:00,14:20:00,20,0.3,SCR 유닛 Fuse 소손,SCR 유닛 Fuse 교체 작업,2.03,23.4,8.68,SCR unit fuse burnt out,SCR unit fuse replacement work,extruder,0.35,4.785711677,351.5,15.02136752
+3호기,압출기,8월27일,08:30:00,15:30:00,420,7,컨테이너 중통 보수 작업,히터교체및 컨테이너 중통 보수,2.03,23.4,8.68,container repair work,Heater replacement and container maintenance,extruder,0.35,4.785711677,351.5,15.02136752
+3호기,압출기,8월8일,17:15:00,18:00:00,45,0.8,"메인램, 보조로더 충돌 현상",로더 위치 감지 s/w 가이드봉 고정,2.03,23.4,8.68,"Main RAM, auxiliary loader crash phenomenon",Loader position detection s/w guide rod fixation,extruder,0.35,4.785711677,351.5,15.02136752
+3호기,압출기,9월3일,04:27:00,05:30:00,63,1.1,빌레트 보조로다 에어 배관,파손 수정작업,1.02,69.1,1.48,Billet auxiliary rod air piping,Damage correction work,extruder,0.35,4.432211677,345.4,4.998552822
+3호기,압출기,9월8일,22:00:00,23:00:00,60,1,빌레트 로다 페드 고정 볼,트 전단 볼트 교체작업,1.02,69.1,1.48,Billet Roda Pad Fixed Ball,Shear bolt replacement work,extruder,0.35,4.432211677,345.4,4.998552822
+3호기,압출기,9월24일,06:10:00,06:50:00,40,0.7,빌레트 로다 상승 중 빌레트,낙하 로 솔 밸브 및 단자대 파손 ,1.02,69.1,1.48,Billet Roda Rising Billet,Sol valve and terminal block damaged by falling,extruder,0.35,4.432211677,345.4,4.998552822
+3호기,압출기,2016-09-07 00:00:00,11:30:00,12:00:00,30,0.5,빌레트로다 클램프 OPEN 후 메인램 전진 동작 불능,빌레트로다 클램프 리드S/W 고정 브라켓 교체 및 위치조정,0.87,24.7,3.53,"After opening the billettroda clamp, the main ram cannot move forward.",Billettroda clamp lead S/W fixing bracket replacement and position adjustment,extruder,0.35,4.379711677,345.4,13.98380567
+3호기,압출기,2016-09-08 00:00:00,22:00:00,23:00:00,60,1,로더판 체결 볼트 파손,로더판 체결 볼트 파손 제거및 체결,0.87,24.7,3.53,Damaged loader plate fastening bolt,Remove and tighten damaged loader plate fastening bolts,extruder,0.35,4.379711677,345.4,13.98380567
+3호기,압출기,2016-09-24 00:00:00,06:10:00,06:50:00,40,0.7,빌레트 낙하로 AIR SOL. 터미널 박스 고정 떨어짐.센서 누전.,AIR SOL 보수작업.,0.87,24.7,3.53,AIR SOL due to billet drop. Terminal box has fallen off. Sensor short circuit.,AIR SOL repair work.,extruder,0.35,4.379711677,345.4,13.98380567
+3호기,압출기,2016-09-29 00:00:00,13:35:00,13:50:00,15,0.3,빌레트 로다 NO.1 UP 완료후 메인램 전진 동작 불능,로다 NO.1 UP 감지 리드S/W 파손 교체,0.87,24.7,3.53,"After completion of billet loader NO.1 UP, main ram forward movement is not possible.",Roda NO.1 UP detection lead S/W damaged replacement,extruder,0.35,4.379711677,345.4,13.98380567
+3호기,압출기,2016-10-14 00:00:00,14:30:00,16:50:00,140,2.3,"BOLSTER PUSHER 전/후진 및 자동 운전시 
+MAIN RAM 전진 동작 불능","1.빌레트 로다 클램프 리드S/W 단선 교체
+2.BOLSTER PUSHER (L/S55)단선 교체
+3..BOLSTER PUSHER 유압S/V(DP)분해 
+정검후 정상 동작됨",1.16,29.9,3.87,"BOLSTER PUSHER Forward/Reverse and automatic operation
+MAIN RAM Forward movement not possible","1. Billet loader clamp lead S/W disconnection replacement
+2.BOLSTER PUSHER (L/S55) disconnection replacement
+3..BOLSTER PUSHER hydraulic S/V (DP) disassembly
+Normal operation after inspection",extruder,0.35,4.481211677,418.5,13.99665552
+3호기,압출기,2016-10-26 00:00:00,13:30:00,15:10:00,100,1.7,로더 클램프 및 축 휨 ,로더 클램프 및 축 휨 교정 작업및 축 교체,1.16,29.9,3.87,Loader clamp and shaft bending,Loader clamp and shaft bending correction work and shaft replacement,extruder,0.35,4.481211677,418.5,13.99665552
+3호기,압출기,2016-10-24 00:00:00,12:30:00,13:30:00,60,1,메인 펌프 오일 휠터 오염,메인 펌프 오일 휠터 오염 교체,1.16,29.9,3.87,Main pump oil filter contamination,Main pump oil filter contamination replacement,extruder,0.35,4.481211677,418.5,13.99665552
+3호기,압출기,2016-10-14 00:00:00,14:00:00,16:44:00,164,2.7,다이스 이송대 작동 안됨,쏠 밸브 청소,1.16,29.9,3.87,Dice feeder does not work,Cleaning the shoot valve,extruder,0.35,4.481211677,418.5,13.99665552
+3호기,압출기,2016-10-24 00:00:00,21:30:00,23:00:00,90,1.5,"자동운전중 메인로더하강완료, 메인로더 하강저속
+빠르게 동작되 메인로더 하강후 보조로더 상승안됨.","로더 하강 저속 100101 리미트S/W 고정 풀려 
+고정후 정상동작. ",1.16,29.9,3.87,"Main loader lowering completed during automatic operation, main loader lowering speed
+It operates quickly, but the auxiliary loader does not rise after the main loader lowers.","Loader descending at low speed 100101 Limit S/W fixed unlocked
+Normal operation after fixing.",extruder,0.35,4.481211677,418.5,13.99665552
+3호기,압출기,2016-10-17 00:00:00,09:00:00,09:10:00,10,0.2,빌렛트 로더 UP 동작 안되 점검요청.,로더 저속 17 → 22로 변경.,1.16,29.9,3.87,"Billet loader UP does not work, request inspection.",Loader low speed changed from 17 to 22.,extruder,0.35,4.481211677,418.5,13.99665552
+3호기,압출기,2016-11-04 00:00:00,13:30:00,20:30:00,420,7,콘테이너 실린더 누유,"콘테이너 실린더 누유 캡 나사산 파손
+해체가공 조립(외주 가공 수리)",2.97,122.8,2.42,container cylinder oil leak,"Container cylinder leakage cap thread damage
+Disassembly, processing and assembly (outsourced processing and repair)",extruder,0.35,5.114711677,368.5,3.000814332
+3호기,압출기,2014-08-04 00:00:00,08:30:00,12:30:00,240,4,"STEM 크랙현상, 교체작업",STEM 교체작업,18.75,18.5,83.96,"STEM crack phenomenon, replacement work",STEM replacement work,extruder,0.35,10.63771168,185.44,10.02378378
+3호기,압출기,2014-08-06 00:00:00,06:15:00,08:45:00,50,0.8,클램프 작동불능 및 처짐 현상,분해 조립 및 부싱 장착 후 정상 작동,18.75,18.5,83.96,Clamp inoperability and sagging phenomenon,"Normal operation after disassembly, assembly and bushing installation",extruder,0.35,10.63771168,185.44,10.02378378
+3호기,압출기,2014-08-11 00:00:00,10:48:00,12:30:00,85,1.4,로더 판 핀 이탈현상,핀 조정 작업,18.75,18.5,83.96,Loader plate pin separation phenomenon,pin adjustment operation,extruder,0.35,10.63771168,185.44,10.02378378
+3호기,압출기,2014-08-18 00:00:00,21:20:00,23:32:00,132,2.2,메인 버트샤 실린더 고정볼트 파손,해당 부위 용접,18.75,18.5,83.96,Main butt shaft cylinder fixing bolt damaged,Welding of the relevant area,extruder,0.35,10.63771168,185.44,10.02378378
+3호기,압출기,2014-08-19 00:00:00,05:10:00,05:30:00,20,0.3,로더 클램프 이탈,클램프 정위치 교정작업,18.75,18.5,83.96,Loader clamp breakaway,Clamp position correction work,extruder,0.35,10.63771168,185.44,10.02378378
+3호기,압출기,2014-09-03 00:00:00,15:35:00,16:15:00,40,0.7,푸셔 체인 파손,체인 파손부위 연결핀 재연결,4.67,31.6,2.82,Pusher chain broken,Reconnect the connection pin at the damaged part of the chain.,extruder,0.35,5.709711677,316.04,10.00126582
+3호기,압출기,2014-09-11 00:00:00,09:10:00,09:30:00,20,0.3,샤 날 가이드 볼트파손,파손볼트 분해 후 교체,4.67,31.6,2.82,Sharp blade guide bolt is damaged,Disassemble and replace damaged bolts,extruder,0.35,5.709711677,316.04,10.00126582
+3호기,압출기,2014-09-23 00:00:00,23:27:00,23:48:00,21,0.4,순간 정전 현상,간단한 점검후 재작동,4.67,31.6,2.82,momentary power outage,Restart after simple inspection,extruder,0.35,5.709711677,316.04,10.00126582
+3호기,압출기,2014-09-30 00:00:00,18:10:00,19:30:00,80,1.3,사이드실린더 누유,양 사이드 실린더 U-Packing교체,4.67,31.6,2.82,Side cylinder leak,Both side cylinder U-packing replacement,extruder,0.35,5.709711677,316.04,10.00126582
+3호기,압출기,2014-10-18 00:00:00,04:16:00,05:38:00,82,1.4,버트노커 실린더 파손,용접작업,12.43,50.2,2.05,Butt knocker cylinder damage,welding work,extruder,0.35,8.425711677,351.38,6.999601594
+3호기,압출기,2014-10-18 00:00:00,01:30:00,02:34:00,64,1.1,펌프 작동불능,서브밸브 교체작업,12.43,50.2,2.05,Pump inoperable,Sub valve replacement work,extruder,0.35,8.425711677,351.38,6.999601594
+3호기,압출기,2014-10-21 00:00:00,13:30:00,14:00:00,30,0.5,유압펌프 영점틀어짐,"유압펌프 1,2 영점조절",12.43,50.2,2.05,Hydraulic pump zero point misaligned,"Hydraulic pump 1,2 zero point adjustment",extruder,0.35,8.425711677,351.38,6.999601594
+3호기,압출기,2014-10-22 00:00:00,09:00:00,11:50:00,170,2.8,SERVO라인 헌팅현상,"AMP, GAIN 설정값 수정",12.43,50.2,2.05,SERVO line hunting phenomenon,"Modify AMP, GAIN settings",extruder,0.35,8.425711677,351.38,6.999601594
+3호기,압출기,2014-11-17 00:00:00,08:30:00,19:00:00,630,10.5,P2블럭 기능불량,"P2블럭 작동 불량 원인,블록 임시교체",11.53,60.1,3.91,P2 block malfunction,"Cause of P2 block malfunction, temporary block replacement",extruder,0.35,8.110711677,360.73,6.002163062
+3호기,압출기,2014-11-24 00:00:00,20:40:00,21:10:00,25,0.4,보조로더 하강 동작 불량,PLC프로그램 확인 및 리미트 S/W교정,11.53,60.1,3.91,Poor auxiliary loader lowering operation,Check PLC program and correct limit S/W,extruder,0.35,8.110711677,360.73,6.002163062
+3호기,압출기,2014-11-25 00:00:00,10:10:00,11:05:00,55,0.9,로더 안쪽 판볼트 파손,볼트 교체작업,11.53,60.1,3.91,The plate bolt inside the loader is damaged.,Bolt replacement work,extruder,0.35,8.110711677,360.73,6.002163062
+3호기,가열로,1월7일,05:20:00,05:50:00,30,0.5,트렌스 베어 상승 감지센서 不,감지 센서 교체후 정상 작업,0,30.7,2.4,Trans bearing rise detection sensor not working,Normal operation after replacement of detection sensor,heating furnace,0.25,2.910865483,401.23,13.06938111
+3호기,가열로,1월27일,13:30:00,14:00:00,30,0.5,빌레트 가열로 컴버션 부로워,푸즈 소손 교체 작업,0,30.7,2.4,Billet heating furnace compression blower,Fuse burnout replacement work,heating furnace,0.25,2.910865483,401.23,13.06938111
+3호기,가열로,2월15일,09:28:00,10:35:00,67,1.1,빌레트 가열로 푸샤 스프로,킷트 베아린볼트 이탈 제조립,0.81,39,2.08,Billet Heating Furnace Pusha Soup,Kit bearing bolt removal reassembly,heating furnace,0.25,3.113365483,312.04,8.001025641
+3호기,가열로,2월23일,10:45:00,11:15:00,30,0.5,빌레트 푸샤 체인 전단,체인 링크 교체 작업,0.81,39,2.08,Billet Pusha Chain Shear,chain link replacement,heating furnace,0.25,3.113365483,312.04,8.001025641
+3호기,가열로,3월9일,12:00:00,12:30:00,30,0.5,이젝트 실린다누유,예비품 실린다 교체 작업,0.89,19.4,4.6,Eject Silindanuyu,Spare parts loading replacement work,heating furnace,0.25,3.133365483,406.69,20.96340206
+3호기,가열로,3월9일,13:30:00,13:45:00,15,0.2,이젝트실린다 감지 센서,교체,0.89,19.4,4.6,Eject cylinder detection sensor,substitute,heating furnace,0.25,3.133365483,406.69,20.96340206
+3호기,가열로,3월11일,14:00:00,14:15:00,15,0.2,빌레트 길이 편차,엔커더 카풀러 교체후 정상,0.89,19.4,4.6,Billet length deviation,Normal after replacing encoder coupler,heating furnace,0.25,3.133365483,406.69,20.96340206
+3호기,가열로,3월31일,04:43:00,05:24:00,41,0.7,이젝트 실린다누유,실린다다 예비품으로 교체,0.89,19.4,4.6,Eject Silindanuyu,Replaced with a spare part,heating furnace,0.25,3.133365483,406.69,20.96340206
+3호기,가열로,4월8일,14:27:00,15:05:00,38,0.6,로그샤 이제트 실린다 누유,실린다 예비품 으로 교체작업,0.78,15.9,4.89,Rogsha Ijet Silinda Nuyu,Replacement work with Silinda spare parts,heating furnace,0.25,3.105865483,317.18,19.94842767
+3호기,가열로,4월26일,22:00:00,22:10:00,10,0.2,아세틸렌 점화 감지 리미트 ,스위치 조정 작업,0.78,15.9,4.89,Acetylene ignition detection limit,switch adjustment operation,heating furnace,0.25,3.105865483,317.18,19.94842767
+3호기,가열로,4월27일,03:15:00,04:55:00,100,1.7,빌레트 가열로 푸샤 스프로,킷트 베어링 파손 교체작업,0.78,15.9,4.89,Billet Heating Furnace Pusha Soup,Kit bearing damage replacement work,heating furnace,0.25,3.105865483,317.18,19.94842767
+3호기,가열로,4월28일,01:30:00,03:23:00,113,1.9,메인 펌프 1번 동작 不,서보 밸브 오일 오염으로 교체 작업,0.78,15.9,4.89,Main pump 1 not operating,Replacement work due to servo valve oil contamination,heating furnace,0.25,3.105865483,317.18,19.94842767
+3호기,가열로,4월29일,03:59:00,04:41:00,75,1.3,트렌스베어 기어드 모타 ,부레크 파손 교체작업,0.78,15.9,4.89,Transbear geared motor,Damaged bladder replacement work,heating furnace,0.25,3.105865483,317.18,19.94842767
+3호기,가열로,5월12일,06:30:00,07:20:00,50,0.8,빌레트 기장 에러 발생,컨토롤러 릿셋 후 정 상 작업,0.72,40.4,1.79,Billet entry error occurred,Normal operation after controller reset,heating furnace,0.25,3.090865483,363.43,8.995792079
+3호기,가열로,6월3일,08:48:00,10:12:00,84,1.4,로그샤 이젝트 실린다 누유,실린다 분해 후 페킹 교체작업,1.06,26.7,3.98,Logsha ejector cylinder leak,Packing replacement work after disassembling the cylinder,heating furnace,0.25,3.175865483,374.17,14.01385768
+3호기,가열로,6월18일,07:15:00,08:00:00,45,0.8,가열로 푸샤 체인 연결핀 전단,체인 연결 핀 교체 작업,1.06,26.7,3.98,Heated pusha chain connection pin shear,Chain link pin replacement work,heating furnace,0.25,3.175865483,374.17,14.01385768
+3호기,가열로,6월24일,11:12:00,11:40:00,28,0.5,트렌스 베어 바디 체결 볼트,전단 볼트 교체 작업,1.06,26.7,3.98,Trans bare body fastening bolt,Shear bolt replacement work,heating furnace,0.25,3.175865483,374.17,14.01385768
+3호기,가열로,6월24일,09:10:00,09:27:00,17,0.3,트렌스 베어 하단 체인 스,프로킷트 위치 이탈 교정 작업,1.06,26.7,3.98,TRANS BEAR BOTTOM CHAINS,Prokit positional deviation correction work,heating furnace,0.25,3.175865483,374.17,14.01385768
+3호기,가열로,8월17일,03:30:00,03:45:00,15,0.3,크래들 동작안됨,푸시백 실린더 후진단 감지 리드 S/W 고정 불량으로 교체,2.03,23.4,8.68,Cradle does not work,Pushback cylinder reverse end detection lead S/W replaced due to defective fixation,heating furnace,0.25,3.418365483,351.5,15.02136752
+3호기,가열로,8월17일,04:19:00,05:30:00,71,1.2,로그샤 사이드 유압 파이프 볼트 파손,볼트 및 오링 교체,2.03,23.4,8.68,Logsha side hydraulic pipe bolt broken,Bolt and O-ring replacement,heating furnace,0.25,3.418365483,351.5,15.02136752
+3호기,가열로,8월17일,11:30:00,12:30:00,60,1,푸셔 계속 전진되는 현상,빌레트 유무 확인 광화이바 센서 브라켓 교정,2.03,23.4,8.68,Pusher keeps moving forward,Checking for presence of billet Calibration of optical fiber sensor bracket,heating furnace,0.25,3.418365483,351.5,15.02136752
+3호기,가열로,8월13일,06:30:00,08:45:00,135,2.3,ZONE#1 파이로트 점화 불능,점화 플러그 파손분 교체등,2.03,23.4,8.68,ZONE#1 Pilot ignition disabled,"Replacement of damaged spark plugs, etc.",heating furnace,0.25,3.418365483,351.5,15.02136752
+3호기,가열로,8월16일,20:30:00,22:47:00,137,2.3,푸시백 실린더 누유,교체,2.03,23.4,8.68,Pushback cylinder leak,substitute,heating furnace,0.25,3.418365483,315.5,13.48290598
+3호기,가열로,9월3일,18:00:00,19:20:00,80,1.3,빌레트 가열로 출구측,배선 열화 로 교체 작업,1.02,69.1,1.48,Billet heating furnace outlet side,Replacement work due to deteriorated wiring,heating furnace,0.25,3.165865483,345.4,4.998552822
+3호기,가열로,9월28일,04:30:00,05:30:00,60,1,로그샤 크레들 실린다 고정,볼트 풀림 고정 작업,1.02,69.1,1.48,Roguesha cradle cylinder fixing,Bolt loosening fixing work,heating furnace,0.25,3.165865483,345.4,4.998552822
+3호기,가열로,2016-09-28 00:00:00,04:30:00,05:30:00,60,1,크레들 실린더 고정 볼트 풀림,로드핀 해체후 체결,0.87,24.7,3.53,Cradle cylinder fixing bolt loosened,Fastening after dismantling the load pin,heating furnace,0.25,3.128365483,345.4,13.98380567
+3호기,가열로,2016-09-03 00:00:00,17:30:00,19:20:00,110,1.8,로그샤 출구측 배선 열화로 오동작.,센서 배선측 케이블 3M교체작업,0.87,24.7,3.53,Malfunction due to deterioration of wiring at logsha outlet side.,Sensor wiring side cable 3M replacement work,heating furnace,0.25,3.128365483,345.4,13.98380567
+3호기,가열로,2016-09-08 00:00:00,07:55:00,08:10:00,15,0.2,ZONE#3 애자 파손 교체 요청,열전대 휨 교정 및 애자(4홀) 교체,0.87,24.7,3.53,ZONE#3 Request for replacement of damaged insulator,Correction of thermocouple bending and replacement of insulator (4 holes),heating furnace,0.25,3.128365483,345.4,13.98380567
+3호기,가열로,2016-10-05 00:00:00,21:00:00,21:15:00,15,0.2,ZONE#2 열전대 부러져 온도 감지 불능,ZONE#2 열전대 끝단 연마 가공후 길이조절,1.16,29.9,3.87,ZONE#2 Thermocouple is broken and cannot detect temperature.,ZONE#2 Adjust the length after polishing the end of the thermocouple,heating furnace,0.25,3.200865483,418.5,13.99665552
+3호기,가열로,2016-10-17 00:00:00,12:15:00,12:25:00,10,0.2,ZONE#4 온도 표시 안됨.,보상도선 단선으로 단선부위 제거 후 정상동작,1.16,29.9,3.87,ZONE#4 temperature not displayed.,Normal operation after removal of disconnection due to disconnection of compensation conductor,heating furnace,0.25,3.200865483,418.5,13.99665552
+3호기,가열로,2016-10-24 00:00:00,14:00:00,14:20:00,20,0.3,이형재 분사장치 약품 분사 불능,"S/V 확인 이상 없음 S/V 출구 호스니쁠 막힘으로 
+AIR 이용 분해청소후 복구",1.16,29.9,3.87,Release material injection device cannot spray chemicals,"Check S/V. No problem. S/V outlet hose nipple is clogged.
+Recovery after disassembly and cleaning using AIR",heating furnace,0.25,3.200865483,418.5,13.99665552
+3호기,가열로,2016-11-25 00:00:00,03:07:00,04:41:00,94,1.6,이젝트 실린더,누유교체,2.97,122.8,2.42,eject cylinder,Oil leak replacement,heating furnace,0.25,3.653365483,368.5,3.000814332
+3호기,가열로,2014-08-12 00:00:00,03:00:00,03:40:00,40,0.7,빌레트 콜 기능 불능,"로그파일 점검후 동작되나 
+M/M동작은 불능이라 임시사용중",18.75,18.5,83.96,Billet call function disabled,"Does it work after checking the log file?
+M/M operation is not possible, so it is being used temporarily.",heating furnace,0.25,7.598365483,185.44,10.02378378
+3호기,가열로,2014-08-12 00:00:00,01:30:00,03:00:00,90,1.5,빌레트 가열로 퍼지 동작 안됨,HOT JET FAN M/M교체 후 퍼지정상작동,18.75,18.5,83.96,Purge does not work due to billet heating,Normal purge operation after HOT JET FAN M/M replacement,heating furnace,0.25,7.598365483,185.44,10.02378378
+3호기,가열로,2014-09-01 00:00:00,08:30:00,08:50:00,20,0.3,probe존 파일럿점화불능,"점화플러그 파손, 교체 및 
+점화플러그 케이블 재 연결",4.67,31.6,2.82,Probe zone pilot ignition disabled,"Spark plug damage, replacement and
+Reconnect spark plug cable",heating furnace,0.25,4.078365483,316.04,10.00126582
+3호기,가열로,2014-10-07 00:00:00,08:40:00,09:00:00,15,0.3,O/P판넬 통신에러,통신 케이블 접촉 불량,12.43,50.2,2.05,O/P panel communication error,Poor communication cable contact,heating furnace,0.25,6.018365483,351.38,6.999601594
+3호기,가열로,2014-11-07 00:00:00,13:40:00,14:55:00,60,1,"이젝트, 푸쉬백 동작 불능","샤 하강완료 리미트 S/W 소손으로 교체
+SZL-WL c-BLE 및 PLC프로그램 점검",11.53,60.1,3.91,"Eject, pushback not working","Sha descent completion limit S/W replaced due to burnout
+SZL-WL c-BLE and PLC program inspection",heating furnace,0.25,5.793365483,360.73,6.002163062
+3호기,풀러,5월24일,11:40:00,11:50:00,10,0.2,풀러 작업 중 에러,트레이 미동 작으로 리미트 교체,0.72,40.4,1.79,Error during puller operation,Limit replacement due to tray not operating,fuller,0.09,1.112711574,363.43,8.995792079
+3호기,풀러,7월13일,13:30:00,14:00:00,30,0.5,풀러 안전 센서 감지 불,  센서 위 이물질 제거 후 정상 작업,1.44,51,2.83,Fuller safety sensor detects fire,Normal operation after removing foreign substances on the sensor,fuller,0.09,1.177511574,357.16,7.003137255
+3호기,풀러,2016-10-12 00:00:00,21:00:00,21:15:00,15,0.2,풀러 자동동작 불능으로 점검요청,리미트 S/W 고정 후 정상동작,1.16,29.9,3.87,Request for inspection due to automatic puller operation failure,Normal operation after fixing limit S/W,fuller,0.09,1.152311574,418.5,13.99665552
+3호기,풀러,2014-09-30 00:00:00,22:00:00,23:00:00,60,1,풀러 동작불능,집진자 이탈 및 단선으로 재연결 후 정상동작,4.67,31.6,2.82,Puller not working,Normal operation after dust collector separation and reconnection due to disconnection,fuller,0.09,1.468211574,316.04,10.00126582
+3호기,핫쏘,1월14일,07:30:00,08:00:00,30,0.5,HOT SAW MOTOR 과부하 트립,유압펌프 압력 조절 후 작업,0,30.7,2.4,HOT SAW MOTOR OVERLOAD TRIP,Work after adjusting hydraulic pump pressure,Hasso,0.1,1.164346193,401.23,13.06938111
+3호기,핫쏘,5월16일,19:28:00,19:50:00,22,0.4,HOT SAW박스 볼트 풀림,볼트 풀림 조임 작업,0.72,40.4,1.79,HOT SAW box bolt loosened,Bolt loosening and tightening work,Hasso,0.1,1.236346193,363.43,8.995792079
+3호기,핫쏘,5월26일,10:30:00,12:30:00,120,2,hot saw clamp 센서 감지不,케이불 일부 교체 작업,0.72,40.4,1.79,hot saw clamp sensor not detected,Partial cable replacement work,Hasso,0.1,1.236346193,363.43,8.995792079
+3호기,핫쏘,6월11일,14:10:00,15:13:00,63,1.1,HOT SAW SHAFT 마모,예비품 으로 교체 작업,1.06,26.7,3.98,HOT SAW SHAFT Wear,Replacement work with spare parts,Hasso,0.1,1.270346193,374.17,14.01385768
+3호기,핫쏘,6월28일,13:50:00,14:47:00,57,0.9,HOT SAW 베아링 마모,베아링 교체 후 정상 작업,1.06,26.7,3.98,HOT SAW bearing wear,Normal operation after bearing replacement,Hasso,0.1,1.270346193,374.17,14.01385768
+3호기,핫쏘,2014-09-27 00:00:00,10:10:00,12:20:00,130,2.2,유압 작동 불능,유압 펌프 중고품 교체작업,4.67,31.6,2.82,Hydraulic inoperability,Hydraulic pump used product replacement work,Hasso,0.1,1.631346193,316.04,10.00126582
+3호기,후면,1월7일,06:30:00,06:45:00,15,0.3,교정기 판넬CPTRIP,ON/OFF후 정상 동작,0,30.7,2.4,Calibrator panelCPTRIP,Normal operation after ON/OFF,back side,0.15,1.74651929,401.23,13.06938111
+3호기,후면,4월8일,16:30:00,17:30:00,60,1,엔드 쏘 하강 감지센서 에러,센서 조정 작업,0.78,15.9,4.89,End saw lowering detection sensor error,Sensor adjustment operation,back side,0.15,1.86351929,317.18,19.94842767
+3호기,후면,4월28일,23:40:00,23:55:00,15,0.2,교정기 테일헤드 동작 不,안전 센서 에러 교정 작업,0.78,15.9,4.89,Corrector tail head not operating,Safety sensor error correction work,back side,0.15,1.86351929,317.18,19.94842767
+3호기,후면,6월3일,11:00:00,11:30:00,30,0.5,교정기 안전센서 계속 감지,감지 센소 조정 후 정상 작업,1.06,26.7,3.98,Calibrator safety sensor continues to detect,Normal operation after adjusting the detection sensor,back side,0.15,1.90551929,374.17,14.01385768
+3호기,후면,6월28일,14:00:00,14:20:00,20,0.3,하이템포 콘베어 동작 不,인버터 알람 발생 리셋 후 동작,1.06,26.7,3.98,High tempo conveyor not operating,Operation after inverter alarm occurrence reset,back side,0.15,1.90551929,374.17,14.01385768
+3호기,후면,7월11일,15:00:00,15:40:00,40,0.7,SAW FEED C/V 동작 불,UP 센서 감지 불 교정 작업,1.44,51,2.83,SAW FEED C/V operation not working,UP sensor detects fault correction action,back side,0.15,1.96251929,357.16,7.003137255
+3호기,후면,7월23일,04:07:00,06:30:00,143,2.4,스텍카 겐트리 엘레베이타,인버터 알람 발생 원인 파악 제거,1.44,51,2.83,Stacka Gantry Elevator,Identify the cause of the inverter alarm and eliminate it,back side,0.15,1.96251929,357.16,7.003137255
+3호기,후면,8월24일,13:40:00,13:50:00,10,0.2,퀜칭펌프 Sol' fuse 파손,Fuse 교체,2.03,23.4,8.68,Quenching pump Sol' fuse damaged,Fuse replacement,back side,0.15,2.05101929,315.5,13.48290598
+3호기,후면,8월22일,11:10:00,11:26:00,16,0.3,Runout table up/down 안됨,센서 이물질 제거후 동작,2.03,23.4,8.68,Runout table up/down does not work,Operation after removing sensor foreign matter,back side,0.15,2.05101929,315.5,13.48290598
+3호기,후면,8월18일,03:00:00,03:10:00,10,0.2,Discharge C/V 동작안됨,릴레이 고정불량으로 고정후 정상동작,2.03,23.4,8.68,Discharge C/V not working,Normal operation after fixing due to defective relay,back side,0.15,2.05101929,315.5,13.48290598
+3호기,후면,2016-09-22 00:00:00,19:23:00,21:30:00,127,2.1,후면 숏피드 구동 모터 동작 안됨,대체 교체및 스프라켓 맞춤 작업,0.87,24.7,3.53,Rear short feed drive motor does not operate,Substitution replacement and sprocket customization work,back side,0.15,1.87701929,345.4,13.98380567
+3호기,후면,2016-09-19 00:00:00,21:00:00,21:15:00,15,0.2,MID TEMP C/V 자동운전시 정지 안됨,말굽형 센서 이물질 제거후 정상동작,0.87,24.7,3.53,MID TEMP C/V does not stop during automatic operation,Horseshoe type sensor operates normally after removing foreign substances.,back side,0.15,1.87701929,345.4,13.98380567
+3호기,후면,2016-09-26 00:00:00,12:30:00,13:50:00,80,1.3,빌레트 넘김 장치 쏠 블럭 크렉 누유,빌레트 넘김 장치 쏠 블럭 크렉 누유 교체작업,0.87,24.7,3.53,Billet flipping device sole block crack leak,Billet flipping device saw block crack oil leak replacement work,back side,0.15,1.87701929,345.4,13.98380567
+3호기,후면,2016-09-03 00:00:00,04:27:00,05:30:00,63,1.1,보조 로더 배관 파손,보조 로더 배관 파손 교체 체결,0.87,24.7,3.53,Auxiliary loader pipe damage,Auxiliary loader pipe damage replacement and fastening,back side,0.15,1.87701929,345.4,13.98380567
+3호기,후면,2016-09-26 00:00:00,18:30:00,19:30:00,60,1,후면 SAW-FEEDER 구동불가,후면 SAW-FEEDER MOTOR 소손으로 수리/입고,0.87,24.7,3.53,Rear SAW-FEEDER cannot be operated,Rear SAW-FEEDER MOTOR damaged and repaired/received,back side,0.15,1.87701929,345.4,13.98380567
+3호기,후면,2016-09-24 00:00:00,21:10:00,21:40:00,30,0.5,파워해드 조 상/하/전/후 4방향 레버스위치 소손,LVL-4M-11 1EA교체,0.87,24.7,3.53,Power head up/down/front/back 4-way lever switch burned out,LVL-4M-11 1EA replacement,back side,0.15,1.87701929,345.4,13.98380567
+3호기,후면,2016-09-02 00:00:00,19:30:00,20:00:00,30,0.5,TAIL HEAD JAW DOWN 동작 불능,분해 청소 및 센서부 보호카바(판) 교체,0.87,24.7,3.53,TAIL HEAD JAW DOWN does not work,Disassembly and cleaning and replacement of sensor protection cover (plate),back side,0.15,1.87701929,345.4,13.98380567
+3호기,후면,2016-10-24 00:00:00,17:30:00,18:10:00,40,0.7,핫쏘우 리프트 실린더 작동 안됨,핫쏘우 리프트 실린더 작동 안됨 교체,1.16,29.9,3.87,Hot saw lift cylinder not working,Hot saw lift cylinder not working replace,back side,0.15,1.92051929,418.5,13.99665552
+3호기,후면,2016-10-28 00:00:00,03:15:00,03:25:00,10,0.2,HI TEMP C/V 구동안됨.,체인이탈로 조치요청.,1.16,29.9,3.87,HI TEMP C/V not running.,Request for action due to chain breakage.,back side,0.15,1.92051929,418.5,13.99665552
+3호기,후면,2016-10-06 00:00:00,12:20:00,13:10:00,50,0.8,UP/DOWN E/V MOTOR 소음발생으로 점검요청,"브레이크 패드 교체, 저속 10HZ→20HZ변경.",1.16,29.9,3.87,Request for inspection due to UP/DOWN E/V MOTOR noise,"Brake pad replacement, low speed change from 10HZ to 20HZ.",back side,0.15,1.92051929,418.5,13.99665552
+3호기,후면,2014-08-05 00:00:00,03:50:00,04:11:00,21,0.4,핸들링 3호기 Hi TEMP C/V작동불능,"HI TEMP C/V인버터 알람발생, 해제후 정상작동",18.75,18.5,83.96,Handling Unit 3 Hi TEMP C/V inoperable,"HI TEMP C/V inverter alarm occurs, normal operation after release",back side,0.15,4.55901929,185.44,10.02378378
+3호기,후면,2014-08-11 00:00:00,14:00:00,14:15:00,10,0.2,HI TEMP C/V작동불능,HI TEMP C/V인버터 과부하로 RESET,18.75,18.5,83.96,HI TEMP C/V inoperable,HI TEMP RESET due to C/V inverter overload,back side,0.15,4.55901929,185.44,10.02378378
+3호기,후면,2014-09-06 00:00:00,23:20:00,00:45:00,70,1.2,정렬 c/v작동 불능,"fuse frs-r-3 2/10 amp 2ea교체 및
+인버터 소손으로 교체, L7-2마력 및 
+파라메타 값 입력 후 정상작동",4.67,31.6,2.82,Align c/v not working,"fuse frs-r-3 2/10 amp 2ea replacement and
+Replaced due to inverter burnout, L7-2 horsepower and
+Normal operation after entering parameter values",back side,0.15,2.44701929,316.04,10.00126582
+3호기,후면,2014-09-25 00:00:00,01:45:00,02:30:00,45,0.8,클램프 레규레이터 파손,레규레이터 교체작업,4.67,31.6,2.82,Clamp regulator broken,Regulator replacement work,back side,0.15,2.44701929,316.04,10.00126582
+3호기,후면,2014-09-26 00:00:00,08:30:00,09:15:00,45,0.8,상/하 클럼프 동작불능,브래킷 교정 및 센서위치 교정 후 정상동작,4.67,31.6,2.82,Up/down clump not working,Normal operation after bracket calibration and sensor position calibration,back side,0.15,2.44701929,316.04,10.00126582
+3호기,후면,2014-10-13 00:00:00,21:40:00,21:50:00,10,0.2,톱날 전진 불능,도어 L/S에어 청소 후 정상동작,12.43,50.2,2.05,Saw blade cannot advance,Normal operation after cleaning door L/S air,back side,0.15,3.61101929,351.38,6.999601594
+3호기,후면,2014-10-17 00:00:00,16:00:00,19:20:00,60,1,절단기 절단이상,"SAW상승 카운터 값의 이상신호로 절단
+불량 발생",12.43,50.2,2.05,Cutter cutting error,"Cut off due to abnormal signal of SAW rising counter value
+defect occurred",back side,0.15,3.61101929,351.38,6.999601594
+3호기,후면,2014-11-21 00:00:00,17:00:00,20:00:00,60,1,톱날 하강 동작 이상,하강 감지 리미트 스위치 교정작업,11.53,60.1,3.91,Abnormal saw blade lowering motion,Fall detection limit switch calibration work,back side,0.15,3.47601929,360.73,6.002163062
+3호기,후면,2014-11-26 00:00:00,21:30:00,22:00:00,15,0.3,톱날 절단 후 후진 불능,감지봉 교정,11.53,60.1,3.91,Unable to retract after cutting the saw blade,Sensing rod calibration,back side,0.15,3.47601929,360.73,6.002163062
+3호기,기타,4월11일,09:00:00,09:10:00,10,0.2,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,H-9 VCB OCR TRIP,RESET,etc,0.06,0.745407716,317.18,19.94842767
+3호기,기타,4월12일,19:43:00,19:50:00,7,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,H-9 VCB OCR TRIP,RESET,etc,0.06,0.745407716,317.18,19.94842767
+3호기,기타,4월12일,16:22:00,16:30:00,8,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,H-9 VCB OCR TRIP,RESET,etc,0.06,0.745407716,317.18,19.94842767
+3호기,기타,4월12일,14:09:00,14:20:00,11,0.2,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,H-9 VCB OCR TRIP,RESET,etc,0.06,0.745407716,317.18,19.94842767
+3호기,기타,4월12일,12:23:00,12:30:00,7,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,H-9 VCB OCR TRIP,RESET,etc,0.06,0.745407716,317.18,19.94842767
+3호기,기타,4월18일,23:10:00,23:15:00,5,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,H-9 VCB OCR TRIP,RESET,etc,0.06,0.745407716,317.18,19.94842767
+3호기,기타,4월19일,21:18:00,21:25:00,7,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,H-9 VCB OCR TRIP,RESET,etc,0.06,0.745407716,317.18,19.94842767
+3호기,기타,4월21일,06:58:00,07:05:00,7,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,H-9 VCB OCR TRIP,RESET,etc,0.06,0.745407716,317.18,19.94842767
+4호기,압출기,1월17일,03:40:00,07:10:00,210,3.5,AUX PUMP MOTOR  ,베어링 교체 작업,1.88,68.7,2.74,AUX PUMP MOTOR,Bearing replacement work,extruder,0.35,4.733211677,412.43,6.003347889
+4호기,압출기,2월19일,13:40:00,16:40:00,180,3,오일쿨러 냉각수 펌프 고장,냉각수 펌프 베아링 교체 및 씰 교체,1.77,120.1,1.47,Oil cooler coolant pump failure,Coolant pump bearing replacement and seal replacement,extruder,0.35,4.694711677,360.26,2.999666944
+4호기,압출기,3월13일,06:45:00,07:20:00,35,0.6,트렌스 베어 동작 不,리미트 스위치 교체 작업,0.35,115.9,0.3,Trans bear not operating,Limit switch replacement work,extruder,0.35,4.197711677,463.78,4.001553063
+4호기,압출기,4월5일,09:20:00,09:25:00,5,0.1,오피 판넬 사이클 스위치 ,교체 작업,0.68,31.5,2.15,Office panel cycle switch,replacement work,extruder,0.35,4.313211677,377.57,11.98634921
+4호기,압출기,4월6일,11:30:00,12:15:00,45,0.7,콘테이너 히타 온도 상 승 不,전기 마그넥틱 교체작업,0.68,31.5,2.15,Container heater temperature does not rise,Electric magnetic replacement work,extruder,0.35,4.313211677,377.57,11.98634921
+4호기,압출기,7월4일,08:30:00,09:55:00,85,1.4,콘테이너 중 통 교체 후 슬,리부 로다 간 걸림 임시 걸림 해제 작업,1.02,79.8,1.28,Alcohol after replacing the container,Temporary jam removal operation between ribu rodda,extruder,0.35,4.432211677,399.13,5.001629073
+4호기,압출기,8월17일,04:30:00,05:15:00,45,0.8,메인실린다 후진 不,PLC 카드 접점 소손 으로 예비품 으로 교체,1.03,39.2,2.63,Main cylinder not retracting,"PLC card contacts burned out, replaced with spare parts",extruder,0.35,4.435711677,391.6,9.989795918
+4호기,압출기,8월31일,08:55:00,10:10:00,75,1.3,콘테이너 불럭 파일롯트,배관 PT닛뿔 전단 구입 후 교체 작업,1.03,39.2,2.63,container block pilot,Replacement work after purchasing the piping PT unit horn leaflet,extruder,0.35,4.435711677,391.6,9.989795918
+4호기,압출기,2016-09-05 00:00:00,10:00:00,11:30:00,90,1.5,트랜스베어 하강후 상승 동작 불능,트랜스베어에서 압출기 빌렛트 넘김시 빌렛트 감지 포토 센서 이상으로 교체KPS-AP500교체,0.8,36.2,2.21,Upward operation is not possible after the transbear is lowered.,Replace KPS-AP500 due to abnormal billet detection photo sensor when passing the extruder billet in Transbear.,extruder,0.35,4.355211677,397.8,10.98895028
+4호기,압출기,2016-09-06 00:00:00,00:30:00,01:30:00,60,1,메인 램 유압 배관 크랙 누유,메인 램 유압 배관 크랙 누유 용접 수리,0.8,36.2,2.21,Main ram hydraulic pipe crack leak,Main ram hydraulic pipe crack leak welding repair,extruder,0.35,4.355211677,397.8,10.98895028
+4호기,압출기,9/7,11:00:00,11:10:00,10,0.2,콘테이너히터 온도상승 불능,차단기 TRIP으로 복구 후 정상동작.,0.8,36.2,2.21,Container heater temperature cannot rise,Normal operation after recovery with circuit breaker trip.,extruder,0.35,4.355211677,397.8,10.98895028
+4호기,압출기,2016-10-06 00:00:00,13:50:00,16:25:00,155,2.6,메인램 누유,아답터 교체작업(파레트 부족 ),0.95,34.6,2.75,Main RAM leak,Adapter replacement work (lack of pallets),extruder,0.35,4.407711677,450.1,13.00867052
+4호기,압출기,2016-10-25 00:00:00,23:30:00,23:40:00,10,0.2,콘테이너 온도센서 단자대측 단선으로 연결요청,단선부위 연결후 정상동작,0.95,34.6,2.75,Connection request due to disconnection on container temperature sensor terminal block,Normal operation after connecting broken wire,extruder,0.35,4.407711677,450.1,13.00867052
+4호기,압출기,2014-08-07 00:00:00,01:45:00,04:15:00,150,2.5,STEM 더미볼트 파손,더미볼트 교체,7.34,56.1,2.08,STEM dummy bolt damaged,Dummy bolt replacement,extruder,0.35,6.644211677,336.47,5.997682709
+4호기,압출기,2014-09-03 00:00:00,03:10:00,05:30:00,140,2.3,컨테이너 후진동작 불능,릴리프 교체 및 컨테이너 리미트 교체,5.02,43.7,2.83,Container cannot move backwards,Relief replacement and container limit replacement,extruder,0.35,5.832211677,390.02,8.924942792
+4호기,압출기,2014-09-18 00:00:00,08:30:00,11:10:00,160,2.7,메인 램 누유,패킹 교체작업,5.02,43.7,2.83,Main ram leak,Packing replacement work,extruder,0.35,5.832211677,390.02,8.924942792
+4호기,압출기,2014-09-23 00:00:00,23:27:00,23:48:00,21,0.4,순간 정전현상,간단한 점검후 재작동,5.02,43.7,2.83,momentary power outage,Restart after simple inspection,extruder,0.35,5.832211677,390.02,8.924942792
+4호기,압출기,2014-11-09 00:00:00,21:25:00,00:20:00,175,2.9,자동 운전 불능,"자/수동 셀렉터 S/W 불량교체
+CYCLE STOP PB S/W 점검",10.21,92.7,5.18,automatic driving disabled,"Replace defective magnetic/manual selector S/W
+CYCLE STOP PB S/W inspection",extruder,0.35,7.648711677,370.82,4.00021575
+4호기,압출기,2014-11-27 00:00:00,06:40:00,08:30:00,110,1.8,트렌스베어 베어링파손,베어링 교체 및 시운전,10.21,92.7,5.18,Transformer bearing damage,Bearing replacement and commissioning,extruder,0.35,7.648711677,370.82,4.00021575
+4호기,가열로,1월19일,10:05:00,10:40:00,35,0.6,로그샤 하강 S/V 프즈 정검,PLC 출력 무 전원 ON/OFF 후 정상 동작,1.88,68.7,2.74,Logsha descent S/V fuse inspection,Normal operation after PLC output power ON/OFF,heating furnace,0.25,3.380865483,412.43,6.003347889
+4호기,가열로,1월20일,10:55:00,12:00:00,65,1.1,로그샤 푸시백 실린다 누유,유압 실린다 교체(예비품),1.88,68.7,2.74,Logsha pushback cylinder leakage,Hydraulic cylinder replacement (spare part),heating furnace,0.25,3.380865483,412.43,6.003347889
+4호기,가열로,3월17일,22:30:00,22:50:00,20,0.3,로그샤 스토리지 클럼프 ,하강 알람 원인 파악 및 해제 작업,0.35,115.9,0.3,Logsha Storage Clump,Determine the cause of the descent alarm and take action to clear it,heating furnace,0.25,2.998365483,463.78,4.001553063
+4호기,가열로,4월27일,23:40:00,05:00:00,320,5.3,빌레트 가열로 빌레트 가열로,레일 에서 탈선  프르브 위치 조정 작업,0.68,31.5,2.15,Billet heating furnace Billet heating furnace,Adjusting the position of the derailment probe on the rail,heating furnace,0.25,3.080865483,377.57,11.98634921
+4호기,가열로,4월28일,01:30:00,02:30:00,60,1,빌레트 가열로 레일 불럭 파손,레일 부라켓트 부식 으로 탈선 고정 작업,0.68,31.5,2.15,Damage to rail blocks due to billet heating,Fixing derailment due to corrosion of rail brackets,heating furnace,0.25,3.080865483,377.57,11.98634921
+4호기,가열로,6월30일,18:30:00,19:00:00,30,0.5,이젝트 시린다 누유,예비품 실린다 교체작업,1,98.8,1.01,Eject cold leaking oil,Spare parts loading replacement work,heating furnace,0.25,3.160865483,395.25,4.000506073
+4호기,가열로,7월12일,22:05:00,22:40:00,35,0.6,로그샤 하강 동작 불,하강 감지 센서L/S 스위치 소손 교체 작업,1.02,79.8,1.28,logsha descent action fire,Fall detection sensor L/S switch burnout replacement work,heating furnace,0.25,3.165865483,399.13,5.001629073
+4호기,가열로,8월10일,02:50:00,03:05:00,15,0.3,판넬 ZONE#3 TIC 온도 표시 불능,ZONE#3 TIC 분해 점검후 재조립,1.03,39.2,2.63,Panel ZONE#3 TIC temperature not displayed,ZONE#3 TIC disassembly and inspection and reassembly,heating furnace,0.25,3.168365483,391.6,9.989795918
+4호기,가열로,8월12일,21:00:00,21:40:00,40,0.7,ZONE#1 파이로트 점화 불능,UV 센서 감지부 청소및 점화 플러그 교체,1.03,39.2,2.63,ZONE#1 Pilot ignition disabled,Cleaning of UV sensor detection area and replacement of spark plug,heating furnace,0.25,3.168365483,391.6,9.989795918
+4호기,가열로,8월17일,04:00:00,04:10:00,10,0.2,ZONE#3 애자및 외통소손,"4홀 애자,외통 교체",1.03,39.2,2.63,ZONE#3 Damage to insulators and external pipes,"4-hole insulator, external cylinder replacement",heating furnace,0.25,3.168365483,391.6,9.989795918
+4호기,가열로,8월25일,01:40:00,01:50:00,10,0.2,OP 터치스크린 가열로 온도 표시및 설정 안됨,터치 스크린 연결 코넥터 점검후 복구,1.03,39.2,2.63,OP touch screen heating does not display or set temperature,Repair after inspecting the touch screen connection connector,heating furnace,0.25,3.168365483,391.6,9.989795918
+4호기,가열로,8월26일,07:45:00,08:30:00,45,0.8,판넬ZONE#3 TIC 온도 화면 불량,TIC 교체후 설정값 변경,1.03,39.2,2.63,Panel ZONE#3 TIC temperature screen defective,Change settings after replacing TIC,heating furnace,0.25,3.168365483,391.6,9.989795918
+4호기,가열로,8월27일,01:40:00,03:20:00,100,1.7,로그샤 사이드 클램프 누유,부싱 커버 오링 교체,1.03,39.2,2.63,Logsha side clamp leak,Bushing cover o-ring replacement,heating furnace,0.25,3.168365483,391.6,9.989795918
+4호기,가열로,9월5일,10:00:00,11:30:00,90,1.5,트렌스 베어 하강 후 동작 불,하강 센서 접촉 불량으로 센서 교체,0.78,79.6,0.98,Operation not working after lowering the transformer,Replace the sensor due to poor contact with the lowering sensor.,heating furnace,0.25,3.105865483,397.8,4.997487437
+4호기,가열로,9월5일,08:30:00,08:50:00,20,0.3,로그 샤 유압 펌프 모타 트립,PLC출력카드 퓨즈 소손 교체 작업,0.78,79.6,0.98,Logsha Hydraulic Pump Motor Trip,PLC output card fuse replacement work,heating furnace,0.25,3.105865483,397.8,4.997487437
+4호기,가열로,2016-09-05 00:00:00,08:30:00,08:50:00,20,0.3,유압펌프 기동 안됨.,PLC 출력카드 FUSE 소손으로 교체 후 정상동작,0.8,36.2,2.21,Hydraulic pump does not start.,Normal operation after replacement due to burnout of PLC output card fuse,heating furnace,0.25,3.110865483,397.8,10.98895028
+4호기,가열로,2016-10-11 00:00:00,03:00:00,03:20:00,20,0.3,"ZONE#3 애자, 외통 소손으로 교체요청","외통, 애자 교체작업",0.95,34.6,2.75,"ZONE#3 Insulator and external tube damaged, request for replacement",External cylinder and insulator replacement work,heating furnace,0.25,3.148365483,450.1,13.00867052
+4호기,가열로,2016-10-25 00:00:00,09:50:00,10:10:00,20,0.3,ZONE#1  열전대 휨 및 애자 파손,열전대 교정 및 애자 교체,0.95,34.6,2.75,ZONE#1 Thermocouple bending and insulator damage,Thermocouple calibration and insulator replacement,heating furnace,0.25,3.148365483,450.1,13.00867052
+4호기,가열로,2016-10-03 00:00:00,20:50:00,21:50:00,60,1,정상 작업중 판넬내 CP(107) TRIP으로 전체 꺼짐,CP(107) TRIP 복구 및 누전 점검,0.95,34.6,2.75,"During normal operation, CP(107) in the panel is completely turned off due to TRIP.",CP(107) TRIP recovery and leakage inspection,heating furnace,0.25,3.148365483,450.1,13.00867052
+4호기,가열로,2016-11-25 00:00:00,08:30:00,09:30:00,60,1,HOT JAT FAN 모트롤모터 측 배선 단선으로열림/닫힘 동작 불능. ,"단선부위 연결, 연비 조정.",1,231.2,0.43,HOT JAT FAN Open/close operation is disabled due to disconnection of the wiring on the motor control motor side.,"Connecting disconnected parts, adjusting fuel efficiency.",heating furnace,0.25,3.160865483,462.4,2
+4호기,가열로,2016-11-24 00:00:00,06:41:00,07:40:00,59,1,유압모터 EOCR TRIP으로 점검요청.,"정격-65A 부하전류-100A로 릴리프 압조절.
+부하전류 20~60A ",1,231.2,0.43,Request inspection with hydraulic motor EOCR TRIP.,"Relief pressure adjustment with rated - 65A load current - 100A.
+Load current 20~60A",heating furnace,0.25,3.160865483,462.4,2
+4호기,가열로,2014-08-04 00:00:00,09:20:00,09:25:00,5,0.1,빌레트 가열로 작동 불능,"4호 조작용 CP TRIP 2회발생, 재투입후 
+정상작동",7.34,56.1,2.08,Billet heating furnace inoperable,"No. 4 operation CP TRIP occurs twice, after re-injection
+in normal operation",heating furnace,0.25,4.745865483,336.47,5.997682709
+4호기,가열로,2014-08-08 00:00:00,22:30:00,00:10:00,100,1.7,유도판 크랙현상,크랙 부위 용접작업,7.34,56.1,2.08,Guide board crack phenomenon,Welding work on crack areas,heating furnace,0.25,4.745865483,336.47,5.997682709
+4호기,가열로,2014-09-05 00:00:00,04:20:00,04:50:00,25,0.4,zone#3 외통 및 애자파손,외통 및 애자 교체,5.02,43.7,2.83,zone#3 External cylinder and insulator damage,External cylinder and insulator replacement,heating furnace,0.25,4.165865483,390.02,8.924942792
+4호기,가열로,2014-09-05 00:00:00,06:10:00,06:35:00,25,0.4,가열로 출구 유도판 파손,파손부위 용접 작업,5.02,43.7,2.83,Damage to the heating furnace outlet guide plate,Welding work on damaged areas,heating furnace,0.25,4.165865483,390.02,8.924942792
+4호기,가열로,2014-09-29 00:00:00,08:30:00,09:45:00,75,1.3,빌레트가열로 동작불능,"유압펌프 릴리프 압력조정
+로그샤 UP 감지 L/S교체
+HOT JAT FAN 링게이지 불량 교체",5.02,43.7,2.83,Inoperable due to billet heating,"Hydraulic pump relief pressure adjustment
+Logsha UP detection L/S replacement
+Replace defective HOT JAT FAN ring gauge",heating furnace,0.25,4.165865483,390.02,8.924942792
+4호기,가열로,2014-10-14 00:00:00,06:40:00,07:00:00,20,0.3,ZONE#4온도이상,보상도선 단선으로 교체,9.09,110.5,0.7,ZONE#4 temperature abnormality,Replace the compensation conductor with a disconnection.,heating furnace,0.25,5.183365483,442.02,4.000180995
+4호기,가열로,2014-11-04 00:00:00,03:50:00,04:00:00,15,0.3,크레들 UP감지센서 불량,근접센서 PRL18-8AO교체,10.21,92.7,5.18,Cradle UP detection sensor defective,Proximity sensor PRL18-8AO replacement,heating furnace,0.25,5.463365483,370.82,4.00021575
+4호기,가열로,2014-11-22 00:00:00,03:50:00,18:00:00,850,14.2,"작업자 부주의로 
+PLC프로그램 삭제",프로그램 설치 후 부분동작 불능,10.21,92.7,5.18,"due to worker negligence
+Delete PLC program",Partial operation is disabled after program installation,heating furnace,0.25,5.463365483,370.82,4.00021575
+4호기,풀러,1월25일,09:00:00,14:00:00,300,5,풀러 거리값 에러,POWER SUPPLY 교체후 정상 동작,1.88,68.7,2.74,Fuller distance error,Normal operation after POWER SUPPLY replacement,fuller,0.09,1.217111574,412.43,6.003347889
+4호기,풀러,2월18일,20:40:00,21:10:00,30,0.5,풀러정지 센서 고장,센서 교체작업,1.77,120.1,1.47,Puller stop sensor failure,Sensor replacement work,fuller,0.09,1.207211574,360.26,2.999666944
+4호기,풀러,3월15일,21:00:00,21:10:00,10,0.2,풀러 죠 다운 동작 不,리미트 스위치 교체작업,0.89,115.9,0.3,No puller jaw down action,Limit switch replacement work,fuller,0.09,1.128011574,463.78,4.001553063
+4호기,풀러,2016-10-21 00:00:00,16:10:00,17:30:00,80,1.3,풀러 와이어 터짐,풀러 와이어 터짐 교체작업,0.95,34.6,2.75,Puller wire burst,Puller wire burst replacement work,fuller,0.09,1.133411574,450.1,13.00867052
+4호기,풀러,2014-09-11 00:00:00,19:20:00,19:40:00,20,0.3,날개 휨 현상,해당 부위 교정작업,5.02,43.7,2.83,wing bending phenomenon,Correction work on the relevant area,fuller,0.09,1.499711574,390.02,8.924942792
+4호기,풀러,2014-09-25 00:00:00,17:00:00,20:00:00,130,2.2,롤러 브레이크 풀림,브레이크 조정 및 MC교체후 정상동작,5.02,43.7,2.83,Roller brake released,Normal operation after brake adjustment and MC replacement,fuller,0.09,1.499711574,390.02,8.924942792
+4호기,풀러,2014-10-14 00:00:00,21:25:00,23:05:00,100,1.7,레일 고정볼트 파손,볼트 교체 작업,9.09,110.5,0.7,Rail fixing bolt damaged,Bolt replacement work,fuller,0.09,1.866011574,442.02,4.000180995
+4호기,핫쏘,1월7일,13:50:00,14:50:00,60,1,HOT SAW UP/DOWN 不,   L/S스위치 교체 후 정상 작업,1.88,68.7,2.74,HOT SAW UP/DOWN NOT,Normal operation after L/S switch replacement,Hasso,0.1,1.352346193,412.43,6.003347889
+4호기,핫쏘,7월13일,02:43:00,03:40:00,57,1,HOT SAW UP/DOWN 不,오일 부족 으로 오일 보충,1.02,79.8,1.28,HOT SAW UP/DOWN NOT,Replenish oil due to lack of oil,Hasso,0.1,1.266346193,399.13,5.001629073
+4호기,핫쏘,2014-08-16 00:00:00,23:10:00,23:30:00,20,0.3,게이지 헤드 스토퍼 업 동작후 작동불능,수동조작후 전/후진 정상작동,7.34,56.1,2.08,Gauge head stopper does not work after up operation,Normal forward/backward operation after manual operation,Hasso,0.1,1.898346193,336.47,5.997682709
+4호기,후면,1월13일,19:15:00,19:20:00,5,0.1,PLC 전원 트립,복구 후 정상 작업,1.88,68.7,2.74,PLC power trip,Normal operation after recovery,back side,0.15,2.02851929,412.43,6.003347889
+4호기,후면,2월22일,18:30:00,20:20:00,110,1.8,테일헤드 죠 실린다 나사 마모,죠 실린다 나사 마모로 임시 용접후 작업,1.77,120.1,1.47,Tailhead jaw threaded screw worn,Temporary post-welding work due to wear of the jaw thread screw,back side,0.15,2.01201929,360.26,2.999666944
+4호기,후면,3월2일,22:00:00,22:20:00,20,0.3,END SAW 절삭유 不,절삭유 노줄 교체 작업,0.35,115.9,0.3,END SAW No cutting oil,Coolant nozzle replacement work,back side,0.15,1.79901929,463.78,4.001553063
+4호기,후면,5월4일,04:30:00,05:00:00,30,0.5,게이지 헤드콘베어 동작 불,엔코더 예비품 으로 교체후 작업,0.9,118.1,0.76,Gauge head conveyor operation fire,Work after replacing the encoder with spare parts,back side,0.15,1.88151929,354.19,2.999068586
+4호기,후면,5월24일,11:05:00,11:15:00,10,0.2,퀜칭펌프 모타 트립 ,복구 후 작업,0.9,118.1,0.76,Quenching pump motor trip,Post-recovery operations,back side,0.15,1.88151929,354.19,2.999068586
+4호기,후면,6월29일,20:05:00,20:45:00,40,0.7,스텍카 겐트리 모타 동작 不,모타 부레크 미동 작으로 모타 교체작업,1,98.8,1.01,Stacker gantry motor not operating,Motor replacement work due to motor brake not working,back side,0.15,1.89651929,395.25,4.000506073
+4호기,후면,6월30일,03:20:00,03:50:00,30,0.5,스텍카 겐트리 모타 부레크 슬립,부레크 페드 교체 작업,1,98.8,1.01,Stacker Gantry Motor Brake Slip,Brake pad replacement work,back side,0.15,1.89651929,395.25,4.000506073
+4호기,후면,7월23일,19:30:00,19:50:00,20,0.3,헨드링 유압 펌프 EOCR,TRIP  리셋 압페어 조정 작업,1.02,79.8,1.28,Hendring hydraulic pump EOCR,TRIP reset pressure pair adjustment operation,back side,0.15,1.89951929,399.13,5.001629073
+4호기,후면,7월28일,02:20:00,04:10:00,110,1.8,END SAW 구동 정지,차단기 트립 복구 배선 일부 간 교체,1.02,79.8,1.28,END SAW operation stop,Replacement of some of the breaker trip recovery wiring.,back side,0.15,1.89951929,399.13,5.001629073
+4호기,후면,8월22일,11:40:00,12:40:00,60,1,베칭 콘베어 동작 不,인버터 소손으로 예비품 으로 교체 작업,1.03,39.2,2.63,Batching conveyor not operating,Replacement work with spare parts due to inverter burnout,back side,0.15,1.90101929,391.6,9.989795918
+4호기,후면,8월24일,16:00:00,19:20:00,200,3.3,Discharge C/V 계속 전진,PLC program 수정,1.03,39.2,2.63,Discharge C/V Keep moving forward,PLC program modification,back side,0.15,1.90101929,391.6,9.989795918
+4호기,후면,9월2일,02:00:00,02:15:00,15,0.3,스페이스 바 공급 장치,솔레노이드 교체 작업,0.78,79.6,0.98,space bar feeder,Solenoid replacement work,back side,0.15,1.86351929,397.8,4.997487437
+4호기,후면,9월8일,13:58:00,15:00:00,62,1,SAW FEED C/V 인버터 소손,인버터 에비품 으로 교체 작업후 정상,0.78,79.6,0.98,SAW FEED C/V inverter burnout,Normal after replacing inverter with spare parts,back side,0.15,1.86351929,397.8,4.997487437
+4호기,후면,9월21일,16:40:00,17:30:00,50,0.8,END SAW 전 후진 비정상,유압 필타 막힘으로 필타 교체 후 정상 작업,0.78,79.6,0.98,END SAW forward/backward abnormality,Normal operation after filter replacement due to hydraulic filter blockage,back side,0.15,1.86351929,397.8,4.997487437
+4호기,후면,2016-09-08 00:00:00,13:58:00,15:00:00,62,1,SAW FEED C/V 인버터 소손으로 교체작업,440V 7.5HP IS7(1EA)교체 및 시운전확인,0.8,36.2,2.21,Replacement work due to burnout of SAW FEED C/V inverter,440V 7.5HP IS7 (1EA) replacement and test run confirmation,back side,0.15,1.86651929,397.8,10.98895028
+4호기,후면,2016-09-02 00:00:00,02:00:00,02:15:00,15,0.3,쫄대C/V 쫄대 정렬 AIR S/V 이상으로 점검요청,AIR S/V 이물질로 동작안됨 청소후 정상동작,0.8,36.2,2.21,Request for inspection due to Jjoldae C/V Jjoldae alignment AIR S/V abnormality,AIR S/V does not operate due to foreign substances. Operates normally after cleaning.,back side,0.15,1.86651929,397.8,10.98895028
+4호기,후면,2016-09-21 00:00:00,16:40:00,17:30:00,50,0.8,후면 절단기 유압유니트 토출 불안정,오일 휠터 교체및유니트 청소 오일 교체,0.8,36.2,2.21,Rear cutter hydraulic unit discharge instability,Oil filter replacement and unit cleaning Oil replacement,back side,0.15,1.86651929,397.8,10.98895028
+4호기,후면,2016-09-13 00:00:00,07:00:00,09:00:00,120,2,게이지헤드 전/후진 동작 불능,V3  220V 차단기 복구 및 VCT케이블 40m 교체,0.8,36.2,2.21,Gauge head forward/reverse operation not possible,V3 220V breaker repair and VCT cable 40m replacement,back side,0.15,1.86651929,397.8,10.98895028
+4호기,후면,2016-09-21 00:00:00,16:15:00,17:25:00,70,1.2,톱날 전/후진 클램프 UP/DOWN 동작 불능,HYD PUMP UNIT  OIL TANK 분해 청소 및 흡입관 필터 교체후 복구,0.8,36.2,2.21,Saw blade forward/reverse clamp UP/DOWN operation not possible,Recovery after disassembling and cleaning HYD PUMP UNIT OIL TANK and replacing suction pipe filter,back side,0.15,1.86651929,397.8,10.98895028
+4호기,후면,2016-09-19 00:00:00,23:00:00,23:15:00,15,0.2,유압MOTOR EOCR 과부하로 점검요청,유압유 없어 유압유 보충 요청,0.8,36.2,2.21,Request for inspection due to hydraulic MOTOR EOCR overload,Request to replenish hydraulic oil due to lack of hydraulic oil,back side,0.15,1.86651929,397.8,10.98895028
+4호기,후면,2016-10-06 00:00:00,10:00:00,10:50:00,50,0.8,쫄대공급안됨,3호기쪽 동작 늦음 에어 공급 점검,0.95,34.6,2.75,Jjoldae is not supplied,Check the air supply for slow operation of unit 3.,back side,0.15,1.88901929,450.1,13.00867052
+4호기,후면,2016-10-04 00:00:00,13:50:00,15:50:00,120,2,핫쏘우 축베어링 파손,핫쏘우 축베어링 파손 교체,0.95,34.6,2.75,Hot saw shaft bearing damage,Hot saw shaft bearing damage replacement,back side,0.15,1.88901929,450.1,13.00867052
+4호기,후면,2016-10-06 00:00:00,10:00:00,10:10:00,10,0.2,쫄대 배출장치 2개씩 배출되는 현상으로 점검요청,좌우 수평 안맞아 2개씩 배출 됨. 공작반 점검요청,0.95,34.6,2.75,Request for inspection due to the phenomenon of two jjolda discharge devices being discharged at a time,"The left and right sides are not aligned, so two are ejected. Request for work crew inspection",back side,0.15,1.88901929,450.1,13.00867052
+4호기,후면,2016-10-18 00:00:00,09:00:00,11:30:00,150,2.5,쫄대 공급 유도판 파손,쫄대 공급 유도판 파손 해체후 보강 ,0.95,34.6,2.75,Jjoldae supply guide board damaged,Reinforcement after disassembly of damage to the Jjoldae supply guide plate,back side,0.15,1.88901929,450.1,13.00867052
+4호기,후면,2016-10-10 00:00:00,08:30:00,08:40:00,10,0.2,핫쏘테이블 후진 동작은 되나 전진 동작 불능,유리관 휴즈 확인 정상 복구됨,0.95,34.6,2.75,The hot saw table can move backwards but cannot move forward.,Checked the glass tube fuse and it was restored to normal.,back side,0.15,1.88901929,450.1,13.00867052
+4호기,후면,2016-10-17 00:00:00,17:50:00,18:20:00,30,0.5,쫄대 척킹 장치 유도판 파손,쫄대 척킹 장치 유도판 파손 용접 수리,0.95,34.6,2.75,Jjoldae chucking device guide plate damaged,Jjoldae chucking device guide plate damage welding repair,back side,0.15,1.88901929,450.1,13.00867052
+4호기,후면,2016-10-05 00:00:00,09:00:00,09:30:00,30,0.5,후면 쫄대C/V 측 쫄대 배출 안되 점검요청,AIR SOL V/V(SIV411-IP)교체. 3호기측 걸림현상,0.95,34.6,2.75,"Rear strap C/V side strap does not discharge, request inspection",AIR SOL V/V(SIV411-IP) replacement. Jamming phenomenon at unit 3,back side,0.15,1.88901929,450.1,13.00867052
+4호기,후면,2014-08-11 00:00:00,15:00:00,15:30:00,25,0.4,런아웃 테이블 C/V작동 불능,"실린더 측 용접부위 소손, 실린더 up동작 
+불능 해당부위 용접작업",7.34,56.1,2.08,Runout table C/V inoperable,"Welding area on the cylinder side is damaged, cylinder moves up.
+Welding work on the affected area",back side,0.15,2.84751929,336.47,5.997682709
+4호기,후면,2014-08-11 00:00:00,15:30:00,17:30:00,120,2,런아웃 테이블 실린더 고정판 파손,파손부위 용접 및 보강작업,7.34,56.1,2.08,Runout table cylinder fixing plate damaged,Welding and reinforcement work on damaged areas,back side,0.15,2.84751929,336.47,5.997682709
+4호기,후면,2014-10-15 00:00:00,21:35:00,22:10:00,35,0.6,톱날 후진불능,차단기 및 EOCR트립 이상유무 확인중 동작,9.09,110.5,0.7,Saw blade cannot be retracted,Operating while checking for circuit breaker and EOCR trip abnormalities,back side,0.15,3.11001929,442.02,4.000180995
+4호기,후면,2014-10-30 00:00:00,22:00:00,22:30:00,30,0.5,절단기 쫄대 배출부 센서파손,BUP-50S 교체,9.09,110.5,0.7,Damaged sensor at the discharge part of the cutter.,BUP-50S replacement,back side,0.15,3.11001929,442.02,4.000180995
+4호기,기타,4월11일,09:00:00,09:10:00,10,0.2,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,HV-9 VBC OCR TRIP,RESET,etc,0.06,0.739407716,377.57,11.98634921
+4호기,기타,4월12일,19:43:00,19:50:00,7,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,HV-9 VBC OCR TRIP,RESET,etc,0.06,0.739407716,377.57,11.98634921
+4호기,기타,4월12일,16:22:00,16:30:00,8,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,HV-9 VBC OCR TRIP,RESET,etc,0.06,0.739407716,377.57,11.98634921
+4호기,기타,4월12일,14:09:00,14:20:00,11,0.2,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,HV-9 VBC OCR TRIP,RESET,etc,0.06,0.739407716,377.57,11.98634921
+4호기,기타,4월12일,12:23:00,12:30:00,7,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,HV-9 VBC OCR TRIP,RESET,etc,0.06,0.739407716,377.57,11.98634921
+4호기,기타,4월18일,23:10:00,23:15:00,5,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,HV-9 VBC OCR TRIP,RESET,etc,0.06,0.739407716,377.57,11.98634921
+4호기,기타,4월19일,21:18:00,21:25:00,7,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,HV-9 VBC OCR TRIP,RESET,etc,0.06,0.739407716,377.57,11.98634921
+4호기,기타,4월21일,06:58:00,07:05:00,7,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,HV-9 VBC OCR TRIP,RESET,etc,0.06,0.739407716,377.57,11.98634921
+4호기,기타,2016-09-19 00:00:00,18:35:00,18:50:00,15,0.3,다이스 히타 DOOR 열림 동작은 되나 닫힘 동작 불능,"DOOR 열림/닫힘용 AIR S/V (SV 620-1L,110V)  교체",0.8,36.2,2.21,Dice heater DOOR opens but does not close.,"Replacement of AIR S/V (SV 620-1L, 110V) for DOOR opening/closing",etc,0.06,0.746607716,397.8,10.98895028
+5호기,압출기,2월17일,01:40:00,02:50:00,70,1.17,빌레트 로다 보조 로다,실린다 교체 작업,1.22,113.9,1.07,billet loader auxiliary loader,Silinda replacement work,extruder,0.35,4.502211677,341.6,2.999122037
+5호기,압출기,3월18일,09:36:00,10:10:00,34,0.57,버트로커 실린다 이상,실린다 예비품으로 교체,1.26,58.8,2.14,Buttlocker is loaded and more,Replaced with Silinda spare part,extruder,0.35,4.516211677,411.26,6.994217687
+5호기,압출기,4월4일,17:13:00,17:50:00,37,0.62,다이스 클럼프 고정 볼트,전단 불리후 교체작업,0.81,48.1,1.7,Dice Clump Fixing Bolt,Replacement work after shear failure,extruder,0.35,4.358711677,288.69,6.001871102
+5호기,압출기,4월7일,20:00:00,21:10:00,70,1.17,콘테이너 씰링 압력 不,콘테이너 정지 리미트 조정 작업,0.81,48.1,1.7,No container sealing pressure,Container stop limit adjustment work,extruder,0.35,4.358711677,288.69,6.001871102
+5호기,압출기,4월7일,08:30:00,09:30:00,60,1,콘테이너 히타 센서 연결,작업,0.81,48.1,1.7,Container heater sensor connection,work,extruder,0.35,4.358711677,288.69,6.001871102
+5호기,압출기,4월27일,09:20:00,09:35:00,15,0.25,빌레트 로다 (보조),감지 센서 조정 작업,0.81,48.1,1.7,Villette Roda (assistant),Detection sensor adjustment operation,extruder,0.35,4.358711677,288.69,6.001871102
+5호기,압출기,5월13일,07:00:00,07:30:00,30,0.5,빌레트 케리어 동작 불,리미트 정검 후 교체 작업,0.5,231.9,0.22,billet carrier operation fire,Replacement work after limit inspection,extruder,0.35,4.250211677,231.91,1.000043122
+5호기,압출기,7월25일,10:10:00,16:30:00,380,6.33,자동 운전 시 퍼프 후 작업,END 신호 들어와 케이불,1.88,72.5,2.6,Post-puff operation during automatic operation,END signal comes on cable,extruder,0.35,4.733211677,362.38,4.998344828
+5호기,압출기,8월17일,14:20:00,14:50:00,30,0.5,콤푸레샤 고장 으로,에어 부족 기계 정지,1.05,13.5,7.74,Due to compressor failure,Air shortage machine stops,extruder,0.35,4.442711677,270.7,20.05185185
+5호기,압출기,9월23일,12:03:00,12:30:00,27,0.45,빌레트 보조 로다 페드,체결 볼트 전단 불리후 볼트 교체,0.53,82.9,0.64,Billet auxiliary lower pad,Bolt replacement after fastening bolt shear failure,extruder,0.35,4.260711677,331.6,4
+5호기,압출기,2016-09-23 00:00:00,12:03:00,12:30:00,27,0.5,보조로더 체결볼트 파손,보조로더 체결볼트 파손 교체,0.68,36.8,1.84,Auxiliary loader fastening bolt damaged,Replacement of damaged auxiliary loader fastening bolts,extruder,0.35,4.313211677,331.6,9.010869565
+5호기,압출기,2016-09-26 00:00:00,09:30:00,09:40:00,10,0.2,다이카세트 포토센서(BUP-30S) 파손 교체요청,다이카세트 포토센서(BUP-30S) 파손 교체 완료,0.68,36.8,1.84,Request for replacement of damaged Dai Cassette photo sensor (BUP-30S),Dai Cassette Photo Sensor (BUP-30S) Damaged Replaced,extruder,0.35,4.313211677,331.6,9.010869565
+5호기,압출기,2016-09-30 00:00:00,17:00:00,17:15:00,15,0.2,빌레트 로다 NO.1 UP감지 리드S/W 감지 불능,빌레트 로다 NO.1 실린더 로드 풀림 재조임 후 복구,0.68,36.8,1.84,Billet loader NO.1 UP detection lead S/W not detected,Billet loader NO.1 cylinder rod loosened and restored after retightening,extruder,0.35,4.313211677,331.6,9.010869565
+5호기,압출기,2016-10-10 00:00:00,08:30:00,10:55:00,145,2.4,신양2 100HP콤푸레샤 물유입,"신양2 100HP콤푸레샤 물유입 청소및 
+파트 교체",1.78,67,2.65,Shinyang 2 100HP compressor water inflow,"Shinyang 2 100HP compressor water inflow cleaning and
+Part replacement",extruder,0.35,4.698211677,267.9,3.998507463
+5호기,압출기,2014-08-15 00:00:00,08:47:00,10:20:00,93,1.55,푸시백 작동 이상,푸시백 교체작업,8.54,46.9,2.18,Pushback operation error,Pushback replacement work,extruder,0.35,7.064211677,281.29,5.997654584
+5호기,압출기,2014-08-22 00:00:00,19:30:00,21:00:00,90,1.5,게이지헤드 브레이크 유압실린더 교체,실린더 해체후 수리,8.54,46.9,2.18,Gauge head brake hydraulic cylinder replacement,Repair after dismantling the cylinder,extruder,0.35,7.064211677,281.29,5.997654584
+5호기,압출기,2014-09-04 00:00:00,22:00:00,22:15:00,5,0.08,싸이클 스타트 불능,조광형 s/w접점 소손으로 교체완료,8.61,71.9,1.36,Cycle start not possible,Illuminated s/w contact point was replaced due to burnout.,extruder,0.35,7.088711677,287.55,3.99930459
+5호기,압출기,2014-10-02 00:00:00,05:17:00,05:30:00,13,0.22,체인 감지센서 볼트파손,파손된 볼트 해체 후 교체작업,7.88,43.6,1.01,Chain detection sensor bolt broken,Replacement work after dismantling damaged bolts,extruder,0.35,6.833211677,261.41,5.995642202
+5호기,압출기,2014-11-06 00:00:00,19:00:00,20:10:00,65,1.08,자동 압출동작 불능,"메인로더 상승 리미트 S/W 계속 감지,
+S/W교체",4.94,38.9,6.52,Automatic extrusion operation is not possible,"Main loader rise limit S/W continues to detect,
+S/W replacement",extruder,0.35,5.804211677,311.01,7.995115681
+5호기,압출기,2014-11-08 00:00:00,08:30:00,16:20:00,470,7.83,콘테이너 실린더 누유,콘테이너 후면 해체 후 용접,4.94,38.9,6.52,container cylinder oil leak,Welding after dismantling the rear of the container,extruder,0.35,5.804211677,311.01,7.995115681
+5호기,압출기,2014-11-14 00:00:00,13:30:00,16:10:00,160,2.67,로그샤 메인실린더 누유,해당 부위 오링 교체작업,4.94,38.9,6.52,Logsha main cylinder leak,O-ring replacement work in the relevant area,extruder,0.35,5.804211677,311.01,7.995115681
+5호기,가열로,2월20일,01:40:00,02:40:00,60,1,빌레트 가열로 푸시백,실린다 오일 누유 교체 작업,1.22,113.9,1.07,Billet furnace pushback,Silinda oil leak replacement work,heating furnace,0.25,3.215865483,341.6,2.999122037
+5호기,가열로,3월5일,06:30:00,07:00:00,30,0.5,빌레트 콜 不,프르그램 오류 발생 ,1.26,58.8,2.14,Billet call no,Program error occurred,heating furnace,0.25,3.225865483,411.26,6.994217687
+5호기,가열로,3월7일,09:30:00,10:00:00,30,0.5,자동 운전 중 로그샤,절단부분에서 멈춤 센서 교체,1.26,58.8,2.14,Logsha during automatic driving,Replacing the sensor that stops at the cutting area,heating furnace,0.25,3.225865483,411.26,6.994217687
+5호기,가열로,3월11일,18:20:00,19:20:00,60,1,자동 운전 중 샤동작 不,푸셔 풀 빽 센서 불량 교체,1.26,58.8,2.14,No shaft operation during automatic operation,Replace defective pusher pull back sensor,heating furnace,0.25,3.225865483,411.26,6.994217687
+5호기,가열로,3월18일,09:36:00,10:10:00,34,0.57,이젝트 실린다 누유,예비품 실린다 교체 작업,1.26,58.8,2.14,Ejector cylinder leak,Spare parts loading replacement work,heating furnace,0.25,3.225865483,411.26,6.994217687
+5호기,가열로,3월19일,23:00:00,23:40:00,40,0.67,빌레트 콜 不,빌레트 카운터 센서 교체 작업,1.26,58.8,2.14,Billet call no,Billet counter sensor replacement work,heating furnace,0.25,3.225865483,411.26,6.994217687
+5호기,가열로,4월1일,10:20:00,11:10:00,50,0.83,비레트 가열로 HOT JAT,FAN 베아링 교체작업,0.81,48.1,1.7,Birette heating furnace HOT JAT,FAN bearing replacement work,heating furnace,0.25,3.113365483,288.69,6.001871102
+5호기,가열로,6월9일,09:50:00,10:30:00,40,0.67,로그샤 이젝트 실린다 누유, 예비품 으로 교체 작업,0.86,92.9,0.92,Logsha ejector cylinder leak,Replacement work with spare parts,heating furnace,0.25,3.125865483,371.77,4.001829925
+5호기,가열로,7월11일,08:10:00,09:30:00,80,1.33,가열로 출구 도어 감지,리미트 스위치 소손 으로 교체,1.88,72.5,2.6,Furnace exit door detection,"Limit switch burned out, replaced",heating furnace,0.25,3.380865483,362.38,4.998344828
+5호기,가열로,7월13일,13:30:00,14:00:00,30,0.5,가열로2번 존 점화 不,CR 교체 작업,1.88,72.5,2.6,Heating furnace zone 2 does not ignite.,CR replacement work,heating furnace,0.25,3.380865483,362.38,4.998344828
+5호기,가열로,8월04일,08:00:00,09:00:00,60,1,빌렛트 가열로 도어 ,리미트 배선 소손 교체 작업,1.05,13.5,7.74,Billet Furnace Door,Limit wiring burnout replacement work,heating furnace,0.25,3.173365483,270.7,20.05185185
+5호기,가열로,8월18일,14:00:00,14:15:00,15,0.25,로그샤 클램프 동작 불능,PLC 출력카드 출력불량 단자 탈부착후 정상 작동,1.05,13.5,7.74,Logsha clamp does not work,PLC output card output is defective. Normal operation after attaching and detaching the terminal.,heating furnace,0.25,3.173365483,270.7,20.05185185
+5호기,가열로,8월20일,04:20:00,05:00:00,40,0.67,로그샤 유압 유니트 모타,과 전류 로 트립  모타 정검,1.05,13.5,7.74,Logsha hydraulic unit motor,Check trip motor due to overcurrent,heating furnace,0.25,3.173365483,270.7,20.05185185
+5호기,가열로,8월30일,01:30:00,02:30:00,60,1,로그샤 탑 클램프 로드 파손,비레트 걸림부 해체 작업,1.05,13.5,7.74,Logsha top clamp rod damaged,Disassembly of billet catch part,heating furnace,0.25,3.173365483,270.7,20.05185185
+5호기,가열로,9월19일,08:30:00,09:15:00,45,0.75,빌레트 가열로 유압 펌프,모타 트립 전원 ON/OFF후 정상,0.53,82.9,0.64,Billet Furnace Hydraulic Pump,Normal after motor trip power ON/OFF,heating furnace,0.25,3.043365483,331.6,4
+5호기,가열로,2016-09-19 00:00:00,08:30:00,09:15:00,45,0.8,가열로 유압펌프 계속 과부하 TRIP 및 크레들 DOWN 동작 불능,전원 OFF후 PLC IN/OUT 카드 탈부착후 유압 펌프 정상 동작되고 크레들DOWN 유입 S/V 배선 단선 재연결 복구,0.68,36.8,1.84,Heating furnace hydraulic pump continues to overload and trip and cradle down does not work.,"After turning off the power and attaching and detaching the PLC IN/OUT card, the hydraulic pump operates normally and the cradle is down and the inflow S/V wiring is disconnected and reconnected.",heating furnace,0.25,3.080865483,331.6,9.010869565
+5호기,가열로,2016-09-01 00:00:00,12:30:00,13:30:00,60,1,푸시벡 실린더 누유,푸시벡 실린더 누유 교체,0.68,36.8,1.84,Pushbeck cylinder oil leak,Pushback cylinder oil leak replacement,heating furnace,0.25,3.080865483,331.6,9.010869565
+5호기,가열로,2016-10-28 00:00:00,03:00:00,03:20:00,20,0.3,ZONE#3 외통 소손으로 교체요청,외통교체작업,1.78,67,2.65,Request for replacement due to burnout of ZONE#3 external cylinder,External tube replacement work,heating furnace,0.25,3.355865483,267.9,3.998507463
+5호기,가열로,2014-08-30 00:00:00,04:00:00,04:15:00,15,0.25,빌레트 가열로 퍼지 동작 불능,M/M내 배선 단선 재연결,8.54,46.9,2.18,Purge operation is not possible due to billet heating.,Reconnection of wire disconnection in M/M,heating furnace,0.25,5.045865483,281.29,5.997654584
+5호기,가열로,2014-10-07 00:00:00,14:00:00,14:45:00,40,0.67,Zone#2 외통찌그러짐,외통 교체 및 내통 용접작업,7.88,43.6,1.01,Zone#2 External dent,External tube replacement and inner tube welding work,heating furnace,0.25,4.880865483,261.41,5.995642202
+5호기,가열로,2014-10-11 00:00:00,15:30:00,16:30:00,60,1,푸시백 작동 불능,ZONE #2 리드 S/W 교정 PLC 프로그램 확인,7.88,43.6,1.01,Pushback not working,Check ZONE #2 lead S/W calibration PLC program,heating furnace,0.25,4.880865483,261.41,5.995642202
+5호기,가열로,2014-10-21 00:00:00,07:30:00,07:50:00,20,0.33,로그샤 절단 후 UP동작불능,크레들 정 위치 감지 근접 센서 교체,7.88,43.6,1.01,UP operation is not possible after cutting the log shaft.,Cradle correct position detection proximity sensor replacement,heating furnace,0.25,4.880865483,261.41,5.995642202
+5호기,가열로,2014-11-10 00:00:00,08:30:00,11:00:00,150,2.5,가열로 온도 안올라감,전체 보수작업,4.94,38.9,6.52,Temperature does not rise with heating,Full repair work,heating furnace,0.25,4.145865483,311.01,7.995115681
+5호기,가열로,2014-11-17 00:00:00,08:30:00,12:30:00,240,4,빌레트 auto call 작동불가,"TC 카드 교체, 싸이클 스탑 S/W접점 확인
+핫젯휀 SSR 2개 교체",4.94,38.9,6.52,Billet auto call does not work,"Replace TC card, check cycle stop S/W contact point
+Replacement of 2 hotjet fan SSRs",heating furnace,0.25,4.145865483,311.01,7.995115681
+5호기,가열로,2014-11-21 00:00:00,11:35:00,12:12:00,37,0.62,실린더 로드 부위 누유,실린더 교체작업,4.94,38.9,6.52,Leakage at cylinder rod area,Cylinder replacement work,heating furnace,0.25,4.145865483,311.01,7.995115681
+5호기,풀러,1월25일,08:30:00,10:00:00,90,1.5,풀러 거리값 이상,POWER SUPPLY 교체후 정상,1.5,376.9,0.4,Fuller distance value or higher,Normal after replacing POWER SUPPLY,fuller,0.09,1.182911574,376.91,1.000026532
+5호기,풀러,2월15일,13:30:00,15:00:00,90,1.5,풀러 죠 및 트레이 작동 불,트레이 기어 부위 추돌 파손,1.22,113.9,1.07,Puller jaw and tray not working,Collision damage to tray gear area,fuller,0.09,1.157711574,341.6,2.999122037
+5호기,풀러,4월8일,23:28:00,00:30:00,62,1.03,풀러 유압모타 기동 不,모터베어링 마모 교체작업,0.81,48.1,1.07,Puller hydraulic motor does not start,Motor bearing wear replacement work,fuller,0.09,1.120811574,288.69,6.001871102
+5호기,풀러,6월21일,20:30:00,20:50:00,20,0.33,풀러 로라 베아링 소음,베아링 불리 후 그리스 주입,0.86,92.9,0.92,fuller roller bearing noise,Grease injection after bearing removal,fuller,0.09,1.125311574,371.77,4.001829925
+5호기,풀러,8월11일,17:00:00,20:00:00,180,3,풀러 와이어 로프 텐션,휠 베아링 파손 가공후 조립,1.05,13.5,7.74,puller wire rope tension,Assemble after processing wheel bearing damage,fuller,0.09,1.142411574,270.7,20.05185185
+5호기,풀러,8월18일,16:03:00,17:05:00,62,1.03,풀라 드라이브 감속기 ,교체 작업(감속기 베아링 ),1.05,13.5,7.74,puller drive reducer,Replacement work (reducer bearing),fuller,0.09,1.142411574,270.7,20.05185185
+5호기,풀러,8월24일,18:30:00,19:40:00,70,1.17,풀러 동작 시 레일 걸림,현상 롤라 베아링 교체,1.05,13.5,7.74,Rail jams during puller operation,Phenomenon roller bearing replacement,fuller,0.09,1.142411574,270.7,20.05185185
+5호기,풀러,8월24일,16:15:00,16:40:00,25,0.42,풀러 레일 마모 된 부위,그라인다 로 사상 작업,1.05,13.5,7.74,Puller rail worn area,Grinding work with a grinder,fuller,0.09,1.142411574,270.7,20.05185185
+5호기,풀러,8월24일,15:00:00,15:45:00,45,0.75,풀러 레일 마모 된 부위,그라인다 로 사상 작업,1.05,13.5,7.74,Puller rail worn area,Grinding work with a grinder,fuller,0.09,1.142411574,270.7,20.05185185
+5호기,풀러,8월25일,08:45:00,10:30:00,105,1.75,풀라 자동 운전시 중간에,멈 춤 현상 정검,1.05,13.5,7.74,Fully in the middle of automatic operation,Check for stoppage phenomenon,fuller,0.09,1.142411574,270.7,20.05185185
+5호기,풀러,8월25일,11:30:00,12:00:00,30,0.5,풀라 자동 운전시 중간에,멈 춤 현상 정검,1.05,13.5,7.74,Fully in the middle of automatic operation,Check for stoppage phenomenon,fuller,0.09,1.142411574,270.7,20.05185185
+5호기,풀러,8월25일,12:00:00,16:30:00,270,4.5,풀라 자동 운전시 중간에,멈춤 조작 선로 정비,1.05,13.5,7.74,Fully in the middle of automatic operation,Stop operation track maintenance,fuller,0.09,1.142411574,270.7,20.05185185
+5호기,풀러,9월24일,16:15:00,16:50:00,35,0.58,풀러 트레이 풀레트 휨,불리 후 교정 작업,0.53,82.9,0.64,Puller tray pullet bending,Corrective action after disadvantage,fuller,0.09,1.095611574,331.6,4
+5호기,풀러,2016-09-24 00:00:00,16:15:00,16:50:00,35,0.6,풀라 플라이 휨,풀라 플라이 휨 교정 작업,0.68,36.8,1.84,Full ply bending,Full ply bending correction work,fuller,0.09,1.109111574,331.6,9.010869565
+5호기,풀러,2016-10-27 00:00:00,04:50:00,06:15:00,85,1.4,풀라 와이어 전단,풀라 와이어 전단 교체,1.78,67,2.65,puller wire shear,Puller wire shear replacement,fuller,0.09,1.208111574,267.9,3.998507463
+5호기,풀러,2014-08-29 00:00:00,20:40:00,21:40:00,60,1,날개부위 휨 현상,해당 부위 교정작업,8.54,46.9,2.18,Wing bending phenomenon,Correction work on the relevant area,fuller,0.09,1.816511574,281.29,5.997654584
+5호기,핫쏘,3월10일,07:30:00,12:30:00,300,5,핫쑈 업 다운 실린다,노후로 교체 작업,1.26,58.8,2.14,Hot show up down silinda,Replacing an old furnace,Hasso,0.1,1.290346193,411.26,6.994217687
+5호기,핫쏘,7월1일,14:00:00,14:15:00,15,0.25,HOT SAW CLAMP,센서 S/W 단선 배선 교체작,1.88,72.5,2.6,HOT SAW CLAMP,Sensor S/W disconnection wiring replacement work,Hasso,0.1,1.352346193,362.38,4.998344828
+5호기,후면,6월24일,11:45:00,14:00:00,135,2.25,스텍카 겐트리 상 하 모타,소손 교체 작업,0.86,92.9,0.92,Stecka Gantry Sangha Mota,Burnout replacement work,back side,0.15,1.87551929,371.77,4.001829925
+5호기,후면,6월27일,09:00:00,09:10:00,10,0.17,END SAW PLC CP TRIP,복귀 후 정상 작업,0.86,92.9,0.92,END SAW PLC CP TRIP,Normal operation after return,back side,0.15,1.87551929,371.77,4.001829925
+5호기,후면,7월11일,08:30:00,09:30:00,60,1,SAW FEED 콘베어,UP/DOWN 솔레노이드 교체,1.88,72.5,2.6,SAW FEED conveyor,UP/DOWN solenoid replacement,back side,0.15,2.02851929,362.38,4.998344828
+5호기,후면,8월25일,16:30:00,17:30:00,60,1,스트레차 파워헤드 전 후,진 不 죠 하강 솔 배선 단선,1.05,13.5,7.74,Before and after Stretcha Powerhead,True non-jaw down brush wiring disconnection,back side,0.15,1.90401929,270.7,20.05185185
+5호기,후면,8월08일,20:50:00,21:05:00,15,0.25,TAIL HEAD IN FEED V/T UP/DOWN 동작 불능,JAW 실린더 로드 풀림으로 조임 및 근접센서 재조정,1.05,13.5,7.74,TAIL HEAD IN FEED V/T UP/DOWN does not work,Tightening and readjusting the proximity sensor by loosening the JAW cylinder rod,back side,0.15,1.90401929,270.7,20.05185185
+5호기,후면,8월15일,21:30:00,21:50:00,20,0.33,T.H 모니터 잦은 꺼짐 현상,모니터 교체 ,1.05,13.5,7.74,T.H monitor turns off frequently,monitor replacement,back side,0.15,1.90401929,270.7,20.05185185
+5호기,후면,8월18일,09:00:00,09:30:00,30,0.5,TAIL HEAD IN FEED V/T 구동 불능,IN FEED V/T MOTOR 전/후진시 걸려 콘넥터부 배선 뽑힘 점검수리,1.05,13.5,7.74,TAIL HEAD IN FEED V/T operation not possible,"IN FEED V/T MOTOR is caught when moving forward/reverse, and inspection and repair of connector wiring disconnection.",back side,0.15,1.90401929,270.7,20.05185185
+5호기,후면,8월05일,06:30:00,06:40:00,10,0.17,쫄대C/V 카운팅 센서 파손으로 교체요청,BUP-50S(1EA)교체작업,1.05,13.5,7.74,Request for replacement due to damage to Jjoldae C/V counting sensor,BUP-50S (1EA) replacement work,back side,0.15,1.90401929,270.7,20.05185185
+5호기,후면,9월6일,13:30:00,13:50:00,20,0.33,교정기 파워헤드 죠 실,린다 페킹 교체 작업,0.53,82.9,0.64,Braces Powerhead Jaw Seal,Linda Peking replacement work,back side,0.15,1.82601929,331.6,4
+5호기,후면,2016-09-06 00:00:00,12:30:00,13:50:00,80,1.3,교정기 파워헤드 조실린더 에어 유출,조실린더 에어 유출 패킹 교체,0.68,36.8,1.84,Straightener power head cylinder air leak,Replacement of crude cylinder air leak packing,back side,0.15,1.84851929,331.6,9.010869565
+5호기,후면,2016-11-08 00:00:00,21:10:00,22:45:00,95,1.6,푸셔 베어링 파손및 센서 터치바 파손,푸셔 베어링 파손 교체및 센서 터치바 파손 용접 수리,2.05,172.9,1.19,Pusher bearing damaged and sensor touch bar damaged,Replacement of damaged pusher bearing and welding repair of damaged sensor touch bar,back side,0.15,2.05401929,345.8,2
+5호기,후면,2016-11-08 00:00:00,15:00:00,17:30:00,150,2.5,핫쏘우 실린더 파손,핫쏘우 실린더 파손 교체,2.05,172.9,1.19,Hot saw cylinder damage,Hot saw cylinder damage replacement,back side,0.15,2.05401929,345.8,2
+5호기,후면,2014-08-13 00:00:00,08:50:00,09:20:00,30,0.5,교정기 인피드 벨트 구동 불가,풀러 가이드 교정작업,8.54,46.9,2.18,Straightener infeed belt cannot be driven,Fuller guide correction work,back side,0.15,3.02751929,281.29,5.997654584
+5호기,후면,2014-09-12 00:00:00,02:30:00,05:00:00,150,2.5,절단기 전후진 불능,"해당 부위 분해후 배관 보수 및 필터 청소
+드레인 릴리프 조절 / 톱날 하강 위치 하향 조절",8.61,71.9,1.36,Cutter cannot move forward or backward,"Pipe repair and filter cleaning after disassembling the relevant area
+Drain relief adjustment / saw blade lowering position downward adjustment",back side,0.15,3.03801929,287.55,3.99930459
+5호기,후면,2014-09-12 00:00:00,20:50:00,21:50:00,60,1,교정기 실린더 볼트 풀림,풀림 부위 조임작업,8.61,71.9,1.36,Straightener cylinder bolt loosened,Tightening work on loosened parts,back side,0.15,3.03801929,287.55,3.99930459
+5호기,후면,2014-09-27 00:00:00,13:45:00,14:05:00,20,0.33,교정기 jaw업다운 불능,센서 브래킷 용접작업 및 센서위치 교정,8.61,71.9,1.36,Braces jaw up and down not possible,Sensor bracket welding work and sensor position correction,back side,0.15,3.03801929,287.55,3.99930459
+5호기,후면,2014-10-21 00:00:00,12:00:00,12:10:00,10,0.17,파워헤드 센서 파손,PRDL18-14DN 교체,7.88,43.6,1.01,Power head sensor damaged,PRDL18-14DN Replacement,back side,0.15,2.92851929,261.41,5.995642202
+5호기,후면,2014-10-29 00:00:00,20:30:00,20:45:00,15,0.25,교정기 파워헤드 동작불능,클램프센서 파손 PR18-14DN 교체,7.88,43.6,1.01,Braces power head not working,Damaged clamp sensor PR18-14DN replacement,back side,0.15,2.92851929,261.41,5.995642202
+5호기,후면,2014-11-04 00:00:00,05:00:00,06:15:00,75,1.25,절단기 구동축 슬립,"구동축 슬립발생
+ - 샤프트 육성 용접 후 커플링 조립",4.94,38.9,6.52,Cutter drive shaft slip,"Drive shaft slip occurs
+ - Assemble the coupling after welding the shaft",back side,0.15,2.48751929,311.01,7.995115681
+5호기,후면,2014-11-13 00:00:00,03:40:00,04:00:00,20,0.33,게이지헤드 전/후진 동작불능,게이지헤드 클램핑장치 2개소 중 1개소 동작 불능으로 임시조치,4.94,38.9,6.52,Gauge head forward/reverse operation not possible,Temporary measure taken as one of two gauge head clamping devices is inoperable,back side,0.15,2.48751929,311.01,7.995115681
+5호기,기타,2016-09-12 00:00:00,22:30:00,23:00:00,30,0.5,온도상승 불능으로 점검요청,MC225B 열화로 교체 후 정상동작,0.68,36.8,1.84,Inspection request due to inability to increase temperature,Normal operation after replacement due to MC225B deterioration,etc,0.06,0.739407716,331.6,9.010869565
+6호기,압출기,1월28일,20:30:00,20:45:00,15,0.3,다이슬라이드 근접센서 ,소손 교체작업,0.56,59.1,0.95,Dieslide proximity sensor,Burnout replacement work,extruder,0.35,4.271211677,295.43,4.998815567
+6호기,압출기,1월28일,05:30:00,06:10:00,40,0.7,콘테이너 씰링 펌프 죠,카풀러 파손 임시조치 작업,0.56,59.1,0.95,Container Sealing Pump Jaws,Temporary measures for carpooler damage,extruder,0.35,4.271211677,295.43,4.998815567
+6호기,압출기,2월19일,13:40:00,16:40:00,180,3,오일쿨러 냉각수 펌프,베아링 및 씰교체 작업,1.25,75.8,1.65,Oil cooler coolant pump,Bearing and seal replacement work,extruder,0.35,4.512711677,303.13,3.999076517
+6호기,압출기,2월19일,10:45:00,10:55:00,10,0.2,2번 메인 펌프 풀러그 ,오일 누유 오링 교체작업,1.25,75.8,1.65,No. 2 main pump pull lug,Oil leak O-ring replacement work,extruder,0.35,4.512711677,303.13,3.999076517
+6호기,압출기,3월1일,14:10:00,14:30:00,20,0.3,콘테이너 씰링 압력 不,op판넬 에서 조작 미숙으로,1.12,64.5,1.73,No container sealing pressure,Due to poor operation of the op panel,extruder,0.35,4.467211677,387.14,6.002170543
+6호기,압출기,3월10일,06:10:00,07:00:00,50,0.8,메인 전진 不,휴즈 홀더 교체후 정상,1.12,64.5,1.73,Main advance no,Normal after fuse holder replacement,extruder,0.35,4.467211677,387.14,6.002170543
+6호기,압출기,4월25일,09:15:00,09:30:00,15,0.2,메인펌프 동작 不,서보밸브 오일오염으로 인한 교체,0.73,66.1,1.1,Main pump not operating,Replacement due to servo valve oil contamination,extruder,0.35,4.330711677,264.43,4.000453858
+6호기,압출기,4월27일,09:00:00,09:35:00,35,0.6,콘테이너 실링 릴리프밸브, 바디 크랙으로 오일누유 교체,0.73,66.1,1.1,Container sealing relief valve,Replace oil leak due to body crack,extruder,0.35,4.330711677,264.43,4.000453858
+6호기,압출기,5월12일,07:10:00,08:30:00,80,1.3,메인펌프1번 후렛시 호스 누유 ,분해후 오링 교체작업,1.22,23.4,5.22,Main pump No. 1 flash hose leak,O-ring replacement after disassembly,extruder,0.35,4.502211677,210.83,9.00982906
+6호기,압출기,5월17일,07:20:00,08:30:00,70,1.2,빌레트 로다 동작 에러,릴리프 밸브 오염 제거 작업,1.22,23.4,5.22,Billet loader operation error,Relief valve decontamination operation,extruder,0.35,4.502211677,210.83,9.00982906
+6호기,압출기,5월18일,05:20:00,06:10:00,50,0.8,씰링 배관 누유,배관 크랙 부위 육성 용접,1.22,23.4,5.22,Sealing pipe leak,Welding of pipe cracks,extruder,0.35,4.502211677,210.83,9.00982906
+6호기,압출기,5월27일,21:10:00,22:30:00,80,1.3,빠일롯트 배관 크랙 누유,분해 후 용접 작업,1.22,23.4,5.22,Pilot pipe crack leak,Welding work after disassembly,extruder,0.35,4.502211677,210.83,9.00982906
+6호기,압출기,5월30일,13:30:00,16:50:00,200,3.3,스템 전단 으로 예비품 ,으로 교체 작업,1.22,23.4,5.22,Stem Shear To Spare Parts,Replace operation with,extruder,0.35,4.502211677,210.83,9.00982906
+6호기,압출기,6월9일,19:00:00,22:40:00,220,3.7,빌레트 로다 페드 파손,페드 교정 후 조립,1.73,65.5,2.63,Billet rodaped damaged,Assemble after calibrating the pad,extruder,0.35,4.680711677,262.06,4.000916031
+6호기,압출기,6월13일,13:50:00,14:40:00,50,0.8,콘테이너 씰링 압력 저,릴리프 밸브 압력 조정 작업,1.73,65.5,2.63,Container sealing pressure low,Relief valve pressure adjustment operation,extruder,0.35,4.680711677,262.06,4.000916031
+6호기,압출기,7월25일,22:20:00,22:50:00,30,0.5,메인 사이드 압력 상승,저하 로 다믕 동작 不,2.07,68.3,3.03,Main side pressure rise,No operation due to deterioration,extruder,0.35,4.799711677,204.93,3.000439239
+6호기,압출기,9월5일,21:30:00,23:35:00,125,2.1,빌레트 보조 실린다,페킹 정비,3.87,49.6,7.79,Billet auxiliary load,peking maintenance,extruder,0.35,5.429711677,297.7,6.002016129
+6호기,압출기,9월7일,18:10:00,20:30:00,140,2.3,압출 빠일롯트 펌프,오일쿨러 누유 교체작업,3.87,49.6,7.79,Extrusion Pilot Pump,Oil cooler oil leak replacement work,extruder,0.35,5.429711677,297.7,6.002016129
+6호기,압출기,9월21일,13:30:00,17:30:00,240,4,옥스 펌프 이상 킷트 구매,후 교체 시운전,3.87,49.6,7.79,Purchase a kit for Ox pump or higher,After replacement test run,extruder,0.35,5.429711677,297.7,6.002016129
+6호기,압출기,9월22일,08:30:00,19:00:00,630,10.5,빌렛트 로다 힌지 부시,교체및 교정 작업,3.87,49.6,7.79,Billet Roda Hinge Bush,Replacement and calibration work,extruder,0.35,5.429711677,297.7,6.002016129
+6호기,압출기,2016-09-06 00:00:00,20:50:00,23:35:00,165,2.8,보조 로더 실린더 피스톤 파손,보조 로더 실린더 피스톤 파손 교체수리(파레트 부족),2.53,16.5,15.28,Auxiliary loader cylinder piston broken,Auxiliary loader cylinder piston damage replacement and repair (lack of pallet),extruder,0.35,4.960711677,297.7,18.04242424
+6호기,압출기,2016-09-07 00:00:00,05:35:00,06:20:00,45,0.8,콘테이너 히터 (히터측)배선 SHORT로 점검 요청,콘테이너 히터 배선 절연 불량으로 테이핑 및 재고정후 SCR UNIT T상 휴즈 융단 교체,2.53,16.5,15.28,Request inspection with container heater (heater side) wiring SHORT,Replaced SCR UNIT T-phase fuse carpet after taping and re-fixing due to poor container heater wiring insulation.,extruder,0.35,4.960711677,297.7,18.04242424
+6호기,압출기,2016-09-21 00:00:00,13:30:00,17:30:00,240,4,빠이 롯트 펌프 토출 이상,빠이 롯트 펌프 토출 이상 펌프 키트 교체(32번),2.53,16.5,15.28,Pyrot pump discharge error,Replace the pump kit due to defective discharge of the rotary pump (No. 32),extruder,0.35,4.960711677,297.7,18.04242424
+6호기,압출기,2016-09-22 00:00:00,08:30:00,19:00:00,630,10.5,로더 축 부싱 파손,로더 축 부싱 파손 교체,2.53,16.5,15.28,Loader shaft bushing broken,Damaged loader shaft bushing replacement,extruder,0.35,4.960711677,297.7,18.04242424
+6호기,압출기,2016-10-08 00:00:00,08:30:00,08:50:00,20,0.3,콘테이너 히터 온도상승 불능으로 점검요청,"FUSE ""T상""교체작업 ",0.36,57.4,0.63,Inspection request due to container heater temperature not rising,FUSE “T phase” replacement work,extruder,0.35,4.201211677,286.9,4.99825784
+6호기,압출기,2016-10-21 00:00:00,01:40:00,01:50:00,10,0.2,OP 판넬 압출 CYCLE START PB S/W 교체 요청,CYCLE START PB S/W(KH-513) 교체,0.36,57.4,0.63,OP panel extrusion CYCLE START PB S/W replacement request,CYCLE START PB S/W (KH-513) replacement,extruder,0.35,4.201211677,286.9,4.99825784
+6호기,압출기,2016-10-07 00:00:00,19:44:00,20:00:00,16,0.3,콘테이너 히터 온도 저하로 점검요청,FUSE 소손으로 2EA교체.,0.36,57.4,0.63,Inspection request due to drop in container heater temperature,Replaced 2EA due to fuse burnout.,extruder,0.35,4.201211677,286.9,4.99825784
+6호기,압출기,2016-10-18 00:00:00,18:50:00,19:20:00,30,0.5,전산용pc차단기 트립,수전실 전산용 누전차단기 복귀,0.36,57.4,0.63,Computer pc breaker trip,Earth leakage circuit breaker for computer system in power supply room is restored,extruder,0.35,4.201211677,286.9,4.99825784
+6호기,압출기,2016-11-05 00:00:00,12:00:00,12:30:00,30,0.5,메인 펌프 이상 작동 안됨,메인 펌프 이상 작동 안됨 점검 후 작동,0.5,336.7,0.15,Main pump not working properly,Main pump does not work properly. Operate after inspection.,extruder,0.35,4.250211677,336.7,1
+6호기,압출기,2014-08-11 00:00:00,13:30:00,14:20:00,50,0.8,메인 후진밸브 오리피스 막힘,오리피스 청소,4.93,28.4,5.93,Main reverse valve orifice is clogged,Orifice cleaning,extruder,0.35,5.800711677,311.85,10.9806338
+6호기,압출기,2014-08-26 00:00:00,08:50:00,10:00:00,70,1.2,유압펌프 작동이상,유압펌프 교체,4.93,28.4,5.93,Hydraulic pump malfunction,Hydraulic pump replacement,extruder,0.35,5.800711677,311.85,10.9806338
+6호기,압출기,2014-08-29 00:00:00,22:00:00,08:30:00,410,6.8,메인램 후진동작 불능,메인램 2차에 걸쳐 정비,4.93,28.4,5.93,Main ram reverse operation not possible,Main RAM maintenance in 2 stages,extruder,0.35,5.800711677,311.85,10.9806338
+6호기,압출기,2014-09-11 00:00:00,09:10:00,09:25:00,15,0.3,메인램 전후진 동작불능,"오리피스 분해후 청소, 정상작동",3.92,44.5,1.61,Main ram cannot move forward or backward,"Orifice disassembled and cleaned, normal operation",extruder,0.35,5.447211677,266.89,5.99752809
+6호기,압출기,2014-09-29 00:00:00,03:50:00,04:35:00,45,0.7,메인램 후진 작동 불능,후진 볼륨 밸브 청소작업,3.92,44.5,1.61,Main ram reverse operation not working,Reverse volume valve cleaning work,extruder,0.35,5.447211677,266.89,5.99752809
+6호기,압출기,2014-09-30 00:00:00,18:10:00,19:30:00,80,1.3,사이드실린더 누유,사이드 실린더 유 패킹 교체작업,3.92,44.5,1.61,Side cylinder leak,Side cylinder oil packing replacement work,extruder,0.35,5.447211677,266.89,5.99752809
+6호기,압출기,2014-11-19 00:00:00,09:00:00,12:00:00,170,2.8,사이드실린더 누유,배관 파손부위 용접작업,21.28,246.8,1.13,Side cylinder leak,Welding work on damaged pipes,extruder,0.35,11.52321168,246.76,0.999837925
+6호기,가열로,2월11일,08:30:00,10:00:00,90,1.5,모추럴 모타 방폭 함,취부후 시운전,1.25,75.8,1.65,Natural motor explosion proof box,Test run after installation,heating furnace,0.25,3.223365483,303.13,3.999076517
+6호기,가열로,2월19일,11:45:00,12:05:00,20,0.3,푸시백 실린다 오일 누유,실린다 예비품 으로 교체,1.25,75.8,1.65,Pushback cylinder oil leak,Replaced with Silinda spare part,heating furnace,0.25,3.223365483,303.13,3.999076517
+6호기,가열로,3월5일,22:00:00,23:00:00,60,1,푸샤 전 후 진 不,솔레노이드 밸브 접촉 불량,1.12,64.5,1.73,No before or after Pusha,Poor solenoid valve contact,heating furnace,0.25,3.190865483,387.14,6.002170543
+6호기,가열로,3월12일,02:21:00,03:10:00,49,0.8,빌레트 전진 不,프레샤 스위치 에러 조정 작업,1.12,64.5,1.73,Billet not moving forward,Pressure switch error adjustment work,heating furnace,0.25,3.190865483,387.14,6.002170543
+6호기,가열로,3월15일,20:30:00,23:50:00,200,3.3,빌레트가열로  종1~2번,애자 파손 예비품으로 교체,1.12,64.5,1.73,Billet heating furnace type 1~2,Replace damaged insulator with spare part,heating furnace,0.25,3.190865483,387.14,6.002170543
+6호기,가열로,5월3일,04:00:00,04:30:00,30,0.5,빌레트 가열로 퍼지 완료 지연,가스 압력 저하 로 지연 확인,1.22,23.4,5.22,Delay in purge completion due to billet heating,Confirmation of delay due to low gas pressure,heating furnace,0.25,3.215865483,210.83,9.00982906
+6호기,가열로,5월3일,01:30:00,02:00:00,30,0.5,빌레트 온 도 편차,프르 브 애자 교체후 정상,1.22,23.4,5.22,Billet temperature deviation,Normal after replacing probe insulator,heating furnace,0.25,3.215865483,210.83,9.00982906
+6호기,가열로,5월23일,08:30:00,09:14:00,44,0.7,로그샤 이젝트 실린다,동작 불 감지센서 교체,1.22,23.4,5.22,Logsha Ejector Cylinder,Replacement of motion detection sensor,heating furnace,0.25,3.215865483,210.83,9.00982906
+6호기,가열로,6월21일,08:50:00,09:30:00,40,0.7,HOT JAT FAN M/M,링 게이지 이탈 교정 작업,1.73,65.5,2.63,HOT JAT FAN M/M,Ring gauge deviation correction work,heating furnace,0.25,3.343365483,262.06,4.000916031
+6호기,가열로,7월27일,15:40:00,19:00:00,200,3.3,빌레트 가열로  PLC 알람,PLC카드 세척 및 출력카드 교체,2.07,68.3,3.03,Billet heating furnace PLC alarm,PLC card cleaning and output card replacement,heating furnace,0.25,3.428365483,204.93,3.000439239
+6호기,가열로,7월28일,22:36:00,01:00:00,144,2.4,빌레트 가열로 PLC 알람,발생 헤제 작업,2.07,68.3,3.03,Billet heating furnace PLC alarm,Occurrence clearing operation,heating furnace,0.25,3.428365483,204.93,3.000439239
+6호기,가열로,8월05일,07:00:00,08:20:00,80,1.3,DOOR 출구측 IP5200 SOL 교체,Hotjet Fan 온도 신호 변환기 델타 I/O 교체,1,10.2,9.79,DOOR exit side IP5200 SOL replacement,Hotjet Fan Temperature Signal Converter Delta I/O Replacement,heating furnace,0.25,3.160865483,254.4,24.94117647
+6호기,가열로,8월08일,18:30:00,19:00:00,30,0.5,조작전원용 MC 소손으로 조작 불능,MC-40A 110V 교체후 정상동작,1,10.2,9.79,Impossible to operate due to burnout of MC for operating power,Normal operation after replacement of MC-40A 110V,heating furnace,0.25,3.160865483,254.4,24.94117647
+6호기,가열로,8월08일,11:30:00,12:30:00,60,1,Zone#2 점화 불능,PLC 출력카드 FTU-266B 교체,1,10.2,9.79,Zone#2 Ignition not possible,PLC output card FTU-266B replacement,heating furnace,0.25,3.160865483,254.4,24.94117647
+6호기,가열로,8월09일,12:30:00,13:30:00,60,1,푸시백 실린더 로드 누유,실린더 로드 누유 교체,1,10.2,9.79,Pushback cylinder rod leak,Cylinder rod oil leak replacement,heating furnace,0.25,3.160865483,254.4,24.94117647
+6호기,가열로,8월25일,00:30:00,01:30:00,60,1,푸시백 실린더 로드 누유,실린더 로드 누유 교체,1,10.2,9.79,Pushback cylinder rod leak,Cylinder rod oil leak replacement,heating furnace,0.25,3.160865483,254.4,24.94117647
+6호기,가열로,8월31일,08:10:00,10:00:00,110,1.8,가열로 메인 gas 점화시 폭발음,Hotjet Fan M/M 동작 점검,1,10.2,9.79,Explosion sound when main gas ignition in heating furnace,Check Hotjet Fan M/M operation,heating furnace,0.25,3.160865483,254.4,24.94117647
+6호기,가열로,9월2일,02:30:00,02:50:00,20,0.3,로그샤 크레들 UP-DOWN,감지센서 교체 작업,3.87,49.6,7.79,Logsha Cradle UP-DOWN,Detection sensor replacement work,heating furnace,0.25,3.878365483,297.7,6.002016129
+6호기,가열로,2016-09-29 00:00:00,20:30:00,20:40:00,10,0.2,ZONE#1 파이롯트 배선 단선으로 점화 안됨,배선 연결 후 정상동작,2.53,16.5,15.28,ZONE#1 Pilot wire disconnection does not ignite,Normal operation after wiring connection,heating furnace,0.25,3.543365483,297.7,18.04242424
+6호기,가열로,2016-09-02 00:00:00,02:30:00,02:50:00,20,0.3,크래들 UP/DOWN 감지 센서 열화로 교체요청,PRT18-5DO(2EA)교체,2.53,16.5,15.28,Request for replacement due to deterioration of cradle UP/DOWN detection sensor,PRT18-5DO(2EA) replacement,heating furnace,0.25,3.543365483,297.7,18.04242424
+6호기,가열로,2016-10-31 00:00:00,12:10:00,12:40:00,30,0.5,ZONE#2 열전대 휘어져 보수요청,"열전대 교정작업, 2홀 애자 교체.",0.36,57.4,0.63,"ZONE#2 Thermocouple is bent, requesting repairs","Thermocouple calibration work, 2-hole insulator replacement.",heating furnace,0.25,3.000865483,286.9,4.99825784
+6호기,가열로,2014-08-12 00:00:00,00:00:00,00:25:00,25,0.4,Probe zone#2 전후진 동작 불능,실린더 교체 및 연결부위 용접작업,4.93,28.4,5.93,Probe zone#2 cannot move forward or backward,Cylinder replacement and connection welding work,heating furnace,0.25,4.143365483,311.85,10.9806338
+6호기,가열로,2014-08-25 00:00:00,08:15:00,08:35:00,20,0.3,온도이상으로 점검,scr퓨즈 T상 교체,4.93,28.4,5.93,Check for temperature abnormalities,Scr fuse T phase replacement,heating furnace,0.25,4.143365483,311.85,10.9806338
+6호기,풀러,1월23일,08:30:00,09:45:00,75,1.3,풀러 와이어 로프 소손,와이어 로프 교체작업,0.56,59.1,0.95,puller wire rope burnout,Wire rope replacement work,fuller,0.09,1.098311574,295.43,4.998815567
+6호기,풀러,8월20일,12:00:00,15:21:00,201,3.4,풀라 감속기 베어링 파손,베어링 교체,1,10.2,9.79,Fulla reducer bearing damage,bearing replacement,fuller,0.09,1.137911574,254.4,24.94117647
+6호기,풀러,8월29일,21:10:00,23:40:00,150,2.5,풀라 바퀴 이탈,베어링 교체,1,10.2,9.79,Pull the wheel off,bearing replacement,fuller,0.09,1.137911574,254.4,24.94117647
+6호기,풀러,2016-09-07 00:00:00,10:00:00,12:25:00,145,2.4,공작반 유압유닛보수로 모터배선 탈착요청,배선 탈착및 시운전확인. 부하전류4~5A,2.53,16.5,15.28,Request for removal of motor wiring due to repair of hydraulic unit of machine tool,Check wiring removal and test run. Load current 4~5A,fuller,0.09,1.275611574,297.7,18.04242424
+6호기,풀러,2014-08-05 00:00:00,05:00:00,07:10:00,90,1.5,풀라 와이어 파손,와이어 교체작업,4.93,28.4,5.93,Puller wire breakage,Wire replacement work,fuller,0.09,1.491611574,311.85,10.9806338
+6호기,풀러,2014-08-18 00:00:00,14:24:00,16:00:00,96,1.6,풀러 후진 감속중 멈춤현상,PLC모니터 점검 및 오버 힛 알람해제,4.93,28.4,5.93,Puller stops during reverse deceleration,PLC monitor check and overheat alarm release,fuller,0.09,1.491611574,311.85,10.9806338
+6호기,풀러,2014-08-20 00:00:00,05:40:00,06:15:00,35,0.6,풀러 동작불능,차단기 TRIP으로 차단기 복구 후 정상작동,4.93,28.4,5.93,Puller not working,Normal operation after restoration of circuit breaker with circuit breaker trip,fuller,0.09,1.491611574,311.85,10.9806338
+6호기,풀러,2014-10-18 00:00:00,07:15:00,07:35:00,20,0.3,OP판넬 측 거리 값 이상,엔코더 커플링 고정 안되있음 고정,18.39,164.4,0.61,The distance value on the OP panel side is abnormal.,Encoder coupling is not fixed. Fixed.,fuller,0.09,2.703011574,328.41,1.997627737
+6호기,핫쏘,3월31일,08:50:00,09:20:00,30,0.5,HOT SAW BELT 전단,벨트 교체 작업,1.12,64.5,1.73,HOT SAW BELT Shear,Belt replacement work,Hasso,0.1,1.276346193,387.14,6.002170543
+6호기,후면,1월6일,21:40:00,21:55:00,15,0.3,스트레차 PLC 알람,전원 ON/OFF반복 동작후 정상,0.56,59.1,0.95,Strezza PLC Alarm,Normal after power ON/OFF repeated operation,back side,0.15,1.83051929,295.43,4.998815567
+6호기,후면,1월7일,02:12:00,02:25:00,13,0.2,스페이스 바 공급 C/V,에러 말굽 센서 교체후 정상,0.56,59.1,0.95,Space Bar Supply C/V,Normal after replacing the error horseshoe sensor,back side,0.15,1.83051929,295.43,4.998815567
+6호기,후면,4월2일,03:50:00,04:55:00,65,1.1,스텍카 물류 콘베어 UP/,DOWON,0.73,66.1,1.1,Stecca Logistics Conveyor UP/,DOWON,back side,0.15,1.85601929,264.43,4.000453858
+6호기,후면,4월6일,10:00:00,11:00:00,60,1,게이지 헤드 브레크 슬립,부레크 조절 작업,0.73,66.1,1.1,Gauge head brake slip,Brake adjustment work,back side,0.15,1.85601929,264.43,4.000453858
+6호기,후면,5월30일,19:05:00,20:30:00,85,1.4,파워헤드 구동 베아링,파손 교체 작업,1.22,23.4,5.22,Powerhead drive bearing,Damaged replacement work,back side,0.15,1.92951929,210.83,9.00982906
+6호기,후면,6월13일,10:00:00,11:40:00,100,1.7,엔드 SAW 클럼프 실린다 ,동작 안됨 조정작업,1.73,65.5,2.63,End SAW Clamp Cylinder,Not working Adjustment work,back side,0.15,2.00601929,262.06,4.000916031
+6호기,후면,8월9일,14:50:00,17:15:00,145,2.4,헨드링 유압유니트 로딩,솔레 노이드 확인 후 교체 작업,1,10.2,9.79,Hendring hydraulic unit loading,Replacement work after checking the solenoid,back side,0.15,1.89651929,254.4,24.94117647
+6호기,후면,8월29일,18:00:00,18:30:00,30,0.5,RUN OUT C/V 구동 不,인버터 에러 신품 으로 교체,1,10.2,9.79,RUN OUT C/V not running,Inverter error Replace with new product,back side,0.15,1.89651929,254.4,24.94117647
+6호기,후면,8월24일,03:50:00,04:05:00,15,0.2,Saw Feed C/V 구동 불능,인버터 Error reset ,1,10.2,9.79,Saw Feed C/V operation not possible,Inverter Error reset,back side,0.15,1.89651929,254.4,24.94117647
+6호기,후면,2016-09-02 00:00:00,22:00:00,22:10:00,10,0.2,쫄대C/V 자동운전시 저속운전됨.,이물질 제거후 정상동작,2.53,16.5,15.28,Jjoldae C/V operates at low speed during automatic operation.,Normal operation after removing foreign substances,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-03 00:00:00,07:20:00,08:10:00,50,0.8,게이지헤드 원점 정지감지센서 파손으로교체.,PRL30-15DN(1EA)교체,2.53,16.5,15.28,Gauge head origin stop detection sensor replaced due to damage.,PRL30-15DN (1EA) replacement,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-08 00:00:00,18:10:00,12:30:00,1100,18.3,유압 유니트 서비스 탱크 쿨러 파손,유압 유니트 서비스 탱크 쿨러 파손 설치 작업,2.53,16.5,15.28,Damaged hydraulic unit service tank cooler.,Hydraulic unit service tank cooler damage installation work,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-21 00:00:00,03:00:00,03:20:00,20,0.3,쫄대배출 안되 점검요청,AIR SOL V/V 스폴 청소 후 정상동작됨,2.53,16.5,15.28,Request for inspection as jjoldae is not discharged,AIR SOL V/V operates normally after cleaning the spool.,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-20 00:00:00,02:00:00,02:15:00,15,0.3,게이지 헤드 전/후진 동작불능,MOTOR 벨트 텐션 조정,2.53,16.5,15.28,Gauge head forward/reverse operation not possible,MOTOR belt tension adjustment,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-07 00:00:00,09:30:00,11:00:00,90,1.5,HOT SAW 케이블베어 노후로 교체작업,케이블베어 3M교체 작업,2.53,16.5,15.28,Replacement work for old HOT SAW cable bear,Cable bear 3M replacement work,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-24 00:00:00,02:00:00,02:15:00,15,0.3,모니터 절반만 보임., 모니터 및 케이블 교체필요,2.53,16.5,15.28,Only half of the monitor is visible.,Monitor and cable need replacement,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-23 00:00:00,11:30:00,12:10:00,40,0.7,SPACE-BAR 투입 불량으로 점검,SPACE-BAR  DROP 장치  AIR SOL 불량으로 교환,2.53,16.5,15.28,Check due to poor SPACE-BAR input,SPACE-BAR DROP device AIR SOL replaced due to defective,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-29 00:00:00,13:55:00,14:35:00,40,0.7,GANTRY T/V 전/후진 동작 정지시 밀림 현상,GANTRY T/V 전/후진 동작 모터 B/K 패드 마모로 교체,2.53,16.5,15.28,GANTRY T/V pushing phenomenon when forward/backward motion stops,GANTRY T/V forward/backward motion motor B/K replaced due to pad wear,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2016-09-22 00:00:00,23:30:00,00:35:00,65,1.1,스텍카 ELEVATOR UP동작불능으로 점검요청,비상S/W 해제후 정상동작,2.53,16.5,15.28,Inspection request due to STACKER ELEVATOR UP not working,Normal operation after emergency S/W release,back side,0.15,2.12601929,297.7,18.04242424
+6호기,후면,2014-08-04 00:00:00,09:00:00,12:14:00,194,3.2,스테카 GENTRY T/V 인버터 내부소손 확인,"GENTRY T/V 교체 및 모터 패드 교체, 
+전/후진 센서 위치 조정",4.93,28.4,5.93,Check internal burnout of Steca GENTRY T/V inverter,"GENTRY T/V replacement and motor pad replacement,
+Forward/backward sensor position adjustment",back side,0.15,2.48601929,311.85,10.9806338
+6호기,후면,2014-08-11 00:00:00,22:00:00,00:00:00,39,0.7,GANTRY T/V Slow 동작 불능,인버터 SLOW 입력 위치 변경후 정상작동,4.93,28.4,5.93,GANTRY T/V Slow does not operate,Normal operation after changing the inverter SLOW input position,back side,0.15,2.48601929,311.85,10.9806338
+6호기,후면,2014-08-14 00:00:00,04:10:00,05:30:00,80,1.3,런아웃 C/V 롤러 끼임현상,롤러 끼임 부위 제거 후 정상작동,4.93,28.4,5.93,Runout C/V roller jamming phenomenon,Normal operation after removal of roller jamming area,back side,0.15,2.48601929,311.85,10.9806338
+6호기,후면,2014-09-11 00:00:00,09:00:00,09:45:00,45,0.8,절단기 게이지헤드 동작불능,게이지 콘베어 상승하강 작동후 헤드 정상작동,3.92,44.5,1.61,Cutter gauge head not working,Head operates normally after the gauge conveyor rises and falls.,back side,0.15,2.33451929,266.89,5.99752809
+6호기,후면,2014-09-12 00:00:00,07:00:00,07:21:00,21,0.3,트랜스베어 스위치봉 파손,파손부위 용접작업,3.92,44.5,1.61,Transbear switch rod damaged,Welding work on damaged areas,back side,0.15,2.33451929,266.89,5.99752809
+6호기,후면,2014-10-20 00:00:00,19:00:00,20:40:00,100,1.7,"절단기 톱날 고정축 
+베어링파손",파손된 베어링 교체작업,18.39,164.4,0.61,"Cutting machine saw blade fixed axis
+Bearing damage",Damaged bearing replacement work,back side,0.15,4.50501929,328.41,1.997627737
+6호기,기타,8월20일,11:30:00,12:05:00,35,0.6,OIL 정제기 모터 외부 수리 입고,"OIL 정제기 모터 설치 시운전 완료 (정격:8.2A, 현재: 4.3A)",1,10.2,9.79,OIL purifier motor external repair in stock,"OIL purifier motor installation and test run completed (rating: 8.2A, current: 4.3A)",etc,0.06,0.758607716,254.4,24.94117647
+6호기,기타,2014-09-22 00:00:00,16:10:00,17:00:00,50,0.8,지브크레인 S/W파손으로 교체,조작 S/W교체 후 정상동작,3.92,44.5,1.61,Jib crane S/W replaced due to damage,Normal operation after replacement of operation S/W,etc,0.06,0.933807716,266.89,5.99752809
+7호기,압출기,1월7일,09:55:00,10:55:00,60,1,콘테이너 실린다 V-PACKING,교체 작업,1,433.8,0.23,Container Cylinder V-PACKING,replacement work,extruder,0.35,4.425211677,433.8,1
+7호기,압출기,2월1일,02:30:00,21:45:00,1155,19.3,빌레트 절단기 축 전단,전단된 부위 용접 후 가공 조립,7.13,123.5,5.77,Billet Cutting Machine Shaft Shear,Processing and assembly after welding the sheared area,extruder,0.35,6.570711677,370.57,3.000566802
+7호기,압출기,4월14일,05:45:00,06:20:00,35,0.6,유압 솔레노이드 누유,노후로 누유 예비품 으로 교체 작업,0.45,181.2,0.25,Hydraulic solenoid leak,Replacement work with spare parts due to oil leakage,extruder,0.35,4.232711677,362.32,1.999558499
+7호기,압출기,5월9일,10:00:00,10:15:00,15,0.2,메인 압력 디스풀레이 불량,으로 전원 단선 복구 작업,1.7,72.8,2.34,Main pressure display defective,Power cut recovery operation,extruder,0.35,4.670211677,363.94,4.999175824
+7호기,압출기,5월17일,20:30:00,21:40:00,70,1.2,콘테이너 배관 크랙으로 누유,배관 불리후 용접 작업,1.7,72.8,2.34,Leakage due to container pipe cracks,Piping adverse welding work,extruder,0.35,4.670211677,363.94,4.999175824
+7호기,압출기,8월11일,13:50:00,14:44:00,54,0.9,다이스 이송대 풀렌지 고정 ,볼트 풀림 으로 동작 시 걸림 현상 조임 작업,0.74,42.9,1.72,Dice transfer table full range fixation,Tightening of jamming phenomenon during operation due to loosening of bolts,extruder,0.35,4.334211677,429,10
+7호기,압출기,8월23일,06:10:00,08:00:00,110,1.8,휙스 더미 고정 볼트 파손,분해 후 볼트 교체 작업,0.74,42.9,1.72,Whoosh pile fixing bolt is broken,Bolt replacement after disassembly,extruder,0.35,4.334211677,429,10
+7호기,압출기,8월23일,01:52:00,02:56:00,64,1.1,콘테이너 유압 배관 크랙,배관 불리 후 용접 작업,0.74,42.9,1.72,Container Hydraulic Piping Crack,Welding work after piping failure,extruder,0.35,4.334211677,429,10
+7호기,압출기,9월21일,22:55:00,23:11:00,16,0.3,메인 샤 닛뿔 크랙 으로 누유,닛뿔 제거후 교체 조립,2.94,75.6,3.89,Oil leak through main shani horn crack,Replacement assembly after removing the horn,extruder,0.35,5.104211677,378,5
+7호기,압출기,9월23일,12:05:00,14:00:00,115,1.9,콘테이너 배관 크랙 누유,배관 불리후 용접 작업,2.94,75.6,3.89,Container piping crack leak,Piping adverse welding work,extruder,0.35,5.104211677,378,5
+7호기,압출기,9월23일,01:30:00,02:25:00,55,0.9,빠일롯트 배관 크랙 누유,배관 용접 작업,2.94,75.6,3.89,Pilot pipe crack leak,pipe welding work,extruder,0.35,5.104211677,378,5
+7호기,압출기,2016-09-05 00:00:00,22:30:00,22:35:00,5,0.1,메인샤  이상 알람 발생으로 자동 운전 불능,메인샤 L/S 레바 부려짐 →L/S 레바 교체,1.7,34.4,4.95,Automatic operation is disabled due to a mainsha abnormality alarm.,Mainsha L/S lever broken →L/S lever replaced,extruder,0.35,4.670211677,378,10.98837209
+7호기,압출기,2016-09-23 00:00:00,12:05:00,14:00:00,115,1.9,콘테이너 배관 크렉 누유,콘테이너 배관 크렉 누유 용접 수리,1.7,34.4,4.95,Container piping crack leak,Container piping crack leak welding repair,extruder,0.35,4.670211677,378,10.98837209
+7호기,압출기,2016-09-23 00:00:00,01:30:00,02:25:00,55,0.9,빠이롯트 펌프 배관 크렉 누유,빠이롯트 펌프 배관 크렉 누유용접 수리,1.7,34.4,4.95,Pilot pump piping crack leak,Pilot pump piping crack oil leak welding repair,extruder,0.35,4.670211677,378,10.98837209
+7호기,압출기,2016-10-11 00:00:00,12:30:00,13:30:00,60,1,샤 유압 배관 크렉 누유,샤 유압 배관 크렉 누유 용접 수리,0.74,28.4,2.59,Sha hydraulic pipe crack leak,Sha Hydraulic Piping Crack Leakage Welding Repair,extruder,0.35,4.334211677,398,14.01408451
+7호기,압출기,2016-10-10 00:00:00,08:30:00,10:44:00,134,2.2,신양2 100HP콤푸레샤 물 유입,청소및 파트 교체,0.74,28.4,2.59,Shinyang 2 100HP compressor water inflow,Cleaning and Part Replacement,extruder,0.35,4.334211677,398,14.01408451
+7호기,압출기,2016-11-21 00:00:00,08:30:00,12:30:00,240,4,압출 압력 형성 안됨,쏠 점검및 로직 밸브 청소후 압력 상승,4,441.1,0.91,No extrusion pressure build up,Pressure rises after inspecting the sole and cleaning the logic valve,extruder,0.35,5.475211677,441.1,1
+7호기,압출기,2014-08-08 00:00:00,00:10:00,01:40:00,215,3.6,파일럿 유압배관 유압호스 닛쁠 용접,유압호스 닛쁠 용접 후 조치작업,7,77.6,3.89,Pilot hydraulic piping hydraulic hose nipple welding,Measures taken after hydraulic hose nipple welding,extruder,0.35,6.525211677,387.85,4.99806701
+7호기,압출기,2014-08-14 00:00:00,01:40:00,09:20:00,460,7.7,AUX PUMP 모터 교체,펌프 모터 배선 제거 및 외주수리,7,77.6,3.89,AUX PUMP motor replacement,Pump motor wiring removal and outsourced repairs,extruder,0.35,6.525211677,387.85,4.99806701
+7호기,압출기,2014-08-15 00:00:00,05:18:00,07:10:00,112,1.9,콘테이너 배관 누유,콘테이너 씰링 교체작업,7,77.6,3.89,container piping leak,Container seal replacement work,extruder,0.35,6.525211677,387.85,4.99806701
+7호기,압출기,2014-09-19 00:00:00,23:04:00,23:55:00,51,0.9,씨링 펌프 배관크랙,크랙부위 보강 용접작업,7.86,94.8,1.58,Sea ring pump pipe crack,Reinforcement welding work on crack areas,extruder,0.35,6.826211677,379.2,4
+7호기,압출기,2014-10-27 00:00:00,22:30:00,22:40:00,10,0.2,유압펌프 커플링 마모,커플링 마모부위 교체작업,34.83,192.3,0.08,Hydraulic pump coupling wear,Coupling wear part replacement work,extruder,0.35,16.26571168,384.54,1.999687988
+7호기,압출기,2014-11-24 00:00:00,08:40:00,10:00:00,90,1.5,로더 및 보조로더 속도이상,실린더 교체 및 속도조정,6.3,79.8,1.4,Loader and auxiliary loader speed error,Cylinder replacement and speed adjustment,extruder,0.35,6.280211677,398.98,4.999749373
+7호기,압출기,2014-11-25 00:00:00,18:10:00,19:40:00,90,1.5,로더 실린더 교체작업,실린더 교체작업,6.3,79.8,1.4,Loader cylinder replacement work,Cylinder replacement work,extruder,0.35,6.280211677,398.98,4.999749373
+7호기,가열로,2월23일,13:30:00,14:50:00,80,1.3,인닥션히타 용VCS,교체작업,7.13,123.5,5.77,VCS for induction heater,replacement work,heating furnace,0.25,4.693365483,370.57,3.000566802
+7호기,가열로,3월16일,10:05:00,12:08:00,123,2.1,빌레트 열전대 실린다 페킹,교체작업,2.1,494.4,0.42,Billet thermocouple cylinder packing,replacement work,heating furnace,0.25,3.435865483,494.44,1.000080906
+7호기,가열로,5월4일,00:25:00,03:00:00,155,2.6,인닥션 히타 VCS S상 소손,중고 VCS 로 교체 작업,1.7,72.8,2.34,Induction heater VCS S phase burnout,Replacement work with used VCS,heating furnace,0.25,3.335865483,363.94,4.999175824
+7호기,가열로,6월8일,03:20:00,06:30:00,190,3.2,푸셔 실린다 로드 누공,실린다 분해후 로드 페킹 교체작업,1.73,139.4,1.24,Pusher cylinder rod fistula,Rod packing replacement work after disassembling the cylinder,heating furnace,0.25,3.343365483,418.29,3.000645624
+7호기,가열로,6월24일,16:30:00,17:40:00,70,1.2,빌레트 SAW 인출 C/V,동작 불 콘베어 불리 후 수리,1.73,139.4,1.24,Billet SAW withdrawal C/V,Repair after operation fire conveyor fire,heating furnace,0.25,3.343365483,418.29,3.000645624
+7호기,가열로,8월10일,15:00:00,15:15:00,15,0.2,인덕션히터 7호기 가열시간 단축 요청,인덕션 가열및 냉각 타이머 시간 조절,0.74,42.9,1.72,Request to shorten heating time for induction heater unit 7,Induction heating and cooling timer time adjustment,heating furnace,0.25,3.095865483,429,10
+7호기,가열로,9월30일,08:45:00,20:00:00,675,11.3,인닥션히타 온도 과열 로,빌렛트 녹음 OP TIC 이상 예비품 으로 교체,2.94,75.6,3.89,Induction heater temperature overheating furnace,"Billet recording OP TIC defective, replace with spare part",heating furnace,0.25,3.645865483,378,5
+7호기,가열로,9월30일,20:40:00,21:00:00,20,0.3,인닥션 히타 온도 과열 알람,발생 썸머스타트 트립 복구 후 작업,2.94,75.6,3.89,Induction heater temperature overheating alarm,Actions after recovering from a summer start trip,heating furnace,0.25,3.645865483,378,5
+7호기,가열로,2016-09-30 00:00:00,08:45:00,20:00:00,675,11.3,인덕션 히터내 빌레트 녹아 흘러 푸샤및 열전대 전/후진 동작 불능,산소 이용 빌레트 녹여 제거 및 롤러베어링 교체,1.7,34.4,4.95,"The billet in the induction heater melts and flows, making the pusher and thermocouple unable to move forward/reverse.",Melt and remove billet using oxygen and replace roller bearings,heating furnace,0.25,3.335865483,378,10.98837209
+7호기,가열로,2016-09-30 00:00:00,20:40:00,21:00:00,20,0.3,COIL 과온으로 알람발생,썸머스타트 TRIP으로 복구 후 정상동작됨,1.7,34.4,4.95,Alarm occurs due to COIL overtemperature,Normal operation after recovery with Summer Start TRIP,heating furnace,0.25,3.335865483,378,10.98837209
+7호기,가열로,2016-10-18 00:00:00,13:50:00,14:20:00,30,0.5,COIL OVER TEMP ALARM.,THEMOCOUPLE  TRIP으로 해제 후 정상동작,0.74,28.4,2.59,COIL OVER TEMP ALARM.,Normal operation after release with THERMOCOUPLE TRIP,heating furnace,0.25,3.095865483,398,14.01408451
+7호기,가열로,2016-10-31 00:00:00,19:35:00,21:00:00,85,1.4,인덕션 히터 7호기 E/V MOTOR COIL 소손,"인덕션 히터 7호기 E/V MOTOR (440V,1HP)교체",0.74,28.4,2.59,Induction heater unit 7 E/V MOTOR COIL burnt out,"Induction heater unit 7 E/V MOTOR (440V, 1HP) replacement",heating furnace,0.25,3.095865483,398,14.01408451
+7호기,가열로,2016-10-31 00:00:00,09:00:00,09:15:00,15,0.3,코일온도상승 알람발생.,썸머스텟 접점 리셋후 알람해제.,0.74,28.4,2.59,Coil temperature rise alarm occurs.,Alarm is cleared after resetting the thermostat contact point.,heating furnace,0.25,3.095865483,398,14.01408451
+7호기,가열로,2016-10-18 00:00:00,02:55:00,03:00:00,5,0.1,인덕션히터 가열 불능,보상도선 단선 복구,0.74,28.4,2.59,Induction heater cannot be heated,Compensation conductor disconnection repair,heating furnace,0.25,3.095865483,398,14.01408451
+7호기,가열로,2016-10-06 00:00:00,15:00:00,15:15:00,15,0.2,빌렛트 온도컨트롤러 교체작업.,DX9 교체 및 프로그램 셋업작업.,0.74,28.4,2.59,Billet temperature controller replacement work.,DX9 replacement and program setup work.,heating furnace,0.25,3.095865483,398,14.01408451
+7호기,가열로,2014-09-22 00:00:00,14:23:00,14:35:00,12,0.2,온도계 에어스피드 밸브교체필요,스피드 밸브 교체작업,7.86,94.8,1.58,Thermometer air speed valve needs replacement,Speed ​​valve replacement work,heating furnace,0.25,4.875865483,379.2,4
+7호기,가열로,2014-11-26 00:00:00,14:20:00,14:55:00,35,0.6,"빌레트 절단기 홈파기 
+하부모터 구동 불능",하부모터 THR Trip현상 리셋 후 정상작동,6.3,79.8,1.4,"Billet cutter groove digging
+Lower motor cannot be driven",Normal operation after reset of lower motor THR trip phenomenon,heating furnace,0.25,4.485865483,398.98,4.999749373
+7호기,풀러,2월17일,02:40:00,03:30:00,50,0.8,풀러이동시 떨림 현상,레일 과 풀러 바디 롤러 조정 작업,7.13,123.5,5.77,Tremor phenomenon when moving the puller,Rail and puller body roller adjustment work,fuller,0.09,1.689611574,370.57,3.000566802
+7호기,풀러,5월18일,20:00:00,21:30:00,90,1.5,풀러 DC모터 과열,냉각 후 작업 (작업 자 부주위),1.7,72.8,2.34,Puller DC motor overheating,Work after cooling (operator carelessness),fuller,0.09,1.200911574,363.94,4.999175824
+7호기,풀러,5월19일,01:30:00,04:30:00,180,3,풀러 DC모터 과열,냉각 후 작업 (작업 자 부주위),1.7,72.8,2.34,Puller DC motor overheating,Work after cooling (operator carelessness),fuller,0.09,1.200911574,363.94,4.999175824
+7호기,풀러,6월18일,02:56:00,03:46:00,50,0.8,풀러 레일 연결 부위 크랙,레일 크랙 부위 사상 후 육성 용접,1.73,139.4,1.24,Crack in puller rail connection area,Welding after finishing the rail crack area,fuller,0.09,1.203611574,418.29,3.000645624
+7호기,풀러,7월16일,09:15:00,10:30:00,75,1.3,풀러 죠 업 다운,연결 링크 파손 부분 수리,1.3,405.5,0.32,puller jaw up down,Repair of damaged connecting links,fuller,0.09,1.164911574,405.52,1.000049322
+7호기,풀러,8월10일,02:20:00,02:40:00,20,0.3,풀러 죠 다운 중 멈춤,조작 전원 집전자 부러 쉬 교체 작업,0.74,42.9,1.72,Stuck during puller jaw down,Operation Power Current Collector Brush Replacement Operation,fuller,0.09,1.114511574,429,10
+7호기,풀러,2014-08-20 00:00:00,10:00:00,11:30:00,90,1.5,풀러 TRIY열림 동작중 멈춤,풀러 모터 실린더 부분 교체,7,77.6,3.89,Puller TROY opens and stops during operation.,Puller motor cylinder part replacement,fuller,0.09,1.677911574,387.85,4.99806701
+7호기,풀러,2014-11-08 00:00:00,04:23:00,05:03:00,40,0.7,풀러 멈춤 현상,"풀러 SLOW 감지 포토센서 전/후진시
+감지 불능
+- 포토센서(BEN300-DDT) 교체 후 감도조정",6.3,79.8,1.4,Fuller freeze phenomenon,"Fuller SLOW detection photo sensor when moving forward/reverse
+undetectable
+- Sensitivity adjustment after replacing the photo sensor (BEN300-DDT)",fuller,0.09,1.614911574,398.98,4.999749373
+7호기,핫쏘,4월7일,12:00:00,12:20:00,20,0.3,HOT SAW LIEFT 동작 不,에어 솔레노이드 밸브 교체 작업,0.45,181.2,0.25,HOT SAW LIFT not operating,Air solenoid valve replacement work,Hasso,0.1,1.209346193,362.32,1.999558499
+7호기,후면,8월12일,01:30:00,03:00:00,90,1.5,버트 노커 체결 볼트 파손,볼트 제거후 체결,0.74,42.9,1.72,Butt knocker fastening bolt broken,Fasten after removing bolt,back side,0.15,1.85751929,429,10
+7호기,후면,8월18일,11:10:00,11:28:00,18,0.3,버트샤 실린더 심레스 배관 파손,크렉분 교체,0.74,42.9,1.72,Damaged butt shaft cylinder seamless pipe,Crack replacement,back side,0.15,1.85751929,429,10
+7호기,후면,8월18일,11:39:00,12:10:00,31,0.5,포토센서 배선 열화 소손,후렉시블 배선 단선 보수,0.74,42.9,1.72,Photo sensor wiring deterioration and burnout,Flexible wiring disconnection repair,back side,0.15,1.85751929,429,10
+7호기,후면,8월23일,03:00:00,03:20:00,20,0.3,절단 벳지 컨베어벨트 구동 안됨,키및 마개 체결 작업,0.74,42.9,1.72,Cutting bet conveyor belt does not run,Key and cap fastening work,back side,0.15,1.85751929,429,10
+7호기,후면,2016-09-29 00:00:00,18:20:00,18:30:00,10,0.2,RUNOUT C/V DOWN 동작 간혈적으로 안됨,RUNOUT C/V UP/DOWN 셀렉터S/W,1.7,34.4,4.95,RUNOUT C/V DOWN operation does not work intermittently,RUNOUT C/V UP/DOWN Selector S/W,back side,0.15,2.00151929,378,10.98837209
+7호기,후면,2016-09-09 00:00:00,16:20:00,17:00:00,40,0.7,게이지C/V 자동운전시 저속안됨.,스페어 선으로 교체 후 정상동작됨,1.7,34.4,4.95,Gauge C/V does not operate at low speed during automatic operation.,It operates normally after replacing with a spare cable.,back side,0.15,2.00151929,378,10.98837209
+7호기,후면,2016-09-21 00:00:00,22:55:00,23:11:00,16,0.3,메인샤 닛불 파손 누유,메인샤 닛불 파손 누유 교체,1.7,34.4,4.95,Mainsha nisbul damaged and leaking oil,Mainsha nisbul damaged oil leak replacement,back side,0.15,2.00151929,378,10.98837209
+7호기,후면,2016-09-02 00:00:00,12:30:00,13:30:00,60,1,로더 유압 배관 크렉,로더 유압 배관 크렉 용접수리,1.7,34.4,4.95,Loader hydraulic pipe crack,Loader hydraulic pipe crack welding repair,back side,0.15,2.00151929,378,10.98837209
+7호기,후면,2016-10-31 00:00:00,10:28:00,11:50:00,82,1.4,게이지헤드 전/후진 동작 불능으로 점검요청.,케이블베어측 MOTOR 단상걸림.,0.74,28.4,2.59,Inspection request due to gauge head not moving forward/reverse.,Cable bear side MOTOR single phase jammed.,back side,0.15,1.85751929,398,14.01408451
+7호기,후면,2016-10-17 00:00:00,09:30:00,10:05:00,35,0.6,MID TEMP C/V 기동 안되 점검요청,"110V MC-22(1EA)교체, 인버터440V 5HP(1EA)교체.",0.74,28.4,2.59,"MID TEMP C/V does not start, request inspection","110V MC-22 (1EA) replacement, Inverter 440V 5HP (1EA) replacement.",back side,0.15,1.85751929,398,14.01408451
+7호기,후면,2016-10-01 00:00:00,15:45:00,16:30:00,45,0.8,P.H IN FEED V/T C/V 구동 불능,"인버터(SV004IG5A-4 →SV008IG5A-4)
+교체후 복구",0.74,28.4,2.59,P.H IN FEED V/T C/V operation not possible,"Inverter (SV004IG5A-4 →SV008IG5A-4)
+Recovery after replacement",back side,0.15,1.85751929,398,14.01408451
+7호기,후면,2016-10-21 00:00:00,22:00:00,23:00:00,60,1,"파워헤드 수동 전/후진 동작은 되나 제품 교정시
+스트레챠 동작 불능","테일헤드 정위치 감지 근접센서 고정 브라켓 휘어
+감지 불량으로 브라켓 교정후 복구",0.74,28.4,2.59,"Powerhead manual forward/backward movement is possible, but when calibrating the product
+Stretcher does not work","Tail head correct position detection, proximity sensor fixing bracket bending
+Recovery after correction of bracket due to poor detection",back side,0.15,1.85751929,398,14.01408451
+7호기,후면,2016-10-01 00:00:00,16:40:00,16:55:00,15,0.2,비디오 모니터 화면 불능,P.H 상부 무선 송신기 위치 틀어짐 재조정,0.74,28.4,2.59,Video monitor screen not working,P.H upper wireless transmitter position misalignment readjusted,back side,0.15,1.85751929,398,14.01408451
+7호기,후면,2016-10-27 00:00:00,10:25:00,10:50:00,25,0.4,절단7호기 SAWFEED C/V 구동 불능,"CLAMP 가이드 실린더
+이물질로 윤활제 도포후 복구",0.74,28.4,2.59,SAWFEED C/V operation of cutting unit 7 is not possible,"CLAMP guide cylinder
+Recovery after applying lubricant with foreign substances",back side,0.15,1.85751929,398,14.01408451
+7호기,후면,2016-10-24 00:00:00,09:20:00,09:30:00,10,0.2,GAUGE HEAD 전/후진 동작 불능,B/K 열림 근접센서 감지 시킨후 복구,0.74,28.4,2.59,GAUGE HEAD forward/backward operation not possible,Recovery after detection of B/K open proximity sensor,back side,0.15,1.85751929,398,14.01408451
+7호기,후면,2014-08-19 00:00:00,21:00:00,21:30:00,30,0.5,쫄대 투입 작동 불능,브래킷 간섭으로 해당부위 처리 후 정상작동,7,77.6,3.89,Jjoldae insertion does not work,Normal operation after processing the area due to bracket interference,back side,0.15,2.79651929,387.85,4.99806701
+7호기,후면,2014-09-26 00:00:00,17:00:00,21:00:00,240,4,빌레트이동콘베어 체인파손,체인 교체 및 보수작업,7.86,94.8,1.58,Billet moving conveyor chain broken,Chain replacement and repair work,back side,0.15,2.92551929,379.2,4
+7호기,후면,2014-09-27 00:00:00,05:02:00,06:00:00,58,1,"빌레트 이송콘베어
+가이드 끼임현상",스프래킷 처짐 교정 및 용접작업,7.86,94.8,1.58,"Billet transfer conveyor
+Guide jamming phenomenon",Sprocket deflection correction and welding work,back side,0.15,2.92551929,379.2,4
+7호기,후면,2014-10-29 00:00:00,23:30:00,23:40:00,10,0.2,절단기 servo알람발생,알람 복구 후 정상동작,34.83,192.3,0.08,Cutting machine servo alarm occurs,Normal operation after alarm recovery,back side,0.15,6.97101929,384.54,1.999687988
+7호기,후면,2014-11-19 00:00:00,02:05:00,03:23:00,78,1.3,크로스오버 C/V작동불능,실린더 고정볼트 체결 및 에어 Sol V/V교환,6.3,79.8,1.4,Crossover C/V not working,Tightening cylinder fixing bolts and replacing air Sol V/V,back side,0.15,2.69151929,398.98,4.999749373
+7호기,기타,2016-09-13 00:00:00,13:40:00,15:10:00,90,1.5,온도 상승 느려 점검요청,자재 입고후 교체 예정 현재 임시 사용중,1.7,34.4,4.95,Request for inspection due to slow temperature rise,Scheduled to be replaced after materials are received. Currently in temporary use.,etc,0.06,0.800607716,378,10.98837209
+7호기,기타,2016-09-03 00:00:00,07:00:00,07:30:00,30,0.5,집전자 노후로 단상걸림.,집전자 3EA교체 후 정상동작,1.7,34.4,4.95,The podium is blocked due to the old age of the celebrant.,Normal operation after replacement of current collector 3EA,etc,0.06,0.800607716,378,10.98837209
+8호기,압출기,1월14일,16:46:00,18:30:00,104,1.7,이모 펌프 체인 카풀러 파손,예비품으로 교체작업,1.6,70.7,2.26,Aunt pump chain coupler damaged,Replacement with spare parts,extruder,0.35,4.635211677,424.42,6.00311174
+8호기,압출기,2월19일,13:50:00,15:15:00,85,1.4,유압불럭 오일 누유,밸브 컨토로류 밸브 오링 교체 작업,1.45,215.4,0.67,Hydraulic block oil leak,Valve controller valve O-ring replacement work,extruder,0.35,4.582711677,430.85,2.000232126
+8호기,압출기,4월1일,13:50:00,14:35:00,45,0.8,콘테이너 배관 누유,배관크랙 부위 제거 후 육성 용접,1.2,57.8,2.07,container piping leak,Welding after removal of pipe cracks,extruder,0.35,4.495211677,347.05,6.00432526
+8호기,압출기,4월2일,22:05:00,23:08:00,63,1.1,메인 배관 누유,배관 크랙 부위 제거후 용접,1.2,57.8,2.07,Main pipe leak,Welding after removing pipe cracks,extruder,0.35,4.495211677,347.05,6.00432526
+8호기,압출기,5월9일,20:10:00,21:05:00,55,0.9,콘테이너 배관 크랙 누유,배관 불리후 용접 작업,1.28,87.4,1.46,Container piping crack leak,Piping adverse welding work,extruder,0.35,4.523211677,349.77,4.00194508
+8호기,압출기,5월27일,19:16:00,21:40:00,144,2.4,빌레트 로다 동 작 不,압력 셋팅 후 정상 작업,1.28,87.4,1.46,Billet loader not operating,Normal operation after pressure setting,extruder,0.35,4.523211677,349.77,4.00194508
+8호기,압출기,5월27일,15:55:00,16:40:00,45,0.8,버트샤 보조배관 누유,배고나 불리 후 용접 작업,1.28,87.4,1.46,Buttsha auxiliary pipe leak,Welding work after separating pipes,extruder,0.35,4.523211677,349.77,4.00194508
+8호기,압출기,5월31일,08:30:00,09:30:00,60,1,콘테이너 실린다 로르측 누유,로드 V-PACKING 교체작업,1.28,87.4,1.46,Container cylinder rod side leakage,Rod V-PACKING replacement work,extruder,0.35,4.523211677,349.77,4.00194508
+8호기,압출기,8월09일,14:52:00,16:30:00,98,1.6,트렌스 베어 체인 전단,체인 교체 작업,1.36,42.5,3.2,Trans Bear Chain Flyer,chain replacement work,extruder,0.35,4.551211677,425.49,10.01152941
+8호기,압출기,8월10일,04:12:00,06:20:00,128,2.1,메인 사이드 배관 크랙으로,"누유부 용접, 수리",1.36,42.5,3.2,Main side pipe crack,Welding and repairing leaks,extruder,0.35,4.551211677,425.49,10.01152941
+8호기,압출기,8월22일,08:40:00,09:00:00,20,0.3,자동운전중 샤 상승/하강,두번하여 PLC 점검후 공작반 점검요청,1.36,42.5,3.2,Sha rises/descends during automatic operation,"After inspecting the PLC twice, request inspection of the machine tool.",extruder,0.35,4.551211677,425.49,10.01152941
+8호기,압출기,8월25일,02:50:00,04:00:00,70,1.2,사이드 고압 배고나 크랙,배관 분리 후 용접 작업,1.36,42.5,3.2,Side high pressure bagona crack,Welding work after separating pipes,extruder,0.35,4.551211677,425.49,10.01152941
+8호기,압출기,8월26일,21:00:00,23:30:00,150,2.5,메인사이드및 컨테이너 실린더 누유,V/P 교체 작업,1.36,42.5,3.2,Main side and container cylinder leakage,V/P replacement work,extruder,0.35,4.551211677,425.49,10.01152941
+8호기,압출기,9월1일,21:42:00,00:30:00,168,2.8,더미볼트 풀림으로 조임작업,나사 마모 로 인한 더미 교체 不,1.2,91.9,1.31,Tightening work by loosening dummy bolts,No dummy replacement due to screw wear,extruder,0.35,4.495211677,367.6,4
+8호기,압출기,9월2일,13:30:00,14:00:00,30,0.5,메인샤 상승 유압배관 풀렌지,부위 누유 용접 부위 제거 후 육성 용접,1.2,91.9,1.31,Mainsha lift hydraulic pipe full range,Welding after removal of leaking welding area,extruder,0.35,4.495211677,367.6,4
+8호기,압출기,9월10일,09:20:00,10:30:00,70,1.2,콘테이너 실린다 누유,콘테이너 실린다 로드 페킹 교체 작업,1.2,91.9,1.31,container cylinder oil leak,Container cylinder rod packing replacement work,extruder,0.35,4.495211677,367.6,4
+8호기,압출기,2016-09-01 00:00:00,21:42:00,00:30:00,168,2.8,더미 변형 및 스템무 체결 볼트 풀림,더미 변형 및 스템무 체결 볼트 풀림조임,0.95,46,2.07,Deformation of dummy and loosening of stemless fastening bolts,Deformation of dummy and loosening and tightening of stemless fastening bolts,extruder,0.35,4.407711677,367.6,7.991304348
+8호기,압출기,2016-09-02 00:00:00,12:30:00,14:00:00,90,1.5,메인 샤 상승 유압 배관 후렌지 크랙 누유,메인 샤 상승 유압 배관 후렌지 크랙  용접,0.95,46,2.07,Main shaft rising hydraulic pipe flange crack leak,Main shaft rising hydraulic pipe flange crack welding,extruder,0.35,4.407711677,367.6,7.991304348
+8호기,압출기,2016-09-08 00:00:00,22:15:00,22:28:00,13,0.2,메인샤 하강후  상승/하강 수회 반복후 하강상태로 멈춤,메인샤 하강 완료 감지 L/S 교체후 정상 운전됨,0.95,46,2.07,"After lowering the main shaft, repeat the rise/fall several times and then stop in the descending state.",Detection of main shaft lowering completion. Normal operation after L/S replacement.,extruder,0.35,4.407711677,367.6,7.991304348
+8호기,압출기,2016-09-08 00:00:00,21:11:00,21:50:00,39,0.7,버트노커 L/S 감지 불능으로 메인샤 UP 동작 불능,1.노커 UP 감지 L/S(BL3) 교체,0.95,46,2.07,Main Sha UP operation is disabled due to inability to detect Butt Knocker L/S.,1. Knocker UP detection L/S (BL3) replacement,extruder,0.35,4.407711677,367.6,7.991304348
+8호기,압출기,2016-09-08 00:00:00,19:13:00,19:30:00,17,0.3,버트노커 상승 감지 리미트S/W 감지봉 이탈로점검요청,감지봉 교체.,0.95,46,2.07,Butt knocker rise detection limit S/W detection rod deviation request inspection,Replace the detection rod.,extruder,0.35,4.407711677,367.6,7.991304348
+8호기,압출기,2016-09-09 00:00:00,00:15:00,00:20:00,5,0.1,메인샤 상승후 콘테이너 전진 동작 불능,메인샤 하강 L/S 복귀 안됨 →L/S 교체,0.95,46,2.07,Container cannot move forward after raising the main shaft,Mainsha lowering L/S not restored →L/S replaced,extruder,0.35,4.407711677,367.6,7.991304348
+8호기,압출기,2016-09-10 00:00:00,09:20:00,10:30:00,70,1.2,콘테이너 실린더 누유,콘테이너 실린더 누유 V패킹 교체,0.95,46,2.07,container cylinder oil leak,Container cylinder leak V packing replacement,extruder,0.35,4.407711677,367.6,7.991304348
+8호기,압출기,2016-09-20 00:00:00,09:15:00,10:00:00,45,0.8,압출 8호기 압출 동작시 질소Gas 공급 불능,지하 비트 박스내 쥐로 인해 배선 단선 재연결 복구,0.95,46,2.07,Nitrogen gas cannot be supplied during extrusion operation of extrusion unit 8.,Repair of wire disconnection by reconnection due to rat in underground bit box,extruder,0.35,4.407711677,367.6,7.991304348
+8호기,압출기,2016-10-08 00:00:00,08:50:00,10:00:00,70,1.2,콘테이너 센터 틀어짐,콘테이너 센터 틀어짐 맞춤 작업,1.75,95.1,1.84,Container center is distorted,Container center distortion customization work,extruder,0.35,4.687711677,380.2,3.997896951
+8호기,압출기,2016-10-10 00:00:00,08:30:00,13:00:00,270,4.5,신양2 100HP 콤푸레샤 물유입,청소및 파트 교체,1.75,95.1,1.84,Shinyang 2 100HP compressor water inflow,Cleaning and Part Replacement,extruder,0.35,4.687711677,380.2,3.997896951
+8호기,압출기,2016-11-28 00:00:00,08:30:00,11:07:00,157,2.6,로더판 체결 볼트 파손,로더판 체결 볼트 파손 제거후 체결,3.23,145.1,2.23,Damaged loader plate fastening bolt,"After removing the damage to the loader plate fastening bolt, fasten it.",extruder,0.35,5.205711677,435.3,3
+8호기,압출기,2016-11-23 00:00:00,03:30:00,10:00:00,390,6.5,보조 펌프 커플러 파손,보조 펌프 커플러 파손 교체,3.23,145.1,2.23,Broken auxiliary pump coupler,Replace broken auxiliary pump coupler,extruder,0.35,5.205711677,435.3,3
+8호기,압출기,2014-08-08 00:00:00,17:10:00,17:30:00,20,0.3,빌레트 푸쉬 에어실린더 체크밸브 마개이탈,이탈부위 고정작업,3.16,39,1.31,Billet push air cylinder check valve stopper removal,Fixing of breakaway part,extruder,0.35,5.181211677,389.96,9.998974359
+8호기,압출기,2014-08-13 00:00:00,00:20:00,00:30:00,10,0.2,콘테이너 씰링 및 유압호스 파손,씰링 및 유압호스 교체,3.16,39,1.31,Container sealing and hydraulic hose damage,Sealing and hydraulic hose replacement,extruder,0.35,5.181211677,389.96,9.998974359
+8호기,압출기,2014-08-18 00:00:00,13:30:00,14:00:00,30,0.5,버트노커 에어실린더 브래킷 파손,해당부위 용접작업,3.16,39,1.31,Butt knocker air cylinder bracket damaged,Welding work on the relevant area,extruder,0.35,5.181211677,389.96,9.998974359
+8호기,압출기,2014-08-21 00:00:00,00:13:00,01:00:00,17,0.3,메인 램 / 콘테이너 전후진 동작 불능,전후진 동작 수차례 동작 점검중 정상작동,3.16,39,1.31,Main ram/container cannot move forward or backward,Normal operation while checking forward and backward movement several times.,extruder,0.35,5.181211677,389.96,9.998974359
+8호기,압출기,2014-08-21 00:00:00,02:23:00,03:10:00,47,0.8,메인 램 / 콘테이너 전후진 동작 불능,"p1,p2 유압 릴레이 교체",3.16,39,1.31,Main ram/container cannot move forward or backward,"p1,p2 hydraulic relay replacement",extruder,0.35,5.181211677,389.96,9.998974359
+8호기,압출기,2014-08-25 00:00:00,20:05:00,21:40:00,70,1.2,콘테이너 패킹 마모로 인한 누유,해당 부위 패킹교체,3.16,39,1.31,Oil leakage due to wear of container packing,Replace the packing in the relevant area,extruder,0.35,5.181211677,389.96,9.998974359
+8호기,압출기,2014-10-13 00:00:00,15:53:00,16:55:00,62,1,버트노커 업동작 불능,실린더 로드 체결 재장착,70.48,362.9,0.28,Butt knocker up operation not possible,Reinstall the cylinder rod fasteners,extruder,0.35,28.74321168,326.87,0.900716451
+8호기,압출기,2014-11-24 00:00:00,02:05:00,13:50:00,20,0.3,메인 중간배관 파손,파손부위 용접작업,4.37,57.9,1.41,Main intermediate pipe damaged,Welding work on damaged areas,extruder,0.35,5.604711677,405.52,7.003799655
+8호기,가열로,1월27일,10:32:00,12:30:00,118,2,빌레트 절단기 축 전단,부분 용접 후 가공 조립(외주),1.6,70.7,2.26,Billet Cutting Machine Shaft Shear,Processing and assembly after partial welding (outsourcing),heating furnace,0.25,3.310865483,424.42,6.00311174
+8호기,가열로,2월24일,13:30:00,15:00:00,90,1.5,인닥션 용VCS 교체작업,교체시기에 따른 교체 작업,1.45,215.4,0.67,ACB replacement work for induction,Replacement work according to replacement period,heating furnace,0.25,3.273365483,430.85,2.000232126
+8호기,가열로,4월18일,16:30:00,19:00:00,150,2.5,인닥션 VCS ON 안됨 확인,푸셔 후진 리미트 감지 不 확인,1.2,57.8,2.07,Check that induction VS is not ON,Pusher reversing limit detection not confirmed,heating furnace,0.25,3.210865483,347.05,6.00432526
+8호기,가열로,8월 10일,15:15:00,15:30:00,15,0.3,인덕션히터 7호기 가열시간 단축 요청,인덕션 가열및 냉각 타이머 시간 조절,1.36,42.5,3.2,Request to shorten heating time for induction heater unit 7,Induction heating and cooling timer time adjustment,heating furnace,0.25,3.250865483,425.49,10.01152941
+8호기,가열로,2014-08-23 00:00:00,17:10:00,17:28:00,15,0.3,빌레트 온도 이상으로 점검,열전대 정위치 교정 후 정상작동,3.16,39,1.31,Check billet temperature abnormalities,Normal operation after correcting the thermocouple position,heating furnace,0.25,3.700865483,389.96,9.998974359
+8호기,가열로,2014-08-25 00:00:00,10:35:00,10:50:00,5,0.1,인덕션 히터 L/S파손,L/S 교체 후 정상작동,3.16,39,1.31,Induction heater L/S damaged,Normal operation after L/S replacement,heating furnace,0.25,3.700865483,389.96,9.998974359
+8호기,가열로,2014-08-28 00:00:00,20:30:00,21:30:00,5,0.1,빌레트 감지 센서 이상으로 점검,"센서 BM3M-TDT 1,2교체",3.16,39,1.31,Check for abnormal billet detection sensor,"Sensor BM3M-TDT 1,2 replacement",heating furnace,0.25,3.700865483,389.96,9.998974359
+8호기,가열로,2014-11-16 00:00:00,02:05:00,00:30:00,20,0.3,HV4 R상 TRIP으로 동작불능,"인덕션 히터 판넬부 트윈타이머 시간 
+재조정 후 정상동작",4.37,57.9,1.41,HV4 cannot operate due to R-phase TRIP,"Induction heater panel twin timer time
+Normal operation after readjustment",heating furnace,0.25,4.003365483,405.52,7.003799655
+8호기,풀러,3월4일,19:45:00,19:55:00,10,0.2,풀러 트레이 동작不,리미트 스위치 조정작업,0.2,252.3,0.08,Puller tray not operating,Limit switch adjustment work,fuller,0.09,1.065911574,504.51,1.999643282
+8호기,풀러,3월21일,09:00:00,09:10:00,10,0.2,풀러 엔코더 카풀링 파손,카프링 에비품 으로 교체작업,0.2,252.3,0.08,Puller encoder coupling broken,Replacement work with coupling spare parts,fuller,0.09,1.065911574,504.51,1.999643282
+8호기,풀러,4월29일,22:36:00,00:20:00,104,1.7,풀러 와이어 로프 전단,로프 예비품 으로 교체 작업,1.2,57.8,2.07,puller wire rope shear,Replacement work with rope spare parts,fuller,0.09,1.155911574,347.05,6.00432526
+8호기,풀러,7월7일,20:24:00,22:00:00,96,1.6,풀러 레일 연결 부위 전단,레일 교정 후 용접 작업,3.8,202.4,1.88,Puller rail joint shear,Welding work after rail correction,fuller,0.09,1.389911574,404.72,1.999604743
+8호기,풀러,2014-11-13 00:00:00,02:05:00,12:00:00,149,2.5,작동축 및 연결대 파손,파손부위 신규 가공 후 용접,4.37,57.9,1.41,Damage to operating shaft and connecting rod,Welding after new processing of damaged area,fuller,0.09,1.441211574,405.52,7.003799655
+8호기,핫쏘,8월27일,23:27:00,23:45:00,18,0.3,터치 스크린 불량,입구측 포토센서 케이블 점검후 정상 작동,1.36,42.5,3.2,bad touch screen,Normal operation after checking the photo sensor cable on the inlet side,Hasso,0.1,1.300346193,425.49,10.01152941
+8호기,후면,1월19일,06:40:00,07:40:00,60,1,디스 차쥐 콘베어 UP/DOWN,不 추운 날씨로인한 에어속 수분 동결,1.6,70.7,2.26,This Chaju Conveyor UP/DOWN,不 Freezing of moisture in the air due to cold weather,back side,0.15,1.98651929,424.42,6.00311174
+8호기,후면,1월20일,03:00:00,03:20:00,20,0.3,디스 차쥐 콘베어 UP/DOWN,不 추운 날씨로인한 에어속 수분 동결,1.6,70.7,2.26,This Chaju Conveyor UP/DOWN,不 Freezing of moisture in the air due to cold weather,back side,0.15,1.98651929,424.42,6.00311174
+8호기,후면,4월6일,15:40:00,16:00:00,20,0.3,풀러 엔코더 카풀러 마모,카풀러 교체 작업,1.2,57.8,2.07,Puller encoder coupler wear,Carpooler replacement work,back side,0.15,1.92651929,347.05,6.00432526
+8호기,후면,4월18일,15:10:00,16:00:00,50,0.8,교정기 메인 케이불 단락,케이불 일부 교체 작업,1.2,57.8,2.07,Straightener main cable short circuit,Partial cable replacement work,back side,0.15,1.92651929,347.05,6.00432526
+8호기,후면,6월13일,09:20:00,09:55:00,35,0.6,파워 헤드 죠 하강 不,PLC카드 릴레이 소손 접접 위치 조정 ,0.6,404.9,0.15,Power head jaw not lowered,PLC card relay burnout contact position adjustment,back side,0.15,1.83651929,336.7,0.831563349
+8호기,후면,7월9일,09:00:00,15:00:00,360,6,스텍카 겐 추리 부레크 고장,부레크 부분 개선 사용 중(페드 교체),3.8,202.4,1.88,Stekka Genchury Burek Breakdown,In use of bladder improvement (pad replacement),back side,0.15,2.31651929,404.72,1.999604743
+8호기,후면,8월04일,08:30:00,12:25:00,235,3.9,GANTRY T/V 동작 불능,GANTRY T/V 인버터 I/O 알람 해제 불능 인버터(i7 2.2KW) 교체,1.36,42.5,3.2,GANTRY T/V not working,GANTRY T/V inverter I/O alarm cannot be cleared Replace inverter (i7 2.2KW),back side,0.15,1.95051929,425.49,10.01152941
+8호기,후면,8월06일,20:00:00,20:40:00,40,0.7,SAW FEED C/V 엔코더 소손으로 저속운전만됨,E50S8-200-3-T-24(1EA)교체 후 정상동작,1.36,42.5,3.2,SAW FEED C/V Only operates at low speed due to damaged encoder,Normal operation after replacement of E50S8-200-3-T-24 (1EA),back side,0.15,1.95051929,425.49,10.01152941
+8호기,후면,8월19일,09:06:00,09:50:00,44,0.7,트렌스 베어 베어링 파손,베어링 교체,1.36,42.5,3.2,Transformer bearing damage,bearing replacement,back side,0.15,1.95051929,425.49,10.01152941
+8호기,후면,2016-10-17 00:00:00,16:00:00,16:20:00,20,0.3,"T.H 저속,고속 운전 이상으로 점검요청.",원점감지 근접센서 교체.PRL30-15DN(1EA),1.75,95.1,1.84,T.H Request for inspection due to abnormal low and high speed operation.,Origin detection proximity sensor replacement.PRL30-15DN(1EA),back side,0.15,2.00901929,380.2,3.997896951
+8호기,후면,2016-10-20 00:00:00,12:30:00,13:30:00,60,1,스텍카 텐션 볼트 파손,스텍카 텐션 볼트 파손 교체 체결,1.75,95.1,1.84,Stacker tension bolt damaged,Replacement and fastening of damaged stacker tension bolts,back side,0.15,2.00901929,380.2,3.997896951
+8호기,후면,2016-11-19 00:00:00,03:10:00,03:45:00,35,0.6,풀러 작업중 작업자 부주의로 인해 자동 운전 불능,AT HOME POSITION 배선 열화 단선으로 후렉시블 및 열화부 절단후 재연결 복구,3.23,145.1,2.23,Automatic operation is disabled due to operator negligence during puller work.,"AT HOME POSITION After cutting the flexible and deteriorated part due to wire deterioration and disconnection, reconnection recovery",back side,0.15,2.23101929,435.3,3
+8호기,후면,2014-08-20 00:00:00,17:07:00,18:35:00,88,1.5,런아웃 테이블 실린더 브래킷 파손,실린더 로드 고정후 탭 가공 및 볼트교체,3.16,39,1.31,Runout table cylinder bracket broken,"After fixing the cylinder rod, tap processing and bolt replacement",back side,0.15,2.22051929,389.96,9.998974359
+8호기,후면,2014-09-11 00:00:00,17:00:00,19:35:00,155,2.6,스테카 터치동작 불능,"터치 통신카드(xp-70,KGL-C42A)교체 및RS-232 에서 RS-422로 통신변경",7.92,127.8,0.83,Stecca touch does not work,"Replacement of touch communication card (xp-70, KGL-C42A) and change of communication from RS-232 to RS-422",back side,0.15,2.93451929,383.38,2.999843505
+8호기,후면,2014-09-11 00:00:00,08:30:00,08:50:00,20,0.3,런아웃 컨베어 동작불능,"인버터 보드 알람 발생 알람 리셋후 
+정상작동",7.92,127.8,0.83,Runout conveyor inoperable,"Inverter board alarm occurs after alarm reset
+in normal operation",back side,0.15,2.93451929,383.38,2.999843505
+8호기,후면,2014-11-14 00:00:00,02:05:00,04:00:00,20,0.3,"통신에러로 터치화면
+동작 불능",전원 재부팅 후 정상동작,4.37,57.9,1.41,"Touch screen due to communication error
+inoperable",Normal operation after power reboot,back side,0.15,2.40201929,405.52,7.003799655
+8호기,후면,2014-11-18 00:00:00,02:05:00,07:50:00,65,1.1,교정기 테일헤드 전원불량,"케이블 베어 전원선 불량으로 쇼트발생
+단선부위 재연결 복구 작업",4.37,57.9,1.41,Corrector tail head power failure,"Short circuit occurs due to defective cable bare power line
+Reconnection recovery work for disconnected wires",back side,0.15,2.40201929,405.52,7.003799655
+8호기,후면,2014-11-18 00:00:00,02:05:00,02:50:00,12,0.2,"풀러, 핸들링 전체 멈춤","메인 차단기 전원 불량, 핸들링 전원용 
+차단기 Trip 복구",4.37,57.9,1.41,"Fuller, handling stops entirely.","Main breaker power failure, for handling power
+Circuit breaker trip recovery",back side,0.15,2.40201929,405.52,7.003799655
+8호기,후면,2014-11-25 00:00:00,02:05:00,09:25:00,55,0.9,런아웃 C/V구동불능,"롤러 구동중 로크너트가 밀려 끼임
+재조립 및 시운전 완료",4.37,57.9,1.41,Runout C/V operation not possible,"The lock nut gets stuck while the roller is running.
+Reassembly and commissioning completed",back side,0.15,2.40201929,405.52,7.003799655
+8호기,기타,2014-09-24 00:00:00,09:00:00,09:15:00,15,0.3,op판넬 터치 통신 끊킴,PLC통신 채널 변경 후 정상동작,7.92,127.8,0.83,OP panel touch communication lost,Normal operation after changing PLC communication channel,etc,0.06,1.173807716,383.38,2.999843505

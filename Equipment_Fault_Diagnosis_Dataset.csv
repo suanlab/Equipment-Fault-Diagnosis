@@ -1,0 +1,791 @@
+﻿Equipment Number,Part,Date,Start Time,Finish Time,Stopped Time(min),Stopped Time(hour),Cause of Failure,Failure Handling,MTTR,MTBF,Failure Strength Ratio,Price Weighting by Part,Risk Likelihood,Risk Impact
+Unit 1,extruder,03/28,18:00:00,18:40:00,40,0.67,Main and booster pump trip,Knocker cable short circuit due to worker's carelessness,1.16,50.8,2.29,0.35,3.998228346,4.481211677
+Unit 1,extruder,04/11,13:45:00,17:17:00,212,3.53,Container main piping block,Full range bolt shear seal and bolt replacement,2.19,82.8,2.65,0.35,3.000483092,4.841711677
+Unit 1,extruder,04/11,08:30:00,10:43:00,133,2.22,Collision with billet loader machine,Correction work for bending caused by,2.19,82.8,2.65,0.35,3.000483092,4.841711677
+Unit 1,extruder,06/23,10:44:00,12:30:00,106,1.77,container cylinder fixing,Loaded original position adjustment operation,1.6,124.5,1.28,0.35,1.999919679,4.635211677
+Unit 1,extruder,08/13,01:00:00,01:30:00,30,0.5,Noise occurs when billet loader moves forward/reverse,"Tainer center is wrong, adjustment work",1.29,21.5,6.03,0.35,12.98604651,4.526711677
+Unit 1,extruder,10/10,08:30:00,14:20:00,350,5.83,"Compressor 100HP failure, water inflow","Compressor 100HP breakdown water inflow cleaning and
+Part replacement",1.29,43.7,2.96,0.35,5.995423341,4.526711677
+Unit 1,extruder,10/13,16:50:00,17:00:00,10,0.17,Container heater #1 and 2 temperatures cannot be displayed on the OP panel.,"Container heater #1, 2, temperature compensation conductor heater #3 and
+Use COM",1.29,43.7,2.96,0.35,5.995423341,4.526711677
+Unit 1,extruder,11/09,13:30:00,22:02:00,512,8.53,Container cylinder not sealed,"Container cylinder seal not working. Replace packing.
+and pipe packing replacement",25.58,84.2,30.38,0.35,3,13.02821168
+Unit 1,extruder,11/11,01:30:00,08:30:00,3910,65.17,Container not sealed,"Container not sealed, bottom OP side
+rod breakage",25.58,84.2,30.38,0.35,3,13.02821168
+Unit 1,extruder,11/10,16:57:00,20:00:00,183,3.05,container piping leak,Container piping leak packing replacement,25.58,84.2,30.38,0.35,3,13.02821168
+Unit 1,extruder,08/05,11:00:00,17:10:00,370,6.17,Oil leakage phenomenon caused by hydraulic pipe cracks,Installed after welding processing (outsourcing),31.39,98.4,2.77,0.35,3.001321138,15.06171168
+Unit 1,extruder,08/29,10:50:00,12:30:00,100,1.67,Coolant pump replacement work,Coolant Pump Replacement,31.39,98.4,2.77,0.35,3.001321138,15.06171168
+Unit 1,extruder,09/15,14:45:00,15:45:00,60,1,Main pump automatic manual on disabled,"As a result of the PLC monitor, emergency stop contact is activated.",24.1,81,1.43,0.35,3.000864198,12.51021168
+Unit 1,extruder,10/29,20:00:00,02:30:00,330,5.5,Eject backward operation not possible,"reducer motor coil replacement,
+After replacing the inverter and checking bare cable wiring, reconnect the spare wire.",30.49,104.3,1.89,0.35,3.000671141,14.74671168
+Unit 1,heating furnace,02/12,01:00:00,02:08:00,68,1.13,Pusha encoder bearing wear,Temporary handling of cable management,1,88.4,1.13,0.25,2.791402715,3.160865483
+Unit 1,heating furnace,02/12,04:48:00,05:40:00,52,0.87,Disconnection due to cable deterioration,Cable connection operation,1,88.4,1.13,0.25,2.791402715,3.160865483
+Unit 1,heating furnace,03/03,11:30:00,12:30:00,60,1,Billet transfer chain shear,Partial replacement after disassembling the sheared chain,1.16,50.8,2.29,0.25,3.998228346,3.200865483
+Unit 1,heating furnace,03/14,15:16:00,16:00:00,44,0.73,Probe thermocouple error,Calibration operations (No. 5 and 7),1.16,50.8,2.29,0.25,3.998228346,3.200865483
+Unit 1,heating furnace,03/28,10:00:00,12:15:00,135,2.25,Billet heating furnace does not start,Replacement of short-circuited communication cable,1.16,50.8,2.29,0.25,3.998228346,3.200865483
+Unit 1,heating furnace,04/04,08:40:00,09:30:00,50,0.83,Probe temperature detection error,Probe sensor calibration tasks,2.19,82.8,2.65,0.25,3.000483092,3.458365483
+Unit 1,heating furnace,08/18,14:33:00,15:20:00,47,0.78,ZONE#1 Pilot ignition disabled,Pilot fuel efficiency adjustment,1.29,21.5,6.03,0.25,12.98604651,3.233365483
+Unit 1,heating furnace,08/16,04:38:00,08:30:00,232,3.87,Top clamp cylinder leak,Packing replacement,1.29,21.5,6.03,0.25,12.98604651,3.233365483
+Unit 1,heating furnace,09/28,18:26:00,20:30:00,124,2.07,Pusha chain attache wear,Temporarily manufactured and assembled,2.07,209,0.99,0.25,1,3.428365483
+Unit 1,heating furnace,10/18,23:15:00,23:30:00,15,0.25,Billet heating furnace (unit 1) touch screen button not pressed,Touch screen calibration zero point adjustment,1.29,43.7,2.96,0.25,5.995423341,3.233365483
+Unit 1,heating furnace,08/26,14:20:00,14:40:00,20,0.33,Return detection sensor disabled,PR replaced with 18-14DN not detectable,31.39,98.4,2.77,0.25,3.001321138,10.75836548
+Unit 1,heating furnace,10/21,19:10:00,19:25:00,15,0.25,Billet detection sensor damaged,BJ10M-TDT used only once,30.49,104.3,1.89,0.25,3.000671141,10.53336548
+Unit 1,heating furnace,11/04,04:05:00,04:15:00,15,0.25,Eject supply sensor not detected,Supply Proximity Sensor PRL18-8DN Replacement,42.54,154.7,0.35,0.25,2.000581771,13.54586548
+Unit 1,fuller,06/03,11:05:00,12:30:00,85,1.42,Fuller No. 2 chain fixing bolt,Bolt replacement and adjustment work after removing the shear,1.6,124.5,1.28,0.09,1.999919679,1.191911574
+Unit 1,back side,08/04,11:30:00,11:50:00,20,0.33,"Hi-temp C/V can be driven manually, but cannot be operated automatically.",Product detection photo sensor replacement,1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,08/19,07:50:00,08:00:00,10,0.17,Power head up/down S/W damage,LVL-2M-1 replacement,1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,08/18,15:30:00,16:00:00,30,0.5,Tail head jaw lowering operation not possible,IN FEED V/T sensor side operation power wiring arrangement and +24V disconnection reconnection recovery,1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,08/08,09:00:00,10:30:00,90,1.5,Calibrator not monitored.,"Monitor, monitor power 12V 5A (1EA) replacement, bracket fixation work",1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,08/18,11:20:00,13:20:00,120,2,Straightener tailhead jaw not lowered. Aluminum is stuck.,Straightener tail head jaw not lowered. Remove jammed aluminum.,1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,08/10,05:30:00,06:00:00,30,0.5,Video monitor screen not working,Replacing the video monitor and adjusting the camera zero point,1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,08/08,10:00:00,11:10:00,70,1.17,Calibrator-No. 1 CCTV MONITOR Check for screen abnormalities,Replaced due to defective CCTV MONITOR: JIT-17HD (TV),1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,08/15,10:55:00,11:05:00,10,0.17,"During automatic operation, C/V operation is not possible after GAUGE HAED UP operation.",GAUGE HEAD UP detection Position adjustment due to inability to detect proximity sensor,1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,08/26,06:50:00,07:00:00,10,0.17,The saw blade stops and cannot move backwards due to being caught in the product during cutting work.,"After manual detection of reverse completion L/S, clamp UP, release jamming, and recovery of EOCR TRIP, normal backward movement is achieved.",1.29,21.5,6.03,0.15,12.98604651,1.94001929
+Unit 1,back side,09/28,18:26:00,20:30:00,124,2.07,pusher broken,Custom work after cutting the pusher damage,2.07,209,0.99,0.15,1,2.05701929
+Unit 1,back side,10/05,06:10:00,07:05:00,55,0.92,IN FEED V/T C/V operation not possible,IN FEED V/T C/V Inverter (SV015IG5A-4) Replacement,1.29,43.7,2.96,0.15,5.995423341,1.94001929
+Unit 1,back side,10/31,22:00:00,22:15:00,15,0.25,Request for replacement of damaged Jjoldae C/V counter sensor,Photo sensor (BUP-50S) replacement,1.29,43.7,2.96,0.15,5.995423341,1.94001929
+Unit 1,back side,09/03,01:30:00,03:49:00,139,2.32,Corrector tail head cannot be moved forward or backward,Normal operation after correcting the stuck area,24.1,81,1.43,0.15,3.000864198,5.36151929
+Unit 1,back side,09/11,19:35:00,19:45:00,10,0.17,Cutter clump cannot be raised,Normal operation after PRDL18-14DN 1EA replacement,24.1,81,1.43,0.15,3.000864198,5.36151929
+Unit 1,back side,10/15,22:30:00,22:40:00,10,0.17,Check for abnormal discharge of jjoldae,BUP-50S replaced due to sensor damage,30.49,104.3,1.89,0.15,3.000671141,6.32001929
+Unit 1,back side,11/04,00:00:00,01:30:00,50,0.83,HYD unit pressure cannot be generated,"High hydraulic oil temperature, check hydraulic block and
+Check the cooling status of the hydraulic oil cooler",42.54,154.7,0.35,0.15,2.000581771,8.12751929
+Unit 2,extruder,01/29,16:20:00,19:25:00,185,3.08,Main side pull range leak,Bluenge O-ring replacement work,3.57,47.1,7.58,0.35,7.000212314,5.324711677
+Unit 2,extruder,02/11,19:00:00,20:30:00,90,1.5,Trans Bear Guide Bending,Rail straightening work,1.5,276.6,0.54,0.35,0.999855387,4.600211677
+Unit 2,extruder,03/02,08:20:00,09:00:00,40,0.67,Billet charger not reversing,Operations after replacing the output relay,2.32,43.1,5.39,0.35,8.999767981,4.887211677
+Unit 2,extruder,04/01,10:20:00,11:10:00,50,0.83,Fuller office panel damage,Damage due to carelessness (replacement),1.31,59.8,2.19,0.35,6.996153846,4.533711677
+Unit 2,extruder,04/06,03:05:00,06:00:00,175,2.92,Mold Crump Fastening Bolts,Replacement work after shear failure,1.31,59.8,2.19,0.35,6.996153846,4.533711677
+Unit 2,extruder,04/29,16:00:00,17:30:00,90,1.5,Billet loader 2 operation not working,Normal after replacing the lowering relay,1.31,59.8,2.19,0.35,6.996153846,4.533711677
+Unit 2,extruder,05/11,13:30:00,15:10:00,100,1.67,Dieclump not working,Finishing work after disassembling the slide,1.99,44.7,4.46,0.35,7.994407159,4.771711677
+Unit 2,extruder,05/11,22:31:00,02:45:00,254,4.23,Dieclump not working,Cylinder disassembly and reassembly,1.99,44.7,4.46,0.35,7.994407159,4.771711677
+Unit 2,extruder,05/12,10:48:00,12:30:00,102,1.7,Dieclump not working,Dieclump slide damage,1.99,44.7,4.46,0.35,7.994407159,4.771711677
+Unit 2,extruder,05/12,03:45:00,05:00:00,75,1.25,Die slide does not work,Distance sensor adjustment operation,1.99,44.7,4.46,0.35,7.994407159,4.771711677
+Unit 2,extruder,05/16,19:00:00,19:20:00,20,0.33,Billet No. 1 Rhoda Klump,Detection sensor disconnection replacement,1.99,44.7,4.46,0.35,7.994407159,4.771711677
+Unit 2,extruder,05/24,08:30:00,09:50:00,80,1.33,mainsha working light,Shah Rocsilinda Sol Babb Disconnection Join,1.99,44.7,4.46,0.35,7.994407159,4.771711677
+Unit 2,extruder,07/25,14:00:00,14:15:00,15,0.25,touch power off,Temporarily shuts off due to overtemperature,0.72,132.1,0.55,0.35,3.000605602,4.327211677
+Unit 2,extruder,08/20,02:00:00,02:20:00,5,0.08,Main ram not moving forward,Replace forward solenoid output relay,0.87,60,1.45,0.35,7,4.379711677
+Unit 2,extruder,08/20,02:05:00,03:06:00,61,1.02,Main pump not working,Servo valve filter replacement,0.87,60,1.45,0.35,7,4.379711677
+Unit 2,extruder,08/23,22:20:00,22:40:00,20,0.33,Charger billet detection sensor malfunction,Normal operation after photo sensor replacement,0.87,60,1.45,0.35,7,4.379711677
+Unit 2,extruder,09/01,14:10:00,14:40:00,30,0.5,No touch screen screen,Selecta switch replacement and wiring modification,0.74,72.5,1.02,0.35,5.002482759,4.334211677
+Unit 2,extruder,09/21,14:00:00,14:40:00,40,0.67,Villette Rhoda Klump,Replacement of the front end of the air pipe,0.74,72.5,1.02,0.35,5.002482759,4.334211677
+Unit 2,extruder,09/01,14:10:00,14:40:00,30,0.5,OP extruder touch screen screen defective,Selector S/W installation wiring (requires switching to selector S/W if a problem occurs),1.7,25.9,6.56,0.35,14.0030888,4.670211677
+Unit 2,extruder,09/02,02:10:00,05:30:00,200,3.33,Extrusion unit 2 generates abnormal noise as ram advances/stops repeatedly,Repair after taping due to poor L/S wiring insulation,1.7,25.9,6.56,0.35,14.0030888,4.670211677
+Unit 2,extruder,,14:40:00,15:00:00,20,0.33,Replacement request due to damage to Dai cassette forward/backward detection photo sensor (BUP-30S),Replace damaged photo sensor (BUP-30S),1.7,25.9,6.56,0.35,14.0030888,4.670211677
+Unit 2,extruder,10/27,04:40:00,05:30:00,50,0.83,Transformer guide plate damaged,Transformer guide plate damage welding repair,1.05,35.5,2.95,0.35,12.01126761,4.442711677
+Unit 2,extruder,10/04,20:30:00,23:20:00,170,2.83,Dieslide forward/backward motion is disabled and overall motion is slowed down,MAIN PUMP#2 (tilt angle does not work) Replace servo valve,1.05,35.5,2.95,0.35,12.01126761,4.442711677
+Unit 2,extruder,10/13,03:00:00,03:15:00,15,0.25,Inspection request due to inability to download auxiliary loader,Replace DOWN SOL relay.,1.05,35.5,2.95,0.35,12.01126761,4.442711677
+Unit 2,extruder,10/21,01:45:00,03:56:00,131,2.18,"Above the overall operating speed of extrusion unit 2 and before buffing
+It stops and the buff doesn't work.","Main pump #1 servo valve replaced due to tilt angle abnormality
+(45/75B) I1(12002) Fuse Carpet Replacement
+Solvalve coil replaced due to burnout and spool sticking
+M/DD3W9CNTW 110/60 V/Hz .0.4Amps (Parker)",1.05,35.5,2.95,0.35,12.01126761,4.442711677
+Unit 2,extruder,10/07,06:55:00,08:30:00,95,1.58,Container cylinder protection plate broken,Container cylinder protection plate breakage welding repair,1.05,35.5,2.95,0.35,12.01126761,4.442711677
+Unit 2,extruder,11/24,05:08:00,05:55:00,47,0.78,Request for inspection due to NO2 loader clamp not working.,DA75 lead S/W replacement work.,0.54,205.7,0.26,0.35,2,4.264211677
+Unit 2,extruder,08/19,05:20:00,06:40:00,80,1.33,Container pressure abnormality,pressure adjustment,11.92,90.6,0.95,0.35,4.000331126,8.247211677
+Unit 2,extruder,09/03,22:20:00,23:51:00,91,1.52,Logsha main cylinder leak,Cylinder O-ring replacement work,10.48,75.4,1.51,0.35,5.00198939,7.743211677
+Unit 2,extruder,09/18,08:30:00,09:50:00,80,1.33,Eject pipe leak,Welding of leaks,10.48,75.4,1.51,0.35,5.00198939,7.743211677
+Unit 2,extruder,09/23,01:30:00,02:00:00,30,0.5,Cradle cylinder nipple damaged,Nipple replacement and welding work,10.48,75.4,1.51,0.35,5.00198939,7.743211677
+Unit 2,extruder,09/24,12:00:00,12:30:00,30,0.5,Logsha main cylinder leak,Rod bushing o-ring replacement work,10.48,75.4,1.51,0.35,5.00198939,7.743211677
+Unit 2,extruder,10/11,01:30:00,03:00:00,90,1.5,Charger plate fixing bolt damaged,Bolt replacement and tab welding work,7.58,52.8,1.92,0.35,8.005113636,6.728211677
+Unit 2,extruder,10/30,04:50:00,05:40:00,50,0.83,Charger not working,Normal operation while checking for abnormalities (expected inexperience of operator),7.58,52.8,1.92,0.35,8.005113636,6.728211677
+Unit 2,extruder,11/25,18:15:00,18:25:00,10,0.17,Billet loader and main ram,"Loader clamp reed switch fixing bolt defective
+Restored after replacement",9.35,74.3,1.92,0.35,5.002153432,7.347711677
+Unit 2,extruder,11/26,08:35:00,08:53:00,18,0.3,"Main RAM due to loader detection failure
+Forward movement is impossible","Loader clamp reed switch wiring connection area
+Reconnect poor contact",9.35,74.3,1.92,0.35,5.002153432,7.347711677
+Unit 2,heating furnace,01/04,08:40:00,15:20:00,400,6.67,log shar pressure s/w error,Replace pressure switch after purchase,3.57,47.1,7.58,0.25,7.000212314,3.803365483
+Unit 2,heating furnace,01/09,15:45:00,01:30:00,585,9.75,Billet Heating Furnace Temperature Heating Furnace Billet,Recording rail and some replacement work,3.57,47.1,7.58,0.25,7.000212314,3.803365483
+Unit 2,heating furnace,03/01,02:00:00,12:30:00,630,10.5,Logsha Cradle Shaft Welding,Welded after disassembling with partial cracks,2.32,43.1,5.39,0.25,8.999767981,3.490865483
+Unit 2,heating furnace,03/01,14:35:00,15:05:00,30,0.5,Villette Pusha not moving forward,Occurs due to operator manipulation,2.32,43.1,5.39,0.25,8.999767981,3.490865483
+Unit 2,heating furnace,03/02,03:05:00,03:43:00,38,0.63,Tail head oil leak,Hydraulic hose replacement work,2.32,43.1,5.39,0.25,8.999767981,3.490865483
+Unit 2,heating furnace,03/08,13:30:00,14:30:00,60,1,Probe 4 temperature abnormality,program modification operations,2.32,43.1,5.39,0.25,8.999767981,3.490865483
+Unit 2,heating furnace,03/11,05:30:00,06:15:00,45,0.75,furnace outlet door,Solenoid valve replacement work,2.32,43.1,5.39,0.25,8.999767981,3.490865483
+Unit 2,heating furnace,04/04,16:30:00,17:50:00,80,1.33,Logsha Cradle Cylinder,Replacement work before loading,1.31,59.8,2.19,0.25,6.996153846,3.238365483
+Unit 2,heating furnace,04/04,10:00:00,11:00:00,60,1,Logsha operation error,Error due to low presser pressure,1.31,59.8,2.19,0.25,6.996153846,3.238365483
+Unit 2,heating furnace,04/09,17:05:00,18:10:00,65,1.08,Logsha pushback is carried,Cover O-ring replacement work,1.31,59.8,2.19,0.25,6.996153846,3.238365483
+Unit 2,heating furnace,04/09,23:40:00,00:10:00,30,0.5,Logsha pushback is carried,Leaking O-ring replacement,1.31,59.8,2.19,0.25,6.996153846,3.238365483
+Unit 2,heating furnace,05/26,12:30:00,17:30:00,300,5,Pushback Silinda Road,Bush machining replacement and seal replacement,1.99,44.7,4.46,0.25,7.994407159,3.408365483
+Unit 2,heating furnace,06/23,02:00:00,02:15:00,15,0.25,Operatta touch screen,Return to normal after repeating power on/off,1.49,114.4,1.3,0.25,4.000524476,3.283365483
+Unit 2,heating furnace,07/08,15:00:00,16:10:00,70,1.17,Billet Heating Furnace Pusha,"If it does not work, check it with PLC and restore it.",0.72,132.1,0.55,0.25,3.000605602,3.090865483
+Unit 2,heating furnace,08/10,16:45:00,20:00:00,195,3.25,hot jat fan motor coil,Replacement of damaged spare parts with motor,0.87,60,1.45,0.25,7,3.128365483
+Unit 2,heating furnace,08/29,10:00:00,10:30:00,30,0.5,ZONE#1 temperature abnormality,Insulator and external cylinder replacement work,0.87,60,1.45,0.25,7,3.128365483
+Unit 2,heating furnace,08/18,09:51:00,10:30:00,39,0.65,ZONE #2 Main burner not igniting,External tube replacement due to defective thermocouple temperature detection due to external tube deformation,0.87,60,1.45,0.25,7,3.128365483
+Unit 2,heating furnace,09/29,08:45:00,09:45:00,60,1,Logsha pushback is carried,Leaking rod peking replacement work,0.74,72.5,1.02,0.25,5.002482759,3.095865483
+Unit 2,heating furnace,09/02,17:15:00,19:10:00,115,1.92,ZONE#3 M/M open/close operation not possible,ZONE#3 M/M disassembly and repair (reassembly after soldering terminals),1.7,25.9,6.56,0.25,14.0030888,3.335865483
+Unit 2,heating furnace,09/29,08:45:00,09:45:00,60,1,Pushbeck road side oil leak,Pushback rod side leaking bushing and cover O-ring replacement,1.7,25.9,6.56,0.25,14.0030888,3.335865483
+Unit 2,heating furnace,10/22,12:30:00,13:30:00,60,1,Pushbeck cylinder cover leak,Pushback cylinder cover leakage O-ring replacement,1.05,35.5,2.95,0.25,12.01126761,3.173365483
+Unit 2,heating furnace,08/05,13:30:00,14:40:00,70,1.17,Billet temperature cannot rise,"Flame shooting phenomenon due to opening of HOTJET FAN M/M
+Normal recovery after power restart",11.92,90.6,0.95,0.25,4.000331126,5.890865483
+Unit 2,heating furnace,11/20,17:20:00,18:20:00,20,0.33,Billet detection sensor not working,"Fiber Optic Sensor Replacement
+(FD-620-10, FTL-M26, FTH-410)",9.35,74.3,1.92,0.25,5.002153432,5.248365483
+Unit 2,fuller,01/07,20:30:00,23:30:00,180,3,Hydraulic pump motor burnout,Normal operation after motor replacement,3.57,47.1,7.58,0.09,7.000212314,1.369211574
+Unit 2,fuller,03/08,23:40:00,02:14:00,154,2.57,Puller wire rope part,Replacement work with spare parts,2.32,43.1,5.39,0.09,8.999767981,1.256711574
+Unit 2,fuller,03/09,00:00:00,02:30:00,150,2.5,Fuller distance value is wrong,Distance value correction operation,2.32,43.1,5.39,0.09,8.999767981,1.256711574
+Unit 2,fuller,05/26,18:25:00,18:50:00,25,0.42,Puller wire clip release,Creep tightening operation,1.99,44.7,4.46,0.09,7.994407159,1.227011574
+Unit 2,fuller,07/04,18:30:00,19:15:00,45,0.75,Puller Wire Rope Shear,Replacement work with spare parts,0.72,132.1,0.55,0.09,3.000605602,1.112711574
+Unit 2,fuller,09/24,13:30:00,14:12:00,42,0.7,puller wire rope burnout,Spare wire rope replacement work,0.74,72.5,1.02,0.09,5.002482759,1.114511574
+Unit 2,fuller,09/24,12:30:00,14:12:00,102,1.7,Puller wire burst,Fulla wire burst replacement,1.7,25.9,6.56,0.09,14.0030888,1.200911574
+Unit 2,fuller,11/24,22:22:00,22:40:00,18,0.3,Request for inspection due to inability to move forward/reverse puller.,Normal operation after release due to brake controller OC alarm.,0.54,205.7,0.26,0.09,2,1.096511574
+Unit 2,fuller,10/11,05:10:00,05:50:00,20,0.33,wheel bearing damage,OP side bearing replacement work,7.58,52.8,1.92,0.09,8.005113636,1.730111574
+Unit 2,fuller,10/29,01:10:00,02:08:00,58,0.97,motor overload,Motor replacement work,7.58,52.8,1.92,0.09,8.005113636,1.730111574
+Unit 2,fuller,11/11,04:30:00,09:45:00,315,5.25,Tray malfunction,"Replace gear pump after inspection (4D, 7 l/min)",9.35,74.3,1.92,0.09,5.002153432,1.889411574
+Unit 2,fuller,11/27,10:30:00,11:35:00,65,1.08,"Fuller hydraulic pump condenser defective
+motor coil replacement","1.Same phenomenon when starting after replacement due to defective condenser
+2. Motor coil deteriorates and operates normally after replacement)",9.35,74.3,1.92,0.09,5.002153432,1.889411574
+Unit 2,Hasso,06/11,14:55:00,19:07:00,252,4.2,HOT SAW BEARING,Replace after purchase damaged,1.49,114.4,1.3,0.1,4.000524476,1.313346193
+Unit 2,Hasso,09/23,13:30:00,15:20:00,110,1.83,Motor base broken,Motor replacement and hydraulic hose replacement work,10.48,75.4,1.51,0.1,5.00198939,2.212346193
+Unit 2,Hasso,10/21,22:32:00,00:30:00,118,1.97,Clamp cylinder rod leakage,실린더 로드 교체 및 LM베어링 2EA교체,7.58,52.8,1.92,0.1,8.005113636,1.922346193
+Unit 2,back side,01/11,14:10:00,14:20:00,10,0.17,end saw cp trip,Normal operation after on/off half-turn operation,3.57,47.1,7.58,0.15,7.000212314,2.28201929
+Unit 2,back side,01/16,21:55:00,00:00:00,125,2.08,Tailhead jaw not lowered,Monitor safety contact defective. Work with temporary comb.,3.57,47.1,7.58,0.15,7.000212314,2.28201929
+Unit 2,back side,08/31,03:00:00,03:15:00,15,0.25,Jjoldae C/V counter sensor damaged,BUP-30S replacement,0.87,60,1.45,0.15,7,1.87701929
+Unit 2,back side,09/21,01:30:00,02:20:00,50,0.83,Calibrator monitor abnormalities,Normal after fixing the camera terminal,0.74,72.5,1.02,0.15,5.002482759,1.85751929
+Unit 2,back side,09/21,14:00:00,14:40:00,40,0.67,Damaged rod clamp piping nitbullet,Roda Clamp Piping Nibul Damaged Replacement,1.7,25.9,6.56,0.15,14.0030888,2.00151929
+Unit 2,back side,09/03,08:30:00,17:30:00,540,9,Calibrator power head main cylinder leak,Calibrator power head main cylinder oil leak packing replacement,1.7,25.9,6.56,0.15,14.0030888,2.00151929
+Unit 2,back side,09/03,17:30:00,21:00:00,210,3.5,P.H repair work.,Check sensor and encoder attachment and test run,1.7,25.9,6.56,0.15,14.0030888,2.00151929
+Unit 2,back side,09/21,01:30:00,02:20:00,50,0.83,Request for inspection due to monitor error,"After fixing the terminal on the camera side, it operates normally.",1.7,25.9,6.56,0.15,14.0030888,2.00151929
+Unit 2,back side,09/27,09:45:00,10:00:00,15,0.25,Cutting panel PB S/W intermittently fails to operate,PB S/W (KH-513-2EA) replacement,1.7,25.9,6.56,0.15,14.0030888,2.00151929
+Unit 2,back side,09/27,09:30:00,09:40:00,10,0.17,Scrapdump DOWN does not work,AIR S/V DOWN Reconnection due to poor wiring contact,1.7,25.9,6.56,0.15,14.0030888,2.00151929
+Unit 2,back side,09/02,09:50:00,10:10:00,20,0.33,GAUGE HEAD forward/backward operation not possible,AIR S/V(SIV411-IP) replacement,1.7,25.9,6.56,0.15,14.0030888,2.00151929
+Unit 2,back side,10/19,12:30:00,13:30:00,60,1,Hot saw cylinder and support rod damaged,"Hot saw cylinder, support rod and plate
+replacement work",1.05,35.5,2.95,0.15,12.01126761,1.90401929
+Unit 2,back side,10/12,11:00:00,11:20:00,20,0.33,Hot saw clamp air cylinder damaged,"Hot saw clamp air cylinder damaged
+welding repair",1.05,35.5,2.95,0.15,12.01126761,1.90401929
+Unit 2,back side,10/13,17:00:00,17:15:00,15,0.25,"HOTSAW CLAMP Continues to descend and rise in UP state
+repeated","HOTSAW CLAMP UP/DOWN AIR S/V(SF5101-
+IP) The same phenomenon continues after replacement (cylinder side P/K defective)
+(Request repair work on machine tool)",1.05,35.5,2.95,0.15,12.01126761,1.90401929
+Unit 2,back side,10/13,16:00:00,16:15:00,15,0.25,"CYCLE START, STOP PB S/W not being pressed","CYCLE START,STOP PB S/W(KH-513,30Φ
+-2EA) Replacement",1.05,35.5,2.95,0.15,12.01126761,1.90401929
+Unit 2,back side,10/27,15:10:00,16:15:00,65,1.08,Pushback cylinder front cover leaking,"Pushback cylinder front cover leaking
+O-ring replacement",1.05,35.5,2.95,0.15,12.01126761,1.90401929
+Unit 2,back side,10/14,12:30:00,13:30:00,60,1,Hot saw clamp cylinder and plate damage,Hot saw clamp cylinder welding and plate replacement,1.05,35.5,2.95,0.15,12.01126761,1.90401929
+Unit 2,back side,08/19,01:30:00,02:10:00,40,0.67,Inspection request due to OP monitor failure,monitor replacement,11.92,90.6,0.95,0.15,4.000331126,3.53451929
+Unit 2,back side,08/30,10:33:00,10:49:00,16,0.27,Tail head jaw cylinder cover leaking,O-ring replacement work,11.92,90.6,0.95,0.15,4.000331126,3.53451929
+Unit 2,back side,10/04,06:50:00,07:18:00,20,0.33,Unable to stop Steca running,Low speed/stop sensor position adjustment,7.58,52.8,1.92,0.15,8.005113636,2.88351929
+Unit 2,back side,10/06,10:00:00,12:00:00,40,0.67,Collisions due to frequent departure of stop sensors,"Brake remains on,
+Inverter AXA terminal deleted from PLC program",7.58,52.8,1.92,0.15,8.005113636,2.88351929
+Unit 2,etc,06/30,18:00:00,18:30:00,30,0.5,Logistics empty pallet empty c/v,Muta burnout spare parts replacement work,1.49,114.4,1.3,0.06,4.000524476,0.788007716
+Unit 2,etc,09/12,09:15:00,09:30:00,15,0.25,"Billet cleaner clamp #2 UP detection lead S/W detection
+Automatic operation is not possible due to defects","The cylinder rod was bent and the lead S/W was adjusted, but it improved.
+Unable to adjust due to change in position (cylinder rod bending)
+repair request)",1.7,25.9,6.56,0.06,14.0030888,0.800607716
+Unit 2,etc,10/16,05:30:00,06:40:00,90,1.5,Jib crane cable disconnection,Replacing current collector 3EA and reconnecting cables,7.58,52.8,1.92,0.06,8.005113636,1.153407716
+Unit 3,extruder,01/29,14:21:00,17:30:00,189,3.2,Main Sha Butt Locker Cable Bear,Temporary measures for damaged fixing bracket,10.49,68.1,1,0.35,5.891776799,7.746711677
+Unit 3,extruder,02/17,13:50:00,15:40:00,110,1.8,Main 2 pump servo valve,Replacement and zero point adjustment due to oil contamination,0.81,39,2.08,0.35,8.001025641,4.358711677
+Unit 3,extruder,02/18,18:30:00,19:20:00,50,0.8,Above the 2nd main pump,"After blocking, use only 1-3 times",0.81,39,2.08,0.35,8.001025641,4.358711677
+Unit 3,extruder,02/18,17:08:00,17:30:00,22,0.4,No. 2 servo valve potentiometer,cable check,0.81,39,2.08,0.35,8.001025641,4.358711677
+Unit 3,extruder,02/19,08:40:00,09:14:00,34,0.6,No. 2 main pump error,Speed ​​cannot be adjusted,0.81,39,2.08,0.35,8.001025641,4.358711677
+Unit 3,extruder,02/22,14:05:00,14:30:00,25,0.4,No. 3 main pump servo valve,Replaced due to oil contamination,0.81,39,2.08,0.35,8.001025641,4.358711677
+Unit 3,extruder,03/01,01:30:00,02:20:00,50,0.8,oil cooler coolant pump,Hood valve replacement work,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/02,19:20:00,21:09:00,109,1.8,Mainsha limit switch,Tach dog device damaged,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/08,00:30:00,00:50:00,20,0.3,Main pump control server,valve replacement,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/09,22:00:00,23:30:00,90,1.5,Buttlocker cable bracket,Welding work after correction of damage,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/18,09:50:00,11:47:00,117,2,Billet Loader Anne Pad,Replace all fixing bolts,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/19,17:30:00,19:20:00,110,1.8,Loader area during main advance,Stop loader lowering sensor adjustment work,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/22,22:00:00,22:14:00,14,0.2,Mainsha limit fixed bra,Kit fixing work,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/22,13:50:00,14:10:00,20,0.3,Billet Roda Clump Sensor,coordination work,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/28,08:45:00,09:20:00,35,0.6,billet loader clump,Sensor adjustment operation,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/29,02:00:00,04:40:00,160,2.7,Butt locker silinda leakage,Replaced with Silinda spare part,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,03/30,11:40:00,12:30:00,50,0.8,Die Clump Bolt Shear,Remove and replace sheared bolts,0.89,19.4,4.6,0.35,20.96340206,4.386711677
+Unit 3,extruder,04/02,02:12:00,03:09:00,57,1,Mainsha limit tachi bar damaged,proofreading work,0.78,15.9,4.89,0.35,19.94842767,4.348211677
+Unit 3,extruder,04/11,19:50:00,23:52:00,242,4,Butt Sha Hydraulic Block Bracket,Manufacturing and replacement work after damage and disassembly,0.78,15.9,4.89,0.35,19.94842767,4.348211677
+Unit 3,extruder,04/25,13:50:00,14:20:00,30,0.5,Mainsha does not work,Limit fixing bolt loosening adjustment work,0.78,15.9,4.89,0.35,19.94842767,4.348211677
+Unit 3,extruder,04/26,18:30:00,19:20:00,50,0.8,Container H block oil leak,Cartridge cover o-ring replacement work,0.78,15.9,4.89,0.35,19.94842767,4.348211677
+Unit 3,extruder,04/28,13:40:00,14:55:00,75,1.3,Extruder speed adjustment unreasonable,Main pump 1~3 zero point adjustment,0.78,15.9,4.89,0.35,19.94842767,4.348211677
+Unit 3,extruder,05/02,16:30:00,17:40:00,70,1.2,No buttlocker reed switch,reed switch replacement,0.72,40.4,1.79,0.35,8.995792079,4.327211677
+Unit 3,extruder,05/03,23:00:00,23:08:00,8,0.1,Main pump 2 operation not working,Work after servo valve replacement,0.72,40.4,1.79,0.35,8.995792079,4.327211677
+Unit 3,extruder,05/04,23:45:00,23:55:00,10,0.2,AP pump 1 does not work,Operations after servo valve replacement,0.72,40.4,1.79,0.35,8.995792079,4.327211677
+Unit 3,extruder,05/11,08:30:00,09:10:00,40,0.7,container block leak,Valve flow control valve O-ring replacement,0.72,40.4,1.79,0.35,8.995792079,4.327211677
+Unit 3,extruder,05/27,18:59:00,19:52:00,53,0.9,Main pump 1 not operating,Operation after servo valve zero point operation,0.72,40.4,1.79,0.35,8.995792079,4.327211677
+Unit 3,extruder,06/06,13:30:00,17:30:00,240,4,Main pump control servo valve,Not operating due to oil contamination,1.06,26.7,3.98,0.35,14.01385768,4.446211677
+Unit 3,extruder,06/07,08:30:00,10:30:00,120,2,Main pump 1~2 servo valve,Zero point operation,1.06,26.7,3.98,0.35,14.01385768,4.446211677
+Unit 3,extruder,06/09,09:00:00,10:00:00,60,1,Main Sha Butt Locker Hydraulic Hose,Replacement and sensor guide adjustment work,1.06,26.7,3.98,0.35,14.01385768,4.446211677
+Unit 3,extruder,06/13,19:50:00,20:30:00,40,0.7,Trans Bear Drive Roller,Fixing bolt front end replacement work,1.06,26.7,3.98,0.35,14.01385768,4.446211677
+Unit 3,extruder,06/17,22:40:00,23:15:00,35,0.6,Machine operation after billet loader UP,Normal operation after error detection sensor adjustment,1.06,26.7,3.98,0.35,14.01385768,4.446211677
+Unit 3,extruder,06/23,04:08:00,04:57:00,49,0.8,Buttlocker bracket broken,Bolt replacement work after calibration,1.06,26.7,3.98,0.35,14.01385768,4.446211677
+Unit 3,extruder,07/07,04:55:00,06:50:00,115,1.9,Main ram stroke encoder,Distance value is incorrect due to belt deviation,1.44,51,2.83,0.35,7.003137255,4.579211677
+Unit 3,extruder,07/22,07:20:00,08:20:00,60,1,SERVO VALVE Intermittent,Doesn't work. Soldering the potentia meter wiring.,1.44,51,2.83,0.35,7.003137255,4.579211677
+Unit 3,extruder,07/28,13:30:00,15:50:00,140,2.3,container cylinder rod packing,Severe oil leak replacement work,1.44,51,2.83,0.35,7.003137255,4.579211677
+Unit 3,extruder,07/08,11:30:00,12:50:00,80,1.3,SERVO VALVE oil contamination,Valve replacement and weld adjustments,1.44,51,2.83,0.35,7.003137255,4.579211677
+Unit 3,extruder,08/08,09:12:00,11:00:00,108,1.8,Loader crash phenomenon,Auxiliary loader lead S/W detection correction,2.03,23.4,8.68,0.35,15.02136752,4.785711677
+Unit 3,extruder,08/13,08:45:00,11:23:00,158,2.6,Damaged loader plate,Assemble after calibrating the loader plate,2.03,23.4,8.68,0.35,15.02136752,4.785711677
+Unit 3,extruder,08/04,08:30:00,17:00:00,510,8.5,All touch screen input values ​​display “0”,Power supply replacement,2.03,23.4,8.68,0.35,15.02136752,4.785711677
+Unit 3,extruder,08/18,03:49:00,05:30:00,101,1.7,Loader plate bolt damaged,Replace damaged loader plate bolts,2.03,23.4,8.68,0.35,15.02136752,4.785711677
+Unit 3,extruder,08/27,14:00:00,14:20:00,20,0.3,SCR unit fuse burnt out,SCR unit fuse replacement work,2.03,23.4,8.68,0.35,15.02136752,4.785711677
+Unit 3,extruder,08/27,08:30:00,15:30:00,420,7,container repair work,Heater replacement and container maintenance,2.03,23.4,8.68,0.35,15.02136752,4.785711677
+Unit 3,extruder,08/08,17:15:00,18:00:00,45,0.8,"Main RAM, auxiliary loader crash phenomenon",Loader position detection s/w guide rod fixation,2.03,23.4,8.68,0.35,15.02136752,4.785711677
+Unit 3,extruder,09/03,04:27:00,05:30:00,63,1.1,Billet auxiliary rod air piping,Damage correction work,1.02,69.1,1.48,0.35,4.998552822,4.432211677
+Unit 3,extruder,09/08,22:00:00,23:00:00,60,1,Billet Roda Pad Fixed Ball,Shear bolt replacement work,1.02,69.1,1.48,0.35,4.998552822,4.432211677
+Unit 3,extruder,09/24,06:10:00,06:50:00,40,0.7,Billet Roda Rising Billet,Sol valve and terminal block damaged by falling,1.02,69.1,1.48,0.35,4.998552822,4.432211677
+Unit 3,extruder,09/07,11:30:00,12:00:00,30,0.5,"After opening the billettroda clamp, the main ram cannot move forward.",Billettroda clamp lead S/W fixing bracket replacement and position adjustment,0.87,24.7,3.53,0.35,13.98380567,4.379711677
+Unit 3,extruder,09/08,22:00:00,23:00:00,60,1,Damaged loader plate fastening bolt,Remove and tighten damaged loader plate fastening bolts,0.87,24.7,3.53,0.35,13.98380567,4.379711677
+Unit 3,extruder,09/24,06:10:00,06:50:00,40,0.7,AIR SOL due to billet drop. Terminal box has fallen off. Sensor short circuit.,AIR SOL repair work.,0.87,24.7,3.53,0.35,13.98380567,4.379711677
+Unit 3,extruder,09/29,13:35:00,13:50:00,15,0.3,"After completion of billet loader NO.1 UP, main ram forward movement is not possible.",Roda NO.1 UP detection lead S/W damaged replacement,0.87,24.7,3.53,0.35,13.98380567,4.379711677
+Unit 3,extruder,10/14,14:30:00,16:50:00,140,2.3,"BOLSTER PUSHER Forward/Reverse and automatic operation
+MAIN RAM Forward movement not possible","1. Billet loader clamp lead S/W disconnection replacement
+2.BOLSTER PUSHER (L/S55) disconnection replacement
+3..BOLSTER PUSHER hydraulic S/V (DP) disassembly
+Normal operation after inspection",1.16,29.9,3.87,0.35,13.99665552,4.481211677
+Unit 3,extruder,10/26,13:30:00,15:10:00,100,1.7,Loader clamp and shaft bending,Loader clamp and shaft bending correction work and shaft replacement,1.16,29.9,3.87,0.35,13.99665552,4.481211677
+Unit 3,extruder,10/24,12:30:00,13:30:00,60,1,Main pump oil filter contamination,Main pump oil filter contamination replacement,1.16,29.9,3.87,0.35,13.99665552,4.481211677
+Unit 3,extruder,10/14,14:00:00,16:44:00,164,2.7,Dice feeder does not work,Cleaning the shoot valve,1.16,29.9,3.87,0.35,13.99665552,4.481211677
+Unit 3,extruder,10/24,21:30:00,23:00:00,90,1.5,"Main loader lowering completed during automatic operation, main loader lowering speed
+It operates quickly, but the auxiliary loader does not rise after the main loader lowers.","Loader descending at low speed 100101 Limit S/W fixed unlocked
+Normal operation after fixing.",1.16,29.9,3.87,0.35,13.99665552,4.481211677
+Unit 3,extruder,10/17,09:00:00,09:10:00,10,0.2,"Billet loader UP does not work, request inspection.",Loader low speed changed from 17 to 22.,1.16,29.9,3.87,0.35,13.99665552,4.481211677
+Unit 3,extruder,11/04,13:30:00,20:30:00,420,7,container cylinder oil leak,"Container cylinder leakage cap thread damage
+Disassembly, processing and assembly (outsourced processing and repair)",2.97,122.8,2.42,0.35,3.000814332,5.114711677
+Unit 3,extruder,08/04,08:30:00,12:30:00,240,4,"STEM crack phenomenon, replacement work",STEM replacement work,18.75,18.5,83.96,0.35,10.02378378,10.63771168
+Unit 3,extruder,08/06,06:15:00,08:45:00,50,0.8,Clamp inoperability and sagging phenomenon,"Normal operation after disassembly, assembly and bushing installation",18.75,18.5,83.96,0.35,10.02378378,10.63771168
+Unit 3,extruder,08/11,10:48:00,12:30:00,85,1.4,Loader plate pin separation phenomenon,pin adjustment operation,18.75,18.5,83.96,0.35,10.02378378,10.63771168
+Unit 3,extruder,08/18,21:20:00,23:32:00,132,2.2,Main butt shaft cylinder fixing bolt damaged,Welding of the relevant area,18.75,18.5,83.96,0.35,10.02378378,10.63771168
+Unit 3,extruder,08/19,05:10:00,05:30:00,20,0.3,Loader clamp breakaway,Clamp position correction work,18.75,18.5,83.96,0.35,10.02378378,10.63771168
+Unit 3,extruder,09/03,15:35:00,16:15:00,40,0.7,Pusher chain broken,Reconnect the connection pin at the damaged part of the chain.,4.67,31.6,2.82,0.35,10.00126582,5.709711677
+Unit 3,extruder,09/11,09:10:00,09:30:00,20,0.3,Sharp blade guide bolt is damaged,Disassemble and replace damaged bolts,4.67,31.6,2.82,0.35,10.00126582,5.709711677
+Unit 3,extruder,09/23,23:27:00,23:48:00,21,0.4,momentary power outage,Restart after simple inspection,4.67,31.6,2.82,0.35,10.00126582,5.709711677
+Unit 3,extruder,09/30,18:10:00,19:30:00,80,1.3,Side cylinder leak,Both side cylinder U-packing replacement,4.67,31.6,2.82,0.35,10.00126582,5.709711677
+Unit 3,extruder,10/18,04:16:00,05:38:00,82,1.4,Butt knocker cylinder damage,welding work,12.43,50.2,2.05,0.35,6.999601594,8.425711677
+Unit 3,extruder,10/18,01:30:00,02:34:00,64,1.1,Pump inoperable,Sub valve replacement work,12.43,50.2,2.05,0.35,6.999601594,8.425711677
+Unit 3,extruder,10/21,13:30:00,14:00:00,30,0.5,Hydraulic pump zero point misaligned,"Hydraulic pump 1,2 zero point adjustment",12.43,50.2,2.05,0.35,6.999601594,8.425711677
+Unit 3,extruder,10/22,09:00:00,11:50:00,170,2.8,SERVO line hunting phenomenon,"Modify AMP, GAIN settings",12.43,50.2,2.05,0.35,6.999601594,8.425711677
+Unit 3,extruder,11/17,08:30:00,19:00:00,630,10.5,P2 block malfunction,"Cause of P2 block malfunction, temporary block replacement",11.53,60.1,3.91,0.35,6.002163062,8.110711677
+Unit 3,extruder,11/24,20:40:00,21:10:00,25,0.4,Poor auxiliary loader lowering operation,Check PLC program and correct limit S/W,11.53,60.1,3.91,0.35,6.002163062,8.110711677
+Unit 3,extruder,11/25,10:10:00,11:05:00,55,0.9,The plate bolt inside the loader is damaged.,Bolt replacement work,11.53,60.1,3.91,0.35,6.002163062,8.110711677
+Unit 3,heating furnace,01/07,05:20:00,05:50:00,30,0.5,Trans bearing rise detection sensor not working,Normal operation after replacement of detection sensor,0,30.7,2.4,0.25,13.06938111,2.910865483
+Unit 3,heating furnace,01/27,13:30:00,14:00:00,30,0.5,Billet heating furnace compression blower,Fuse burnout replacement work,0,30.7,2.4,0.25,13.06938111,2.910865483
+Unit 3,heating furnace,02/15,09:28:00,10:35:00,67,1.1,Billet Heating Furnace Pusha Soup,Kit bearing bolt removal reassembly,0.81,39,2.08,0.25,8.001025641,3.113365483
+Unit 3,heating furnace,02/23,10:45:00,11:15:00,30,0.5,Billet Pusha Chain Shear,chain link replacement,0.81,39,2.08,0.25,8.001025641,3.113365483
+Unit 3,heating furnace,03/09,12:00:00,12:30:00,30,0.5,Eject Silindanuyu,Spare parts loading replacement work,0.89,19.4,4.6,0.25,20.96340206,3.133365483
+Unit 3,heating furnace,03/09,13:30:00,13:45:00,15,0.2,Eject cylinder detection sensor,substitute,0.89,19.4,4.6,0.25,20.96340206,3.133365483
+Unit 3,heating furnace,03/11,14:00:00,14:15:00,15,0.2,Billet length deviation,Normal after replacing encoder coupler,0.89,19.4,4.6,0.25,20.96340206,3.133365483
+Unit 3,heating furnace,03/31,04:43:00,05:24:00,41,0.7,Eject Silindanuyu,Replaced with a spare part,0.89,19.4,4.6,0.25,20.96340206,3.133365483
+Unit 3,heating furnace,04/08,14:27:00,15:05:00,38,0.6,Rogsha Ijet Silinda Nuyu,Replacement work with Silinda spare parts,0.78,15.9,4.89,0.25,19.94842767,3.105865483
+Unit 3,heating furnace,04/26,22:00:00,22:10:00,10,0.2,Acetylene ignition detection limit,switch adjustment operation,0.78,15.9,4.89,0.25,19.94842767,3.105865483
+Unit 3,heating furnace,04/27,03:15:00,04:55:00,100,1.7,Billet Heating Furnace Pusha Soup,Kit bearing damage replacement work,0.78,15.9,4.89,0.25,19.94842767,3.105865483
+Unit 3,heating furnace,04/28,01:30:00,03:23:00,113,1.9,Main pump 1 not operating,Replacement work due to servo valve oil contamination,0.78,15.9,4.89,0.25,19.94842767,3.105865483
+Unit 3,heating furnace,04/29,03:59:00,04:41:00,75,1.3,Transbear geared motor,Damaged bladder replacement work,0.78,15.9,4.89,0.25,19.94842767,3.105865483
+Unit 3,heating furnace,05/12,06:30:00,07:20:00,50,0.8,Billet entry error occurred,Normal operation after controller reset,0.72,40.4,1.79,0.25,8.995792079,3.090865483
+Unit 3,heating furnace,06/03,08:48:00,10:12:00,84,1.4,Logsha ejector cylinder leak,Packing replacement work after disassembling the cylinder,1.06,26.7,3.98,0.25,14.01385768,3.175865483
+Unit 3,heating furnace,06/18,07:15:00,08:00:00,45,0.8,Heated pusha chain connection pin shear,Chain link pin replacement work,1.06,26.7,3.98,0.25,14.01385768,3.175865483
+Unit 3,heating furnace,06/24,11:12:00,11:40:00,28,0.5,Trans bare body fastening bolt,Shear bolt replacement work,1.06,26.7,3.98,0.25,14.01385768,3.175865483
+Unit 3,heating furnace,06/24,09:10:00,09:27:00,17,0.3,TRANS BEAR BOTTOM CHAINS,Prokit positional deviation correction work,1.06,26.7,3.98,0.25,14.01385768,3.175865483
+Unit 3,heating furnace,08/17,03:30:00,03:45:00,15,0.3,Cradle does not work,Pushback cylinder reverse end detection lead S/W replaced due to defective fixation,2.03,23.4,8.68,0.25,15.02136752,3.418365483
+Unit 3,heating furnace,08/17,04:19:00,05:30:00,71,1.2,Logsha side hydraulic pipe bolt broken,Bolt and O-ring replacement,2.03,23.4,8.68,0.25,15.02136752,3.418365483
+Unit 3,heating furnace,08/17,11:30:00,12:30:00,60,1,Pusher keeps moving forward,Checking for presence of billet Calibration of optical fiber sensor bracket,2.03,23.4,8.68,0.25,15.02136752,3.418365483
+Unit 3,heating furnace,08/13,06:30:00,08:45:00,135,2.3,ZONE#1 Pilot ignition disabled,"Replacement of damaged spark plugs, etc.",2.03,23.4,8.68,0.25,15.02136752,3.418365483
+Unit 3,heating furnace,08/16,20:30:00,22:47:00,137,2.3,Pushback cylinder leak,substitute,2.03,23.4,8.68,0.25,13.48290598,3.418365483
+Unit 3,heating furnace,09/03,18:00:00,19:20:00,80,1.3,Billet heating furnace outlet side,Replacement work due to deteriorated wiring,1.02,69.1,1.48,0.25,4.998552822,3.165865483
+Unit 3,heating furnace,09/28,04:30:00,05:30:00,60,1,Roguesha cradle cylinder fixing,Bolt loosening fixing work,1.02,69.1,1.48,0.25,4.998552822,3.165865483
+Unit 3,heating furnace,09/28,04:30:00,05:30:00,60,1,Cradle cylinder fixing bolt loosened,Fastening after dismantling the load pin,0.87,24.7,3.53,0.25,13.98380567,3.128365483
+Unit 3,heating furnace,09/03,17:30:00,19:20:00,110,1.8,Malfunction due to deterioration of wiring at logsha outlet side.,Sensor wiring side cable 3M replacement work,0.87,24.7,3.53,0.25,13.98380567,3.128365483
+Unit 3,heating furnace,09/08,07:55:00,08:10:00,15,0.2,ZONE#3 Request for replacement of damaged insulator,Correction of thermocouple bending and replacement of insulator (4 holes),0.87,24.7,3.53,0.25,13.98380567,3.128365483
+Unit 3,heating furnace,10/05,21:00:00,21:15:00,15,0.2,ZONE#2 Thermocouple is broken and cannot detect temperature.,ZONE#2 Adjust the length after polishing the end of the thermocouple,1.16,29.9,3.87,0.25,13.99665552,3.200865483
+Unit 3,heating furnace,10/17,12:15:00,12:25:00,10,0.2,ZONE#4 temperature not displayed.,Normal operation after removal of disconnection due to disconnection of compensation conductor,1.16,29.9,3.87,0.25,13.99665552,3.200865483
+Unit 3,heating furnace,10/24,14:00:00,14:20:00,20,0.3,Release material injection device cannot spray chemicals,"Check S/V. No problem. S/V outlet hose nipple is clogged.
+Recovery after disassembly and cleaning using AIR",1.16,29.9,3.87,0.25,13.99665552,3.200865483
+Unit 3,heating furnace,11/25,03:07:00,04:41:00,94,1.6,eject cylinder,Oil leak replacement,2.97,122.8,2.42,0.25,3.000814332,3.653365483
+Unit 3,heating furnace,08/12,03:00:00,03:40:00,40,0.7,Billet call function disabled,"Does it work after checking the log file?
+M/M operation is not possible, so it is being used temporarily.",18.75,18.5,83.96,0.25,10.02378378,7.598365483
+Unit 3,heating furnace,08/12,01:30:00,03:00:00,90,1.5,Purge does not work due to billet heating,Normal purge operation after HOT JET FAN M/M replacement,18.75,18.5,83.96,0.25,10.02378378,7.598365483
+Unit 3,heating furnace,09/01,08:30:00,08:50:00,20,0.3,Probe zone pilot ignition disabled,"Spark plug damage, replacement and
+Reconnect spark plug cable",4.67,31.6,2.82,0.25,10.00126582,4.078365483
+Unit 3,heating furnace,10/07,08:40:00,09:00:00,15,0.3,O/P panel communication error,Poor communication cable contact,12.43,50.2,2.05,0.25,6.999601594,6.018365483
+Unit 3,heating furnace,11/07,13:40:00,14:55:00,60,1,"Eject, pushback not working","Sha descent completion limit S/W replaced due to burnout
+SZL-WL c-BLE and PLC program inspection",11.53,60.1,3.91,0.25,6.002163062,5.793365483
+Unit 3,fuller,05/24,11:40:00,11:50:00,10,0.2,Error during puller operation,Limit replacement due to tray not operating,0.72,40.4,1.79,0.09,8.995792079,1.112711574
+Unit 3,fuller,07/13,13:30:00,14:00:00,30,0.5,Fuller safety sensor detects fire,Normal operation after removing foreign substances on the sensor,1.44,51,2.83,0.09,7.003137255,1.177511574
+Unit 3,fuller,10/12,21:00:00,21:15:00,15,0.2,Request for inspection due to automatic puller operation failure,Normal operation after fixing limit S/W,1.16,29.9,3.87,0.09,13.99665552,1.152311574
+Unit 3,fuller,09/30,22:00:00,23:00:00,60,1,Puller not working,Normal operation after dust collector separation and reconnection due to disconnection,4.67,31.6,2.82,0.09,10.00126582,1.468211574
+Unit 3,Hasso,01/14,07:30:00,08:00:00,30,0.5,HOT SAW MOTOR OVERLOAD TRIP,Work after adjusting hydraulic pump pressure,0,30.7,2.4,0.1,13.06938111,1.164346193
+Unit 3,Hasso,05/16,19:28:00,19:50:00,22,0.4,HOT SAW box bolt loosened,Bolt loosening and tightening work,0.72,40.4,1.79,0.1,8.995792079,1.236346193
+Unit 3,Hasso,05/26,10:30:00,12:30:00,120,2,hot saw clamp sensor not detected,Partial cable replacement work,0.72,40.4,1.79,0.1,8.995792079,1.236346193
+Unit 3,Hasso,06/11,14:10:00,15:13:00,63,1.1,HOT SAW SHAFT Wear,Replacement work with spare parts,1.06,26.7,3.98,0.1,14.01385768,1.270346193
+Unit 3,Hasso,06/28,13:50:00,14:47:00,57,0.9,HOT SAW bearing wear,Normal operation after bearing replacement,1.06,26.7,3.98,0.1,14.01385768,1.270346193
+Unit 3,Hasso,09/27,10:10:00,12:20:00,130,2.2,Hydraulic inoperability,Hydraulic pump used product replacement work,4.67,31.6,2.82,0.1,10.00126582,1.631346193
+Unit 3,back side,01/07,06:30:00,06:45:00,15,0.3,Calibrator panelCPTRIP,Normal operation after ON/OFF,0,30.7,2.4,0.15,13.06938111,1.74651929
+Unit 3,back side,04/08,16:30:00,17:30:00,60,1,End saw lowering detection sensor error,Sensor adjustment operation,0.78,15.9,4.89,0.15,19.94842767,1.86351929
+Unit 3,back side,04/28,23:40:00,23:55:00,15,0.2,Corrector tail head not operating,Safety sensor error correction work,0.78,15.9,4.89,0.15,19.94842767,1.86351929
+Unit 3,back side,06/03,11:00:00,11:30:00,30,0.5,Calibrator safety sensor continues to detect,Normal operation after adjusting the detection sensor,1.06,26.7,3.98,0.15,14.01385768,1.90551929
+Unit 3,back side,06/28,14:00:00,14:20:00,20,0.3,High tempo conveyor not operating,Operation after inverter alarm occurrence reset,1.06,26.7,3.98,0.15,14.01385768,1.90551929
+Unit 3,back side,07/11,15:00:00,15:40:00,40,0.7,SAW FEED C/V operation not working,UP sensor detects fault correction action,1.44,51,2.83,0.15,7.003137255,1.96251929
+Unit 3,back side,07/23,04:07:00,06:30:00,143,2.4,Stacka Gantry Elevator,Identify the cause of the inverter alarm and eliminate it,1.44,51,2.83,0.15,7.003137255,1.96251929
+Unit 3,back side,08/24,13:40:00,13:50:00,10,0.2,Quenching pump Sol' fuse damaged,Fuse replacement,2.03,23.4,8.68,0.15,13.48290598,2.05101929
+Unit 3,back side,08/22,11:10:00,11:26:00,16,0.3,Runout table up/down does not work,Operation after removing sensor foreign matter,2.03,23.4,8.68,0.15,13.48290598,2.05101929
+Unit 3,back side,08/18,03:00:00,03:10:00,10,0.2,Discharge C/V not working,Normal operation after fixing due to defective relay,2.03,23.4,8.68,0.15,13.48290598,2.05101929
+Unit 3,back side,09/22,19:23:00,21:30:00,127,2.1,Rear short feed drive motor does not operate,Substitution replacement and sprocket customization work,0.87,24.7,3.53,0.15,13.98380567,1.87701929
+Unit 3,back side,09/19,21:00:00,21:15:00,15,0.2,MID TEMP C/V does not stop during automatic operation,Horseshoe type sensor operates normally after removing foreign substances.,0.87,24.7,3.53,0.15,13.98380567,1.87701929
+Unit 3,back side,09/26,12:30:00,13:50:00,80,1.3,Billet flipping device sole block crack leak,Billet flipping device saw block crack oil leak replacement work,0.87,24.7,3.53,0.15,13.98380567,1.87701929
+Unit 3,back side,09/03,04:27:00,05:30:00,63,1.1,Auxiliary loader pipe damage,Auxiliary loader pipe damage replacement and fastening,0.87,24.7,3.53,0.15,13.98380567,1.87701929
+Unit 3,back side,09/26,18:30:00,19:30:00,60,1,Rear SAW-FEEDER cannot be operated,Rear SAW-FEEDER MOTOR damaged and repaired/received,0.87,24.7,3.53,0.15,13.98380567,1.87701929
+Unit 3,back side,09/24,21:10:00,21:40:00,30,0.5,Power head up/down/front/back 4-way lever switch burned out,LVL-4M-11 1EA replacement,0.87,24.7,3.53,0.15,13.98380567,1.87701929
+Unit 3,back side,09/02,19:30:00,20:00:00,30,0.5,TAIL HEAD JAW DOWN does not work,Disassembly and cleaning and replacement of sensor protection cover (plate),0.87,24.7,3.53,0.15,13.98380567,1.87701929
+Unit 3,back side,10/24,17:30:00,18:10:00,40,0.7,Hot saw lift cylinder not working,Hot saw lift cylinder not working replace,1.16,29.9,3.87,0.15,13.99665552,1.92051929
+Unit 3,back side,10/28,03:15:00,03:25:00,10,0.2,HI TEMP C/V not running.,Request for action due to chain breakage.,1.16,29.9,3.87,0.15,13.99665552,1.92051929
+Unit 3,back side,10/06,12:20:00,13:10:00,50,0.8,Request for inspection due to UP/DOWN E/V MOTOR noise,"Brake pad replacement, low speed change from 10HZ to 20HZ.",1.16,29.9,3.87,0.15,13.99665552,1.92051929
+Unit 3,back side,08/05,03:50:00,04:11:00,21,0.4,Handling Unit 3 Hi TEMP C/V inoperable,"HI TEMP C/V inverter alarm occurs, normal operation after release",18.75,18.5,83.96,0.15,10.02378378,4.55901929
+Unit 3,back side,08/11,14:00:00,14:15:00,10,0.2,HI TEMP C/V inoperable,HI TEMP RESET due to C/V inverter overload,18.75,18.5,83.96,0.15,10.02378378,4.55901929
+Unit 3,back side,09/06,23:20:00,00:45:00,70,1.2,Align c/v not working,"fuse frs-r-3 2/10 amp 2ea replacement and
+Replaced due to inverter burnout, L7-2 horsepower and
+Normal operation after entering parameter values",4.67,31.6,2.82,0.15,10.00126582,2.44701929
+Unit 3,back side,09/25,01:45:00,02:30:00,45,0.8,Clamp regulator broken,Regulator replacement work,4.67,31.6,2.82,0.15,10.00126582,2.44701929
+Unit 3,back side,09/26,08:30:00,09:15:00,45,0.8,Up/down clump not working,Normal operation after bracket calibration and sensor position calibration,4.67,31.6,2.82,0.15,10.00126582,2.44701929
+Unit 3,back side,10/13,21:40:00,21:50:00,10,0.2,Saw blade cannot advance,Normal operation after cleaning door L/S air,12.43,50.2,2.05,0.15,6.999601594,3.61101929
+Unit 3,back side,10/17,16:00:00,19:20:00,60,1,Cutter cutting error,"Cut off due to abnormal signal of SAW rising counter value
+defect occurred",12.43,50.2,2.05,0.15,6.999601594,3.61101929
+Unit 3,back side,11/21,17:00:00,20:00:00,60,1,Abnormal saw blade lowering motion,Fall detection limit switch calibration work,11.53,60.1,3.91,0.15,6.002163062,3.47601929
+Unit 3,back side,11/26,21:30:00,22:00:00,15,0.3,Unable to retract after cutting the saw blade,Sensing rod calibration,11.53,60.1,3.91,0.15,6.002163062,3.47601929
+Unit 3,etc,04/11,09:00:00,09:10:00,10,0.2,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,0.06,19.94842767,0.745407716
+Unit 3,etc,04/12,19:43:00,19:50:00,7,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,0.06,19.94842767,0.745407716
+Unit 3,etc,04/12,16:22:00,16:30:00,8,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,0.06,19.94842767,0.745407716
+Unit 3,etc,04/12,14:09:00,14:20:00,11,0.2,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,0.06,19.94842767,0.745407716
+Unit 3,etc,04/12,12:23:00,12:30:00,7,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,0.06,19.94842767,0.745407716
+Unit 3,etc,04/18,23:10:00,23:15:00,5,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,0.06,19.94842767,0.745407716
+Unit 3,etc,04/19,21:18:00,21:25:00,7,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,0.06,19.94842767,0.745407716
+Unit 3,etc,04/21,06:58:00,07:05:00,7,0.1,H-9 VCB OCR TRIP,RESET,0.78,15.9,4.89,0.06,19.94842767,0.745407716
+Unit 4,extruder,01/17,03:40:00,07:10:00,210,3.5,AUX PUMP MOTOR,Bearing replacement work,1.88,68.7,2.74,0.35,6.003347889,4.733211677
+Unit 4,extruder,02/19,13:40:00,16:40:00,180,3,Oil cooler coolant pump failure,Coolant pump bearing replacement and seal replacement,1.77,120.1,1.47,0.35,2.999666944,4.694711677
+Unit 4,extruder,03/13,06:45:00,07:20:00,35,0.6,Trans bear not operating,Limit switch replacement work,0.35,115.9,0.3,0.35,4.001553063,4.197711677
+Unit 4,extruder,04/05,09:20:00,09:25:00,5,0.1,Office panel cycle switch,replacement work,0.68,31.5,2.15,0.35,11.98634921,4.313211677
+Unit 4,extruder,04/06,11:30:00,12:15:00,45,0.7,Container heater temperature does not rise,Electric magnetic replacement work,0.68,31.5,2.15,0.35,11.98634921,4.313211677
+Unit 4,extruder,07/04,08:30:00,09:55:00,85,1.4,Alcohol after replacing the container,Temporary jam removal operation between ribu rodda,1.02,79.8,1.28,0.35,5.001629073,4.432211677
+Unit 4,extruder,08/17,04:30:00,05:15:00,45,0.8,Main cylinder not retracting,"PLC card contacts burned out, replaced with spare parts",1.03,39.2,2.63,0.35,9.989795918,4.435711677
+Unit 4,extruder,08/31,08:55:00,10:10:00,75,1.3,container block pilot,Replacement work after purchasing the piping PT unit horn leaflet,1.03,39.2,2.63,0.35,9.989795918,4.435711677
+Unit 4,extruder,09/05,10:00:00,11:30:00,90,1.5,Upward operation is not possible after the transbear is lowered.,Replace KPS-AP500 due to abnormal billet detection photo sensor when passing the extruder billet in Transbear.,0.8,36.2,2.21,0.35,10.98895028,4.355211677
+Unit 4,extruder,09/06,00:30:00,01:30:00,60,1,Main ram hydraulic pipe crack leak,Main ram hydraulic pipe crack leak welding repair,0.8,36.2,2.21,0.35,10.98895028,4.355211677
+Unit 4,extruder,,11:00:00,11:10:00,10,0.2,Container heater temperature cannot rise,Normal operation after recovery with circuit breaker trip.,0.8,36.2,2.21,0.35,10.98895028,4.355211677
+Unit 4,extruder,10/06,13:50:00,16:25:00,155,2.6,Main RAM leak,Adapter replacement work (lack of pallets),0.95,34.6,2.75,0.35,13.00867052,4.407711677
+Unit 4,extruder,10/25,23:30:00,23:40:00,10,0.2,Connection request due to disconnection on container temperature sensor terminal block,Normal operation after connecting broken wire,0.95,34.6,2.75,0.35,13.00867052,4.407711677
+Unit 4,extruder,08/07,01:45:00,04:15:00,150,2.5,STEM dummy bolt damaged,Dummy bolt replacement,7.34,56.1,2.08,0.35,5.997682709,6.644211677
+Unit 4,extruder,09/03,03:10:00,05:30:00,140,2.3,Container cannot move backwards,Relief replacement and container limit replacement,5.02,43.7,2.83,0.35,8.924942792,5.832211677
+Unit 4,extruder,09/18,08:30:00,11:10:00,160,2.7,Main ram leak,Packing replacement work,5.02,43.7,2.83,0.35,8.924942792,5.832211677
+Unit 4,extruder,09/23,23:27:00,23:48:00,21,0.4,momentary power outage,Restart after simple inspection,5.02,43.7,2.83,0.35,8.924942792,5.832211677
+Unit 4,extruder,11/09,21:25:00,00:20:00,175,2.9,automatic driving disabled,"Replace defective magnetic/manual selector S/W
+CYCLE STOP PB S/W inspection",10.21,92.7,5.18,0.35,4.00021575,7.648711677
+Unit 4,extruder,11/27,06:40:00,08:30:00,110,1.8,Transformer bearing damage,Bearing replacement and commissioning,10.21,92.7,5.18,0.35,4.00021575,7.648711677
+Unit 4,heating furnace,01/19,10:05:00,10:40:00,35,0.6,Logsha descent S/V fuse inspection,Normal operation after PLC output power ON/OFF,1.88,68.7,2.74,0.25,6.003347889,3.380865483
+Unit 4,heating furnace,01/20,10:55:00,12:00:00,65,1.1,Logsha pushback cylinder leakage,Hydraulic cylinder replacement (spare part),1.88,68.7,2.74,0.25,6.003347889,3.380865483
+Unit 4,heating furnace,03/17,22:30:00,22:50:00,20,0.3,Logsha Storage Clump,Determine the cause of the descent alarm and take action to clear it,0.35,115.9,0.3,0.25,4.001553063,2.998365483
+Unit 4,heating furnace,04/27,23:40:00,05:00:00,320,5.3,Billet heating furnace Billet heating furnace,Adjusting the position of the derailment probe on the rail,0.68,31.5,2.15,0.25,11.98634921,3.080865483
+Unit 4,heating furnace,04/28,01:30:00,02:30:00,60,1,Damage to rail blocks due to billet heating,Fixing derailment due to corrosion of rail brackets,0.68,31.5,2.15,0.25,11.98634921,3.080865483
+Unit 4,heating furnace,06/30,18:30:00,19:00:00,30,0.5,Eject cold leaking oil,Spare parts loading replacement work,1,98.8,1.01,0.25,4.000506073,3.160865483
+Unit 4,heating furnace,07/12,22:05:00,22:40:00,35,0.6,logsha descent action fire,Fall detection sensor L/S switch burnout replacement work,1.02,79.8,1.28,0.25,5.001629073,3.165865483
+Unit 4,heating furnace,08/10,02:50:00,03:05:00,15,0.3,Panel ZONE#3 TIC temperature not displayed,ZONE#3 TIC disassembly and inspection and reassembly,1.03,39.2,2.63,0.25,9.989795918,3.168365483
+Unit 4,heating furnace,08/12,21:00:00,21:40:00,40,0.7,ZONE#1 Pilot ignition disabled,Cleaning of UV sensor detection area and replacement of spark plug,1.03,39.2,2.63,0.25,9.989795918,3.168365483
+Unit 4,heating furnace,08/17,04:00:00,04:10:00,10,0.2,ZONE#3 Damage to insulators and external pipes,"4-hole insulator, external cylinder replacement",1.03,39.2,2.63,0.25,9.989795918,3.168365483
+Unit 4,heating furnace,08/25,01:40:00,01:50:00,10,0.2,OP touch screen heating does not display or set temperature,Repair after inspecting the touch screen connection connector,1.03,39.2,2.63,0.25,9.989795918,3.168365483
+Unit 4,heating furnace,08/26,07:45:00,08:30:00,45,0.8,Panel ZONE#3 TIC temperature screen defective,Change settings after replacing TIC,1.03,39.2,2.63,0.25,9.989795918,3.168365483
+Unit 4,heating furnace,08/27,01:40:00,03:20:00,100,1.7,Logsha side clamp leak,Bushing cover o-ring replacement,1.03,39.2,2.63,0.25,9.989795918,3.168365483
+Unit 4,heating furnace,09/05,10:00:00,11:30:00,90,1.5,Operation not working after lowering the transformer,Replace the sensor due to poor contact with the lowering sensor.,0.78,79.6,0.98,0.25,4.997487437,3.105865483
+Unit 4,heating furnace,09/05,08:30:00,08:50:00,20,0.3,Logsha Hydraulic Pump Motor Trip,PLC output card fuse replacement work,0.78,79.6,0.98,0.25,4.997487437,3.105865483
+Unit 4,heating furnace,09/05,08:30:00,08:50:00,20,0.3,Hydraulic pump does not start.,Normal operation after replacement due to burnout of PLC output card fuse,0.8,36.2,2.21,0.25,10.98895028,3.110865483
+Unit 4,heating furnace,10/11,03:00:00,03:20:00,20,0.3,"ZONE#3 Insulator and external tube damaged, request for replacement",External cylinder and insulator replacement work,0.95,34.6,2.75,0.25,13.00867052,3.148365483
+Unit 4,heating furnace,10/25,09:50:00,10:10:00,20,0.3,ZONE#1 Thermocouple bending and insulator damage,Thermocouple calibration and insulator replacement,0.95,34.6,2.75,0.25,13.00867052,3.148365483
+Unit 4,heating furnace,10/03,20:50:00,21:50:00,60,1,"During normal operation, CP(107) in the panel is completely turned off due to TRIP.",CP(107) TRIP recovery and leakage inspection,0.95,34.6,2.75,0.25,13.00867052,3.148365483
+Unit 4,heating furnace,11/25,08:30:00,09:30:00,60,1,HOT JAT FAN Open/close operation is disabled due to disconnection of the wiring on the motor control motor side.,"Connecting disconnected parts, adjusting fuel efficiency.",1,231.2,0.43,0.25,2,3.160865483
+Unit 4,heating furnace,11/24,06:41:00,07:40:00,59,1,Request inspection with hydraulic motor EOCR TRIP.,"Relief pressure adjustment with rated - 65A load current - 100A.
+Load current 20~60A",1,231.2,0.43,0.25,2,3.160865483
+Unit 4,heating furnace,08/04,09:20:00,09:25:00,5,0.1,Billet heating furnace inoperable,"No. 4 operation CP TRIP occurs twice, after re-injection
+in normal operation",7.34,56.1,2.08,0.25,5.997682709,4.745865483
+Unit 4,heating furnace,08/08,22:30:00,00:10:00,100,1.7,Guide board crack phenomenon,Welding work on crack areas,7.34,56.1,2.08,0.25,5.997682709,4.745865483
+Unit 4,heating furnace,09/05,04:20:00,04:50:00,25,0.4,zone#3 External cylinder and insulator damage,External cylinder and insulator replacement,5.02,43.7,2.83,0.25,8.924942792,4.165865483
+Unit 4,heating furnace,09/05,06:10:00,06:35:00,25,0.4,Damage to the heating furnace outlet guide plate,Welding work on damaged areas,5.02,43.7,2.83,0.25,8.924942792,4.165865483
+Unit 4,heating furnace,09/29,08:30:00,09:45:00,75,1.3,Inoperable due to billet heating,"Hydraulic pump relief pressure adjustment
+Logsha UP detection L/S replacement
+Replace defective HOT JAT FAN ring gauge",5.02,43.7,2.83,0.25,8.924942792,4.165865483
+Unit 4,heating furnace,10/14,06:40:00,07:00:00,20,0.3,ZONE#4 temperature abnormality,Replace the compensation conductor with a disconnection.,9.09,110.5,0.7,0.25,4.000180995,5.183365483
+Unit 4,heating furnace,11/04,03:50:00,04:00:00,15,0.3,Cradle UP detection sensor defective,Proximity sensor PRL18-8AO replacement,10.21,92.7,5.18,0.25,4.00021575,5.463365483
+Unit 4,heating furnace,11/22,03:50:00,18:00:00,850,14.2,"due to worker negligence
+Delete PLC program",Partial operation is disabled after program installation,10.21,92.7,5.18,0.25,4.00021575,5.463365483
+Unit 4,fuller,01/25,09:00:00,14:00:00,300,5,Fuller distance error,Normal operation after POWER SUPPLY replacement,1.88,68.7,2.74,0.09,6.003347889,1.217111574
+Unit 4,fuller,02/18,20:40:00,21:10:00,30,0.5,Puller stop sensor failure,Sensor replacement work,1.77,120.1,1.47,0.09,2.999666944,1.207211574
+Unit 4,fuller,03/15,21:00:00,21:10:00,10,0.2,No puller jaw down action,Limit switch replacement work,0.89,115.9,0.3,0.09,4.001553063,1.128011574
+Unit 4,fuller,10/21,16:10:00,17:30:00,80,1.3,Puller wire burst,Puller wire burst replacement work,0.95,34.6,2.75,0.09,13.00867052,1.133411574
+Unit 4,fuller,09/11,19:20:00,19:40:00,20,0.3,wing bending phenomenon,Correction work on the relevant area,5.02,43.7,2.83,0.09,8.924942792,1.499711574
+Unit 4,fuller,09/25,17:00:00,20:00:00,130,2.2,Roller brake released,Normal operation after brake adjustment and MC replacement,5.02,43.7,2.83,0.09,8.924942792,1.499711574
+Unit 4,fuller,10/14,21:25:00,23:05:00,100,1.7,Rail fixing bolt damaged,Bolt replacement work,9.09,110.5,0.7,0.09,4.000180995,1.866011574
+Unit 4,Hasso,01/07,13:50:00,14:50:00,60,1,HOT SAW UP/DOWN NOT,Normal operation after L/S switch replacement,1.88,68.7,2.74,0.1,6.003347889,1.352346193
+Unit 4,Hasso,07/13,02:43:00,03:40:00,57,1,HOT SAW UP/DOWN NOT,Replenish oil due to lack of oil,1.02,79.8,1.28,0.1,5.001629073,1.266346193
+Unit 4,Hasso,08/16,23:10:00,23:30:00,20,0.3,Gauge head stopper does not work after up operation,Normal forward/backward operation after manual operation,7.34,56.1,2.08,0.1,5.997682709,1.898346193
+Unit 4,back side,01/13,19:15:00,19:20:00,5,0.1,PLC power trip,Normal operation after recovery,1.88,68.7,2.74,0.15,6.003347889,2.02851929
+Unit 4,back side,02/22,18:30:00,20:20:00,110,1.8,Tailhead jaw threaded screw worn,Temporary post-welding work due to wear of the jaw thread screw,1.77,120.1,1.47,0.15,2.999666944,2.01201929
+Unit 4,back side,03/02,22:00:00,22:20:00,20,0.3,END SAW No cutting oil,Coolant nozzle replacement work,0.35,115.9,0.3,0.15,4.001553063,1.79901929
+Unit 4,back side,05/04,04:30:00,05:00:00,30,0.5,Gauge head conveyor operation fire,Work after replacing the encoder with spare parts,0.9,118.1,0.76,0.15,2.999068586,1.88151929
+Unit 4,back side,05/24,11:05:00,11:15:00,10,0.2,Quenching pump motor trip,Post-recovery operations,0.9,118.1,0.76,0.15,2.999068586,1.88151929
+Unit 4,back side,06/29,20:05:00,20:45:00,40,0.7,Stacker gantry motor not operating,Motor replacement work due to motor brake not working,1,98.8,1.01,0.15,4.000506073,1.89651929
+Unit 4,back side,06/30,03:20:00,03:50:00,30,0.5,Stacker Gantry Motor Brake Slip,Brake pad replacement work,1,98.8,1.01,0.15,4.000506073,1.89651929
+Unit 4,back side,07/23,19:30:00,19:50:00,20,0.3,Hendring hydraulic pump EOCR,TRIP reset pressure pair adjustment operation,1.02,79.8,1.28,0.15,5.001629073,1.89951929
+Unit 4,back side,07/28,02:20:00,04:10:00,110,1.8,END SAW operation stop,Replacement of some of the breaker trip recovery wiring.,1.02,79.8,1.28,0.15,5.001629073,1.89951929
+Unit 4,back side,08/22,11:40:00,12:40:00,60,1,Batching conveyor not operating,Replacement work with spare parts due to inverter burnout,1.03,39.2,2.63,0.15,9.989795918,1.90101929
+Unit 4,back side,08/24,16:00:00,19:20:00,200,3.3,Discharge C/V Keep moving forward,PLC program modification,1.03,39.2,2.63,0.15,9.989795918,1.90101929
+Unit 4,back side,09/02,02:00:00,02:15:00,15,0.3,space bar feeder,Solenoid replacement work,0.78,79.6,0.98,0.15,4.997487437,1.86351929
+Unit 4,back side,09/08,13:58:00,15:00:00,62,1,SAW FEED C/V inverter burnout,Normal after replacing inverter with spare parts,0.78,79.6,0.98,0.15,4.997487437,1.86351929
+Unit 4,back side,09/21,16:40:00,17:30:00,50,0.8,END SAW forward/backward abnormality,Normal operation after filter replacement due to hydraulic filter blockage,0.78,79.6,0.98,0.15,4.997487437,1.86351929
+Unit 4,back side,09/08,13:58:00,15:00:00,62,1,Replacement work due to burnout of SAW FEED C/V inverter,440V 7.5HP IS7 (1EA) replacement and test run confirmation,0.8,36.2,2.21,0.15,10.98895028,1.86651929
+Unit 4,back side,09/02,02:00:00,02:15:00,15,0.3,Request for inspection due to Jjoldae C/V Jjoldae alignment AIR S/V abnormality,AIR S/V does not operate due to foreign substances. Operates normally after cleaning.,0.8,36.2,2.21,0.15,10.98895028,1.86651929
+Unit 4,back side,09/21,16:40:00,17:30:00,50,0.8,Rear cutter hydraulic unit discharge instability,Oil filter replacement and unit cleaning Oil replacement,0.8,36.2,2.21,0.15,10.98895028,1.86651929
+Unit 4,back side,09/13,07:00:00,09:00:00,120,2,Gauge head forward/reverse operation not possible,V3 220V breaker repair and VCT cable 40m replacement,0.8,36.2,2.21,0.15,10.98895028,1.86651929
+Unit 4,back side,09/21,16:15:00,17:25:00,70,1.2,Saw blade forward/reverse clamp UP/DOWN operation not possible,Recovery after disassembling and cleaning HYD PUMP UNIT OIL TANK and replacing suction pipe filter,0.8,36.2,2.21,0.15,10.98895028,1.86651929
+Unit 4,back side,09/19,23:00:00,23:15:00,15,0.2,Request for inspection due to hydraulic MOTOR EOCR overload,Request to replenish hydraulic oil due to lack of hydraulic oil,0.8,36.2,2.21,0.15,10.98895028,1.86651929
+Unit 4,back side,10/06,10:00:00,10:50:00,50,0.8,Jjoldae is not supplied,Check the air supply for slow operation of unit 3.,0.95,34.6,2.75,0.15,13.00867052,1.88901929
+Unit 4,back side,10/04,13:50:00,15:50:00,120,2,Hot saw shaft bearing damage,Hot saw shaft bearing damage replacement,0.95,34.6,2.75,0.15,13.00867052,1.88901929
+Unit 4,back side,10/06,10:00:00,10:10:00,10,0.2,Request for inspection due to the phenomenon of two jjolda discharge devices being discharged at a time,"The left and right sides are not aligned, so two are ejected. Request for work crew inspection",0.95,34.6,2.75,0.15,13.00867052,1.88901929
+Unit 4,back side,10/18,09:00:00,11:30:00,150,2.5,Jjoldae supply guide board damaged,Reinforcement after disassembly of damage to the Jjoldae supply guide plate,0.95,34.6,2.75,0.15,13.00867052,1.88901929
+Unit 4,back side,10/10,08:30:00,08:40:00,10,0.2,The hot saw table can move backwards but cannot move forward.,Checked the glass tube fuse and it was restored to normal.,0.95,34.6,2.75,0.15,13.00867052,1.88901929
+Unit 4,back side,10/17,17:50:00,18:20:00,30,0.5,Jjoldae chucking device guide plate damaged,Jjoldae chucking device guide plate damage welding repair,0.95,34.6,2.75,0.15,13.00867052,1.88901929
+Unit 4,back side,10/05,09:00:00,09:30:00,30,0.5,"Rear strap C/V side strap does not discharge, request inspection",AIR SOL V/V(SIV411-IP) replacement. Jamming phenomenon at unit 3,0.95,34.6,2.75,0.15,13.00867052,1.88901929
+Unit 4,back side,08/11,15:00:00,15:30:00,25,0.4,Runout table C/V inoperable,"Welding area on the cylinder side is damaged, cylinder moves up.
+Welding work on the affected area",7.34,56.1,2.08,0.15,5.997682709,2.84751929
+Unit 4,back side,08/11,15:30:00,17:30:00,120,2,Runout table cylinder fixing plate damaged,Welding and reinforcement work on damaged areas,7.34,56.1,2.08,0.15,5.997682709,2.84751929
+Unit 4,back side,10/15,21:35:00,22:10:00,35,0.6,Saw blade cannot be retracted,Operating while checking for circuit breaker and EOCR trip abnormalities,9.09,110.5,0.7,0.15,4.000180995,3.11001929
+Unit 4,back side,10/30,22:00:00,22:30:00,30,0.5,Damaged sensor at the discharge part of the cutter.,BUP-50S replacement,9.09,110.5,0.7,0.15,4.000180995,3.11001929
+Unit 4,etc,04/11,09:00:00,09:10:00,10,0.2,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,0.06,11.98634921,0.739407716
+Unit 4,etc,04/12,19:43:00,19:50:00,7,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,0.06,11.98634921,0.739407716
+Unit 4,etc,04/12,16:22:00,16:30:00,8,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,0.06,11.98634921,0.739407716
+Unit 4,etc,04/12,14:09:00,14:20:00,11,0.2,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,0.06,11.98634921,0.739407716
+Unit 4,etc,04/12,12:23:00,12:30:00,7,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,0.06,11.98634921,0.739407716
+Unit 4,etc,04/18,23:10:00,23:15:00,5,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,0.06,11.98634921,0.739407716
+Unit 4,etc,04/19,21:18:00,21:25:00,7,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,0.06,11.98634921,0.739407716
+Unit 4,etc,04/21,06:58:00,07:05:00,7,0.1,HV-9 VBC OCR TRIP,RESET,0.68,31.5,2.15,0.06,11.98634921,0.739407716
+Unit 4,etc,09/19,18:35:00,18:50:00,15,0.3,Dice heater DOOR opens but does not close.,"Replacement of AIR S/V (SV 620-1L, 110V) for DOOR opening/closing",0.8,36.2,2.21,0.06,10.98895028,0.746607716
+Unit 5,extruder,02/17,01:40:00,02:50:00,70,1.17,billet loader auxiliary loader,Silinda replacement work,1.22,113.9,1.07,0.35,2.999122037,4.502211677
+Unit 5,extruder,03/18,09:36:00,10:10:00,34,0.57,Buttlocker is loaded and more,Replaced with Silinda spare part,1.26,58.8,2.14,0.35,6.994217687,4.516211677
+Unit 5,extruder,04/04,17:13:00,17:50:00,37,0.62,Dice Clump Fixing Bolt,Replacement work after shear failure,0.81,48.1,1.7,0.35,6.001871102,4.358711677
+Unit 5,extruder,04/07,20:00:00,21:10:00,70,1.17,No container sealing pressure,Container stop limit adjustment work,0.81,48.1,1.7,0.35,6.001871102,4.358711677
+Unit 5,extruder,04/07,08:30:00,09:30:00,60,1,Container heater sensor connection,work,0.81,48.1,1.7,0.35,6.001871102,4.358711677
+Unit 5,extruder,04/27,09:20:00,09:35:00,15,0.25,Villette Roda (assistant),Detection sensor adjustment operation,0.81,48.1,1.7,0.35,6.001871102,4.358711677
+Unit 5,extruder,05/13,07:00:00,07:30:00,30,0.5,billet carrier operation fire,Replacement work after limit inspection,0.5,231.9,0.22,0.35,1.000043122,4.250211677
+Unit 5,extruder,07/25,10:10:00,16:30:00,380,6.33,Post-puff operation during automatic operation,END signal comes on cable,1.88,72.5,2.6,0.35,4.998344828,4.733211677
+Unit 5,extruder,08/17,14:20:00,14:50:00,30,0.5,Due to compressor failure,Air shortage machine stops,1.05,13.5,7.74,0.35,20.05185185,4.442711677
+Unit 5,extruder,09/23,12:03:00,12:30:00,27,0.45,Billet auxiliary lower pad,Bolt replacement after fastening bolt shear failure,0.53,82.9,0.64,0.35,4,4.260711677
+Unit 5,extruder,09/23,12:03:00,12:30:00,27,0.5,Auxiliary loader fastening bolt damaged,Replacement of damaged auxiliary loader fastening bolts,0.68,36.8,1.84,0.35,9.010869565,4.313211677
+Unit 5,extruder,09/26,09:30:00,09:40:00,10,0.2,Request for replacement of damaged Dai Cassette photo sensor (BUP-30S),Dai Cassette Photo Sensor (BUP-30S) Damaged Replaced,0.68,36.8,1.84,0.35,9.010869565,4.313211677
+Unit 5,extruder,09/30,17:00:00,17:15:00,15,0.2,Billet loader NO.1 UP detection lead S/W not detected,Billet loader NO.1 cylinder rod loosened and restored after retightening,0.68,36.8,1.84,0.35,9.010869565,4.313211677
+Unit 5,extruder,10/10,08:30:00,10:55:00,145,2.4,Shinyang 2 100HP compressor water inflow,"Shinyang 2 100HP compressor water inflow cleaning and
+Part replacement",1.78,67,2.65,0.35,3.998507463,4.698211677
+Unit 5,extruder,08/15,08:47:00,10:20:00,93,1.55,Pushback operation error,Pushback replacement work,8.54,46.9,2.18,0.35,5.997654584,7.064211677
+Unit 5,extruder,08/22,19:30:00,21:00:00,90,1.5,Gauge head brake hydraulic cylinder replacement,Repair after dismantling the cylinder,8.54,46.9,2.18,0.35,5.997654584,7.064211677
+Unit 5,extruder,09/04,22:00:00,22:15:00,5,0.08,Cycle start not possible,Illuminated s/w contact point was replaced due to burnout.,8.61,71.9,1.36,0.35,3.99930459,7.088711677
+Unit 5,extruder,10/02,05:17:00,05:30:00,13,0.22,Chain detection sensor bolt broken,Replacement work after dismantling damaged bolts,7.88,43.6,1.01,0.35,5.995642202,6.833211677
+Unit 5,extruder,11/06,19:00:00,20:10:00,65,1.08,Automatic extrusion operation is not possible,"Main loader rise limit S/W continues to detect,
+S/W replacement",4.94,38.9,6.52,0.35,7.995115681,5.804211677
+Unit 5,extruder,11/08,08:30:00,16:20:00,470,7.83,container cylinder oil leak,Welding after dismantling the rear of the container,4.94,38.9,6.52,0.35,7.995115681,5.804211677
+Unit 5,extruder,11/14,13:30:00,16:10:00,160,2.67,Logsha main cylinder leak,O-ring replacement work in the relevant area,4.94,38.9,6.52,0.35,7.995115681,5.804211677
+Unit 5,heating furnace,02/20,01:40:00,02:40:00,60,1,Billet furnace pushback,Silinda oil leak replacement work,1.22,113.9,1.07,0.25,2.999122037,3.215865483
+Unit 5,heating furnace,03/05,06:30:00,07:00:00,30,0.5,Billet call no,Program error occurred,1.26,58.8,2.14,0.25,6.994217687,3.225865483
+Unit 5,heating furnace,03/07,09:30:00,10:00:00,30,0.5,Logsha during automatic driving,Replacing the sensor that stops at the cutting area,1.26,58.8,2.14,0.25,6.994217687,3.225865483
+Unit 5,heating furnace,03/11,18:20:00,19:20:00,60,1,No shaft operation during automatic operation,Replace defective pusher pull back sensor,1.26,58.8,2.14,0.25,6.994217687,3.225865483
+Unit 5,heating furnace,03/18,09:36:00,10:10:00,34,0.57,Ejector cylinder leak,Spare parts loading replacement work,1.26,58.8,2.14,0.25,6.994217687,3.225865483
+Unit 5,heating furnace,03/19,23:00:00,23:40:00,40,0.67,Billet call no,Billet counter sensor replacement work,1.26,58.8,2.14,0.25,6.994217687,3.225865483
+Unit 5,heating furnace,04/01,10:20:00,11:10:00,50,0.83,Birette heating furnace HOT JAT,FAN bearing replacement work,0.81,48.1,1.7,0.25,6.001871102,3.113365483
+Unit 5,heating furnace,06/09,09:50:00,10:30:00,40,0.67,Logsha ejector cylinder leak,Replacement work with spare parts,0.86,92.9,0.92,0.25,4.001829925,3.125865483
+Unit 5,heating furnace,07/11,08:10:00,09:30:00,80,1.33,Furnace exit door detection,"Limit switch burned out, replaced",1.88,72.5,2.6,0.25,4.998344828,3.380865483
+Unit 5,heating furnace,07/13,13:30:00,14:00:00,30,0.5,Heating furnace zone 2 does not ignite.,CR replacement work,1.88,72.5,2.6,0.25,4.998344828,3.380865483
+Unit 5,heating furnace,08/04,08:00:00,09:00:00,60,1,Billet Furnace Door,Limit wiring burnout replacement work,1.05,13.5,7.74,0.25,20.05185185,3.173365483
+Unit 5,heating furnace,08/18,14:00:00,14:15:00,15,0.25,Logsha clamp does not work,PLC output card output is defective. Normal operation after attaching and detaching the terminal.,1.05,13.5,7.74,0.25,20.05185185,3.173365483
+Unit 5,heating furnace,08/20,04:20:00,05:00:00,40,0.67,Logsha hydraulic unit motor,Check trip motor due to overcurrent,1.05,13.5,7.74,0.25,20.05185185,3.173365483
+Unit 5,heating furnace,08/30,01:30:00,02:30:00,60,1,Logsha top clamp rod damaged,Disassembly of billet catch part,1.05,13.5,7.74,0.25,20.05185185,3.173365483
+Unit 5,heating furnace,09/19,08:30:00,09:15:00,45,0.75,Billet Furnace Hydraulic Pump,Normal after motor trip power ON/OFF,0.53,82.9,0.64,0.25,4,3.043365483
+Unit 5,heating furnace,09/19,08:30:00,09:15:00,45,0.8,Heating furnace hydraulic pump continues to overload and trip and cradle down does not work.,"After turning off the power and attaching and detaching the PLC IN/OUT card, the hydraulic pump operates normally and the cradle is down and the inflow S/V wiring is disconnected and reconnected.",0.68,36.8,1.84,0.25,9.010869565,3.080865483
+Unit 5,heating furnace,09/01,12:30:00,13:30:00,60,1,Pushbeck cylinder oil leak,Pushback cylinder oil leak replacement,0.68,36.8,1.84,0.25,9.010869565,3.080865483
+Unit 5,heating furnace,10/28,03:00:00,03:20:00,20,0.3,Request for replacement due to burnout of ZONE#3 external cylinder,External tube replacement work,1.78,67,2.65,0.25,3.998507463,3.355865483
+Unit 5,heating furnace,08/30,04:00:00,04:15:00,15,0.25,Purge operation is not possible due to billet heating.,Reconnection of wire disconnection in M/M,8.54,46.9,2.18,0.25,5.997654584,5.045865483
+Unit 5,heating furnace,10/07,14:00:00,14:45:00,40,0.67,Zone#2 External dent,External tube replacement and inner tube welding work,7.88,43.6,1.01,0.25,5.995642202,4.880865483
+Unit 5,heating furnace,10/11,15:30:00,16:30:00,60,1,Pushback not working,Check ZONE #2 lead S/W calibration PLC program,7.88,43.6,1.01,0.25,5.995642202,4.880865483
+Unit 5,heating furnace,10/21,07:30:00,07:50:00,20,0.33,UP operation is not possible after cutting the log shaft.,Cradle correct position detection proximity sensor replacement,7.88,43.6,1.01,0.25,5.995642202,4.880865483
+Unit 5,heating furnace,11/10,08:30:00,11:00:00,150,2.5,Temperature does not rise with heating,Full repair work,4.94,38.9,6.52,0.25,7.995115681,4.145865483
+Unit 5,heating furnace,11/17,08:30:00,12:30:00,240,4,Billet auto call does not work,"Replace TC card, check cycle stop S/W contact point
+Replacement of 2 hotjet fan SSRs",4.94,38.9,6.52,0.25,7.995115681,4.145865483
+Unit 5,heating furnace,11/21,11:35:00,12:12:00,37,0.62,Leakage at cylinder rod area,Cylinder replacement work,4.94,38.9,6.52,0.25,7.995115681,4.145865483
+Unit 5,fuller,01/25,08:30:00,10:00:00,90,1.5,Fuller distance value or higher,Normal after replacing POWER SUPPLY,1.5,376.9,0.4,0.09,1.000026532,1.182911574
+Unit 5,fuller,02/15,13:30:00,15:00:00,90,1.5,Puller jaw and tray not working,Collision damage to tray gear area,1.22,113.9,1.07,0.09,2.999122037,1.157711574
+Unit 5,fuller,04/08,23:28:00,00:30:00,62,1.03,Puller hydraulic motor does not start,Motor bearing wear replacement work,0.81,48.1,1.07,0.09,6.001871102,1.120811574
+Unit 5,fuller,06/21,20:30:00,20:50:00,20,0.33,fuller roller bearing noise,Grease injection after bearing removal,0.86,92.9,0.92,0.09,4.001829925,1.125311574
+Unit 5,fuller,08/11,17:00:00,20:00:00,180,3,puller wire rope tension,Assemble after processing wheel bearing damage,1.05,13.5,7.74,0.09,20.05185185,1.142411574
+Unit 5,fuller,08/18,16:03:00,17:05:00,62,1.03,puller drive reducer,Replacement work (reducer bearing),1.05,13.5,7.74,0.09,20.05185185,1.142411574
+Unit 5,fuller,08/24,18:30:00,19:40:00,70,1.17,Rail jams during puller operation,Phenomenon roller bearing replacement,1.05,13.5,7.74,0.09,20.05185185,1.142411574
+Unit 5,fuller,08/24,16:15:00,16:40:00,25,0.42,Puller rail worn area,Grinding work with a grinder,1.05,13.5,7.74,0.09,20.05185185,1.142411574
+Unit 5,fuller,08/24,15:00:00,15:45:00,45,0.75,Puller rail worn area,Grinding work with a grinder,1.05,13.5,7.74,0.09,20.05185185,1.142411574
+Unit 5,fuller,08/25,08:45:00,10:30:00,105,1.75,Fully in the middle of automatic operation,Check for stoppage phenomenon,1.05,13.5,7.74,0.09,20.05185185,1.142411574
+Unit 5,fuller,08/25,11:30:00,12:00:00,30,0.5,Fully in the middle of automatic operation,Check for stoppage phenomenon,1.05,13.5,7.74,0.09,20.05185185,1.142411574
+Unit 5,fuller,08/25,12:00:00,16:30:00,270,4.5,Fully in the middle of automatic operation,Stop operation track maintenance,1.05,13.5,7.74,0.09,20.05185185,1.142411574
+Unit 5,fuller,09/24,16:15:00,16:50:00,35,0.58,Puller tray pullet bending,Corrective action after disadvantage,0.53,82.9,0.64,0.09,4,1.095611574
+Unit 5,fuller,09/24,16:15:00,16:50:00,35,0.6,Full ply bending,Full ply bending correction work,0.68,36.8,1.84,0.09,9.010869565,1.109111574
+Unit 5,fuller,10/27,04:50:00,06:15:00,85,1.4,puller wire shear,Puller wire shear replacement,1.78,67,2.65,0.09,3.998507463,1.208111574
+Unit 5,fuller,08/29,20:40:00,21:40:00,60,1,Wing bending phenomenon,Correction work on the relevant area,8.54,46.9,2.18,0.09,5.997654584,1.816511574
+Unit 5,Hasso,03/10,07:30:00,12:30:00,300,5,Hot show up down silinda,Replacing an old furnace,1.26,58.8,2.14,0.1,6.994217687,1.290346193
+Unit 5,Hasso,07/01,14:00:00,14:15:00,15,0.25,HOT SAW CLAMP,Sensor S/W disconnection wiring replacement work,1.88,72.5,2.6,0.1,4.998344828,1.352346193
+Unit 5,back side,06/24,11:45:00,14:00:00,135,2.25,Stecka Gantry Sangha Mota,Burnout replacement work,0.86,92.9,0.92,0.15,4.001829925,1.87551929
+Unit 5,back side,06/27,09:00:00,09:10:00,10,0.17,END SAW PLC CP TRIP,Normal operation after return,0.86,92.9,0.92,0.15,4.001829925,1.87551929
+Unit 5,back side,07/11,08:30:00,09:30:00,60,1,SAW FEED conveyor,UP/DOWN solenoid replacement,1.88,72.5,2.6,0.15,4.998344828,2.02851929
+Unit 5,back side,08/25,16:30:00,17:30:00,60,1,Before and after Stretcha Powerhead,True non-jaw down brush wiring disconnection,1.05,13.5,7.74,0.15,20.05185185,1.90401929
+Unit 5,back side,08/08,20:50:00,21:05:00,15,0.25,TAIL HEAD IN FEED V/T UP/DOWN does not work,Tightening and readjusting the proximity sensor by loosening the JAW cylinder rod,1.05,13.5,7.74,0.15,20.05185185,1.90401929
+Unit 5,back side,08/15,21:30:00,21:50:00,20,0.33,T.H monitor turns off frequently,monitor replacement,1.05,13.5,7.74,0.15,20.05185185,1.90401929
+Unit 5,back side,08/18,09:00:00,09:30:00,30,0.5,TAIL HEAD IN FEED V/T operation not possible,"IN FEED V/T MOTOR is caught when moving forward/reverse, and inspection and repair of connector wiring disconnection.",1.05,13.5,7.74,0.15,20.05185185,1.90401929
+Unit 5,back side,08/05,06:30:00,06:40:00,10,0.17,Request for replacement due to damage to Jjoldae C/V counting sensor,BUP-50S (1EA) replacement work,1.05,13.5,7.74,0.15,20.05185185,1.90401929
+Unit 5,back side,09/06,13:30:00,13:50:00,20,0.33,Braces Powerhead Jaw Seal,Linda Peking replacement work,0.53,82.9,0.64,0.15,4,1.82601929
+Unit 5,back side,09/06,12:30:00,13:50:00,80,1.3,Straightener power head cylinder air leak,Replacement of crude cylinder air leak packing,0.68,36.8,1.84,0.15,9.010869565,1.84851929
+Unit 5,back side,11/08,21:10:00,22:45:00,95,1.6,Pusher bearing damaged and sensor touch bar damaged,Replacement of damaged pusher bearing and welding repair of damaged sensor touch bar,2.05,172.9,1.19,0.15,2,2.05401929
+Unit 5,back side,11/08,15:00:00,17:30:00,150,2.5,Hot saw cylinder damage,Hot saw cylinder damage replacement,2.05,172.9,1.19,0.15,2,2.05401929
+Unit 5,back side,08/13,08:50:00,09:20:00,30,0.5,Straightener infeed belt cannot be driven,Fuller guide correction work,8.54,46.9,2.18,0.15,5.997654584,3.02751929
+Unit 5,back side,09/12,02:30:00,05:00:00,150,2.5,Cutter cannot move forward or backward,"Pipe repair and filter cleaning after disassembling the relevant area
+Drain relief adjustment / saw blade lowering position downward adjustment",8.61,71.9,1.36,0.15,3.99930459,3.03801929
+Unit 5,back side,09/12,20:50:00,21:50:00,60,1,Straightener cylinder bolt loosened,Tightening work on loosened parts,8.61,71.9,1.36,0.15,3.99930459,3.03801929
+Unit 5,back side,09/27,13:45:00,14:05:00,20,0.33,Braces jaw up and down not possible,Sensor bracket welding work and sensor position correction,8.61,71.9,1.36,0.15,3.99930459,3.03801929
+Unit 5,back side,10/21,12:00:00,12:10:00,10,0.17,Power head sensor damaged,PRDL18-14DN Replacement,7.88,43.6,1.01,0.15,5.995642202,2.92851929
+Unit 5,back side,10/29,20:30:00,20:45:00,15,0.25,Braces power head not working,Damaged clamp sensor PR18-14DN replacement,7.88,43.6,1.01,0.15,5.995642202,2.92851929
+Unit 5,back side,11/04,05:00:00,06:15:00,75,1.25,Cutter drive shaft slip,"Drive shaft slip occurs
+ - Assemble the coupling after welding the shaft",4.94,38.9,6.52,0.15,7.995115681,2.48751929
+Unit 5,back side,11/13,03:40:00,04:00:00,20,0.33,Gauge head forward/reverse operation not possible,Temporary measure taken as one of two gauge head clamping devices is inoperable,4.94,38.9,6.52,0.15,7.995115681,2.48751929
+Unit 5,etc,09/12,22:30:00,23:00:00,30,0.5,Inspection request due to inability to increase temperature,Normal operation after replacement due to MC225B deterioration,0.68,36.8,1.84,0.06,9.010869565,0.739407716
+Unit 6,extruder,01/28,20:30:00,20:45:00,15,0.3,Dieslide proximity sensor,Burnout replacement work,0.56,59.1,0.95,0.35,4.998815567,4.271211677
+Unit 6,extruder,01/28,05:30:00,06:10:00,40,0.7,Container Sealing Pump Jaws,Temporary measures for carpooler damage,0.56,59.1,0.95,0.35,4.998815567,4.271211677
+Unit 6,extruder,02/19,13:40:00,16:40:00,180,3,Oil cooler coolant pump,Bearing and seal replacement work,1.25,75.8,1.65,0.35,3.999076517,4.512711677
+Unit 6,extruder,02/19,10:45:00,10:55:00,10,0.2,No. 2 main pump pull lug,Oil leak O-ring replacement work,1.25,75.8,1.65,0.35,3.999076517,4.512711677
+Unit 6,extruder,03/01,14:10:00,14:30:00,20,0.3,No container sealing pressure,Due to poor operation of the op panel,1.12,64.5,1.73,0.35,6.002170543,4.467211677
+Unit 6,extruder,03/10,06:10:00,07:00:00,50,0.8,Main advance no,Normal after fuse holder replacement,1.12,64.5,1.73,0.35,6.002170543,4.467211677
+Unit 6,extruder,04/25,09:15:00,09:30:00,15,0.2,Main pump not operating,Replacement due to servo valve oil contamination,0.73,66.1,1.1,0.35,4.000453858,4.330711677
+Unit 6,extruder,04/27,09:00:00,09:35:00,35,0.6,Container sealing relief valve,Replace oil leak due to body crack,0.73,66.1,1.1,0.35,4.000453858,4.330711677
+Unit 6,extruder,05/12,07:10:00,08:30:00,80,1.3,Main pump No. 1 flash hose leak,O-ring replacement after disassembly,1.22,23.4,5.22,0.35,9.00982906,4.502211677
+Unit 6,extruder,05/17,07:20:00,08:30:00,70,1.2,Billet loader operation error,Relief valve decontamination operation,1.22,23.4,5.22,0.35,9.00982906,4.502211677
+Unit 6,extruder,05/18,05:20:00,06:10:00,50,0.8,Sealing pipe leak,Welding of pipe cracks,1.22,23.4,5.22,0.35,9.00982906,4.502211677
+Unit 6,extruder,05/27,21:10:00,22:30:00,80,1.3,Pilot pipe crack leak,Welding work after disassembly,1.22,23.4,5.22,0.35,9.00982906,4.502211677
+Unit 6,extruder,05/30,13:30:00,16:50:00,200,3.3,Stem Shear To Spare Parts,Replace operation with,1.22,23.4,5.22,0.35,9.00982906,4.502211677
+Unit 6,extruder,06/09,19:00:00,22:40:00,220,3.7,Billet rodaped damaged,Assemble after calibrating the pad,1.73,65.5,2.63,0.35,4.000916031,4.680711677
+Unit 6,extruder,06/13,13:50:00,14:40:00,50,0.8,Container sealing pressure low,Relief valve pressure adjustment operation,1.73,65.5,2.63,0.35,4.000916031,4.680711677
+Unit 6,extruder,07/25,22:20:00,22:50:00,30,0.5,Main side pressure rise,No operation due to deterioration,2.07,68.3,3.03,0.35,3.000439239,4.799711677
+Unit 6,extruder,09/05,21:30:00,23:35:00,125,2.1,Billet auxiliary load,peking maintenance,3.87,49.6,7.79,0.35,6.002016129,5.429711677
+Unit 6,extruder,09/07,18:10:00,20:30:00,140,2.3,Extrusion Pilot Pump,Oil cooler oil leak replacement work,3.87,49.6,7.79,0.35,6.002016129,5.429711677
+Unit 6,extruder,09/21,13:30:00,17:30:00,240,4,Purchase a kit for Ox pump or higher,After replacement test run,3.87,49.6,7.79,0.35,6.002016129,5.429711677
+Unit 6,extruder,09/22,08:30:00,19:00:00,630,10.5,Billet Roda Hinge Bush,Replacement and calibration work,3.87,49.6,7.79,0.35,6.002016129,5.429711677
+Unit 6,extruder,09/06,20:50:00,23:35:00,165,2.8,Auxiliary loader cylinder piston broken,Auxiliary loader cylinder piston damage replacement and repair (lack of pallet),2.53,16.5,15.28,0.35,18.04242424,4.960711677
+Unit 6,extruder,09/07,05:35:00,06:20:00,45,0.8,Request inspection with container heater (heater side) wiring SHORT,Replaced SCR UNIT T-phase fuse carpet after taping and re-fixing due to poor container heater wiring insulation.,2.53,16.5,15.28,0.35,18.04242424,4.960711677
+Unit 6,extruder,09/21,13:30:00,17:30:00,240,4,Pyrot pump discharge error,Replace the pump kit due to defective discharge of the rotary pump (No. 32),2.53,16.5,15.28,0.35,18.04242424,4.960711677
+Unit 6,extruder,09/22,08:30:00,19:00:00,630,10.5,Loader shaft bushing broken,Damaged loader shaft bushing replacement,2.53,16.5,15.28,0.35,18.04242424,4.960711677
+Unit 6,extruder,10/08,08:30:00,08:50:00,20,0.3,Inspection request due to container heater temperature not rising,FUSE “T phase” replacement work,0.36,57.4,0.63,0.35,4.99825784,4.201211677
+Unit 6,extruder,10/21,01:40:00,01:50:00,10,0.2,OP panel extrusion CYCLE START PB S/W replacement request,CYCLE START PB S/W (KH-513) replacement,0.36,57.4,0.63,0.35,4.99825784,4.201211677
+Unit 6,extruder,10/07,19:44:00,20:00:00,16,0.3,Inspection request due to drop in container heater temperature,Replaced 2EA due to fuse burnout.,0.36,57.4,0.63,0.35,4.99825784,4.201211677
+Unit 6,extruder,10/18,18:50:00,19:20:00,30,0.5,Computer pc breaker trip,Earth leakage circuit breaker for computer system in power supply room is restored,0.36,57.4,0.63,0.35,4.99825784,4.201211677
+Unit 6,extruder,11/05,12:00:00,12:30:00,30,0.5,Main pump not working properly,Main pump does not work properly. Operate after inspection.,0.5,336.7,0.15,0.35,1,4.250211677
+Unit 6,extruder,08/11,13:30:00,14:20:00,50,0.8,Main reverse valve orifice is clogged,Orifice cleaning,4.93,28.4,5.93,0.35,10.9806338,5.800711677
+Unit 6,extruder,08/26,08:50:00,10:00:00,70,1.2,Hydraulic pump malfunction,Hydraulic pump replacement,4.93,28.4,5.93,0.35,10.9806338,5.800711677
+Unit 6,extruder,08/29,22:00:00,08:30:00,410,6.8,Main ram reverse operation not possible,Main RAM maintenance in 2 stages,4.93,28.4,5.93,0.35,10.9806338,5.800711677
+Unit 6,extruder,09/11,09:10:00,09:25:00,15,0.3,Main ram cannot move forward or backward,"Orifice disassembled and cleaned, normal operation",3.92,44.5,1.61,0.35,5.99752809,5.447211677
+Unit 6,extruder,09/29,03:50:00,04:35:00,45,0.7,Main ram reverse operation not working,Reverse volume valve cleaning work,3.92,44.5,1.61,0.35,5.99752809,5.447211677
+Unit 6,extruder,09/30,18:10:00,19:30:00,80,1.3,Side cylinder leak,Side cylinder oil packing replacement work,3.92,44.5,1.61,0.35,5.99752809,5.447211677
+Unit 6,extruder,11/19,09:00:00,12:00:00,170,2.8,Side cylinder leak,Welding work on damaged pipes,21.28,246.8,1.13,0.35,0.999837925,11.52321168
+Unit 6,heating furnace,02/11,08:30:00,10:00:00,90,1.5,Natural motor explosion proof box,Test run after installation,1.25,75.8,1.65,0.25,3.999076517,3.223365483
+Unit 6,heating furnace,02/19,11:45:00,12:05:00,20,0.3,Pushback cylinder oil leak,Replaced with Silinda spare part,1.25,75.8,1.65,0.25,3.999076517,3.223365483
+Unit 6,heating furnace,03/05,22:00:00,23:00:00,60,1,No before or after Pusha,Poor solenoid valve contact,1.12,64.5,1.73,0.25,6.002170543,3.190865483
+Unit 6,heating furnace,03/12,02:21:00,03:10:00,49,0.8,Billet not moving forward,Pressure switch error adjustment work,1.12,64.5,1.73,0.25,6.002170543,3.190865483
+Unit 6,heating furnace,03/15,20:30:00,23:50:00,200,3.3,Billet heating furnace type 1~2,Replace damaged insulator with spare part,1.12,64.5,1.73,0.25,6.002170543,3.190865483
+Unit 6,heating furnace,05/03,04:00:00,04:30:00,30,0.5,Delay in purge completion due to billet heating,Confirmation of delay due to low gas pressure,1.22,23.4,5.22,0.25,9.00982906,3.215865483
+Unit 6,heating furnace,05/03,01:30:00,02:00:00,30,0.5,Billet temperature deviation,Normal after replacing probe insulator,1.22,23.4,5.22,0.25,9.00982906,3.215865483
+Unit 6,heating furnace,05/23,08:30:00,09:14:00,44,0.7,Logsha Ejector Cylinder,Replacement of motion detection sensor,1.22,23.4,5.22,0.25,9.00982906,3.215865483
+Unit 6,heating furnace,06/21,08:50:00,09:30:00,40,0.7,HOT JAT FAN M/M,Ring gauge deviation correction work,1.73,65.5,2.63,0.25,4.000916031,3.343365483
+Unit 6,heating furnace,07/27,15:40:00,19:00:00,200,3.3,Billet heating furnace PLC alarm,PLC card cleaning and output card replacement,2.07,68.3,3.03,0.25,3.000439239,3.428365483
+Unit 6,heating furnace,07/28,22:36:00,01:00:00,144,2.4,Billet heating furnace PLC alarm,Occurrence clearing operation,2.07,68.3,3.03,0.25,3.000439239,3.428365483
+Unit 6,heating furnace,08/05,07:00:00,08:20:00,80,1.3,DOOR exit side IP5200 SOL replacement,Hotjet Fan Temperature Signal Converter Delta I/O Replacement,1,10.2,9.79,0.25,24.94117647,3.160865483
+Unit 6,heating furnace,08/08,18:30:00,19:00:00,30,0.5,Impossible to operate due to burnout of MC for operating power,Normal operation after replacement of MC-40A 110V,1,10.2,9.79,0.25,24.94117647,3.160865483
+Unit 6,heating furnace,08/08,11:30:00,12:30:00,60,1,Zone#2 Ignition not possible,PLC output card FTU-266B replacement,1,10.2,9.79,0.25,24.94117647,3.160865483
+Unit 6,heating furnace,08/09,12:30:00,13:30:00,60,1,Pushback cylinder rod leak,Cylinder rod oil leak replacement,1,10.2,9.79,0.25,24.94117647,3.160865483
+Unit 6,heating furnace,08/25,00:30:00,01:30:00,60,1,Pushback cylinder rod leak,Cylinder rod oil leak replacement,1,10.2,9.79,0.25,24.94117647,3.160865483
+Unit 6,heating furnace,08/31,08:10:00,10:00:00,110,1.8,Explosion sound when main gas ignition in heating furnace,Check Hotjet Fan M/M operation,1,10.2,9.79,0.25,24.94117647,3.160865483
+Unit 6,heating furnace,09/02,02:30:00,02:50:00,20,0.3,Logsha Cradle UP-DOWN,Detection sensor replacement work,3.87,49.6,7.79,0.25,6.002016129,3.878365483
+Unit 6,heating furnace,09/29,20:30:00,20:40:00,10,0.2,ZONE#1 Pilot wire disconnection does not ignite,Normal operation after wiring connection,2.53,16.5,15.28,0.25,18.04242424,3.543365483
+Unit 6,heating furnace,09/02,02:30:00,02:50:00,20,0.3,Request for replacement due to deterioration of cradle UP/DOWN detection sensor,PRT18-5DO(2EA) replacement,2.53,16.5,15.28,0.25,18.04242424,3.543365483
+Unit 6,heating furnace,10/31,12:10:00,12:40:00,30,0.5,"ZONE#2 Thermocouple is bent, requesting repairs","Thermocouple calibration work, 2-hole insulator replacement.",0.36,57.4,0.63,0.25,4.99825784,3.000865483
+Unit 6,heating furnace,08/12,00:00:00,00:25:00,25,0.4,Probe zone#2 cannot move forward or backward,Cylinder replacement and connection welding work,4.93,28.4,5.93,0.25,10.9806338,4.143365483
+Unit 6,heating furnace,08/25,08:15:00,08:35:00,20,0.3,Check for temperature abnormalities,Scr fuse T phase replacement,4.93,28.4,5.93,0.25,10.9806338,4.143365483
+Unit 6,fuller,01/23,08:30:00,09:45:00,75,1.3,puller wire rope burnout,Wire rope replacement work,0.56,59.1,0.95,0.09,4.998815567,1.098311574
+Unit 6,fuller,08/20,12:00:00,15:21:00,201,3.4,Fulla reducer bearing damage,bearing replacement,1,10.2,9.79,0.09,24.94117647,1.137911574
+Unit 6,fuller,08/29,21:10:00,23:40:00,150,2.5,Pull the wheel off,bearing replacement,1,10.2,9.79,0.09,24.94117647,1.137911574
+Unit 6,fuller,09/07,10:00:00,12:25:00,145,2.4,Request for removal of motor wiring due to repair of hydraulic unit of machine tool,Check wiring removal and test run. Load current 4~5A,2.53,16.5,15.28,0.09,18.04242424,1.275611574
+Unit 6,fuller,08/05,05:00:00,07:10:00,90,1.5,Puller wire breakage,Wire replacement work,4.93,28.4,5.93,0.09,10.9806338,1.491611574
+Unit 6,fuller,08/18,14:24:00,16:00:00,96,1.6,Puller stops during reverse deceleration,PLC monitor check and overheat alarm release,4.93,28.4,5.93,0.09,10.9806338,1.491611574
+Unit 6,fuller,08/20,05:40:00,06:15:00,35,0.6,Puller not working,Normal operation after restoration of circuit breaker with circuit breaker trip,4.93,28.4,5.93,0.09,10.9806338,1.491611574
+Unit 6,fuller,10/18,07:15:00,07:35:00,20,0.3,The distance value on the OP panel side is abnormal.,Encoder coupling is not fixed. Fixed.,18.39,164.4,0.61,0.09,1.997627737,2.703011574
+Unit 6,Hasso,03/31,08:50:00,09:20:00,30,0.5,HOT SAW BELT Shear,Belt replacement work,1.12,64.5,1.73,0.1,6.002170543,1.276346193
+Unit 6,back side,01/06,21:40:00,21:55:00,15,0.3,Strezza PLC Alarm,Normal after power ON/OFF repeated operation,0.56,59.1,0.95,0.15,4.998815567,1.83051929
+Unit 6,back side,01/07,02:12:00,02:25:00,13,0.2,Space Bar Supply C/V,Normal after replacing the error horseshoe sensor,0.56,59.1,0.95,0.15,4.998815567,1.83051929
+Unit 6,back side,04/02,03:50:00,04:55:00,65,1.1,Stecca Logistics Conveyor UP/,DOWON,0.73,66.1,1.1,0.15,4.000453858,1.85601929
+Unit 6,back side,04/06,10:00:00,11:00:00,60,1,Gauge head brake slip,Brake adjustment work,0.73,66.1,1.1,0.15,4.000453858,1.85601929
+Unit 6,back side,05/30,19:05:00,20:30:00,85,1.4,Powerhead drive bearing,Damaged replacement work,1.22,23.4,5.22,0.15,9.00982906,1.92951929
+Unit 6,back side,06/13,10:00:00,11:40:00,100,1.7,End SAW Clamp Cylinder,Not working Adjustment work,1.73,65.5,2.63,0.15,4.000916031,2.00601929
+Unit 6,back side,08/09,14:50:00,17:15:00,145,2.4,Hendring hydraulic unit loading,Replacement work after checking the solenoid,1,10.2,9.79,0.15,24.94117647,1.89651929
+Unit 6,back side,08/29,18:00:00,18:30:00,30,0.5,RUN OUT C/V not running,Inverter error Replace with new product,1,10.2,9.79,0.15,24.94117647,1.89651929
+Unit 6,back side,08/24,03:50:00,04:05:00,15,0.2,Saw Feed C/V operation not possible,Inverter Error reset,1,10.2,9.79,0.15,24.94117647,1.89651929
+Unit 6,back side,09/02,22:00:00,22:10:00,10,0.2,Jjoldae C/V operates at low speed during automatic operation.,Normal operation after removing foreign substances,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/03,07:20:00,08:10:00,50,0.8,Gauge head origin stop detection sensor replaced due to damage.,PRL30-15DN (1EA) replacement,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/08,18:10:00,12:30:00,1100,18.3,Damaged hydraulic unit service tank cooler.,Hydraulic unit service tank cooler damage installation work,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/21,03:00:00,03:20:00,20,0.3,Request for inspection as jjoldae is not discharged,AIR SOL V/V operates normally after cleaning the spool.,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/20,02:00:00,02:15:00,15,0.3,Gauge head forward/reverse operation not possible,MOTOR belt tension adjustment,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/07,09:30:00,11:00:00,90,1.5,Replacement work for old HOT SAW cable bear,Cable bear 3M replacement work,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/24,02:00:00,02:15:00,15,0.3,Only half of the monitor is visible.,Monitor and cable need replacement,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/23,11:30:00,12:10:00,40,0.7,Check due to poor SPACE-BAR input,SPACE-BAR DROP device AIR SOL replaced due to defective,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/29,13:55:00,14:35:00,40,0.7,GANTRY T/V pushing phenomenon when forward/backward motion stops,GANTRY T/V forward/backward motion motor B/K replaced due to pad wear,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,09/22,23:30:00,00:35:00,65,1.1,Inspection request due to STACKER ELEVATOR UP not working,Normal operation after emergency S/W release,2.53,16.5,15.28,0.15,18.04242424,2.12601929
+Unit 6,back side,08/04,09:00:00,12:14:00,194,3.2,Check internal burnout of Steca GENTRY T/V inverter,"GENTRY T/V replacement and motor pad replacement,
+Forward/backward sensor position adjustment",4.93,28.4,5.93,0.15,10.9806338,2.48601929
+Unit 6,back side,08/11,22:00:00,00:00:00,39,0.7,GANTRY T/V Slow does not operate,Normal operation after changing the inverter SLOW input position,4.93,28.4,5.93,0.15,10.9806338,2.48601929
+Unit 6,back side,08/14,04:10:00,05:30:00,80,1.3,Runout C/V roller jamming phenomenon,Normal operation after removal of roller jamming area,4.93,28.4,5.93,0.15,10.9806338,2.48601929
+Unit 6,back side,09/11,09:00:00,09:45:00,45,0.8,Cutter gauge head not working,Head operates normally after the gauge conveyor rises and falls.,3.92,44.5,1.61,0.15,5.99752809,2.33451929
+Unit 6,back side,09/12,07:00:00,07:21:00,21,0.3,Transbear switch rod damaged,Welding work on damaged areas,3.92,44.5,1.61,0.15,5.99752809,2.33451929
+Unit 6,back side,10/20,19:00:00,20:40:00,100,1.7,"Cutting machine saw blade fixed axis
+Bearing damage",Damaged bearing replacement work,18.39,164.4,0.61,0.15,1.997627737,4.50501929
+Unit 6,etc,08/20,11:30:00,12:05:00,35,0.6,OIL purifier motor external repair in stock,"OIL purifier motor installation and test run completed (rating: 8.2A, current: 4.3A)",1,10.2,9.79,0.06,24.94117647,0.758607716
+Unit 6,etc,09/22,16:10:00,17:00:00,50,0.8,Jib crane S/W replaced due to damage,Normal operation after replacement of operation S/W,3.92,44.5,1.61,0.06,5.99752809,0.933807716
+Unit 7,extruder,01/07,09:55:00,10:55:00,60,1,Container Cylinder V-PACKING,replacement work,1,433.8,0.23,0.35,1,4.425211677
+Unit 7,extruder,02/01,02:30:00,21:45:00,1155,19.3,Billet Cutting Machine Shaft Shear,Processing and assembly after welding the sheared area,7.13,123.5,5.77,0.35,3.000566802,6.570711677
+Unit 7,extruder,04/14,05:45:00,06:20:00,35,0.6,Hydraulic solenoid leak,Replacement work with spare parts due to oil leakage,0.45,181.2,0.25,0.35,1.999558499,4.232711677
+Unit 7,extruder,05/09,10:00:00,10:15:00,15,0.2,Main pressure display defective,Power cut recovery operation,1.7,72.8,2.34,0.35,4.999175824,4.670211677
+Unit 7,extruder,05/17,20:30:00,21:40:00,70,1.2,Leakage due to container pipe cracks,Piping adverse welding work,1.7,72.8,2.34,0.35,4.999175824,4.670211677
+Unit 7,extruder,08/11,13:50:00,14:44:00,54,0.9,Dice transfer table full range fixation,Tightening of jamming phenomenon during operation due to loosening of bolts,0.74,42.9,1.72,0.35,10,4.334211677
+Unit 7,extruder,08/23,06:10:00,08:00:00,110,1.8,Whoosh pile fixing bolt is broken,Bolt replacement after disassembly,0.74,42.9,1.72,0.35,10,4.334211677
+Unit 7,extruder,08/23,01:52:00,02:56:00,64,1.1,Container Hydraulic Piping Crack,Welding work after piping failure,0.74,42.9,1.72,0.35,10,4.334211677
+Unit 7,extruder,09/21,22:55:00,23:11:00,16,0.3,Oil leak through main shani horn crack,Replacement assembly after removing the horn,2.94,75.6,3.89,0.35,5,5.104211677
+Unit 7,extruder,09/23,12:05:00,14:00:00,115,1.9,Container piping crack leak,Piping adverse welding work,2.94,75.6,3.89,0.35,5,5.104211677
+Unit 7,extruder,09/23,01:30:00,02:25:00,55,0.9,Pilot pipe crack leak,pipe welding work,2.94,75.6,3.89,0.35,5,5.104211677
+Unit 7,extruder,09/05,22:30:00,22:35:00,5,0.1,Automatic operation is disabled due to a mainsha abnormality alarm.,Mainsha L/S lever broken →L/S lever replaced,1.7,34.4,4.95,0.35,10.98837209,4.670211677
+Unit 7,extruder,09/23,12:05:00,14:00:00,115,1.9,Container piping crack leak,Container piping crack leak welding repair,1.7,34.4,4.95,0.35,10.98837209,4.670211677
+Unit 7,extruder,09/23,01:30:00,02:25:00,55,0.9,Pilot pump piping crack leak,Pilot pump piping crack oil leak welding repair,1.7,34.4,4.95,0.35,10.98837209,4.670211677
+Unit 7,extruder,10/11,12:30:00,13:30:00,60,1,Sha hydraulic pipe crack leak,Sha Hydraulic Piping Crack Leakage Welding Repair,0.74,28.4,2.59,0.35,14.01408451,4.334211677
+Unit 7,extruder,10/10,08:30:00,10:44:00,134,2.2,Shinyang 2 100HP compressor water inflow,Cleaning and Part Replacement,0.74,28.4,2.59,0.35,14.01408451,4.334211677
+Unit 7,extruder,11/21,08:30:00,12:30:00,240,4,No extrusion pressure build up,Pressure rises after inspecting the sole and cleaning the logic valve,4,441.1,0.91,0.35,1,5.475211677
+Unit 7,extruder,08/08,00:10:00,01:40:00,215,3.6,Pilot hydraulic piping hydraulic hose nipple welding,Measures taken after hydraulic hose nipple welding,7,77.6,3.89,0.35,4.99806701,6.525211677
+Unit 7,extruder,08/14,01:40:00,09:20:00,460,7.7,AUX PUMP motor replacement,Pump motor wiring removal and outsourced repairs,7,77.6,3.89,0.35,4.99806701,6.525211677
+Unit 7,extruder,08/15,05:18:00,07:10:00,112,1.9,container piping leak,Container seal replacement work,7,77.6,3.89,0.35,4.99806701,6.525211677
+Unit 7,extruder,09/19,23:04:00,23:55:00,51,0.9,Sea ring pump pipe crack,Reinforcement welding work on crack areas,7.86,94.8,1.58,0.35,4,6.826211677
+Unit 7,extruder,10/27,22:30:00,22:40:00,10,0.2,Hydraulic pump coupling wear,Coupling wear part replacement work,34.83,192.3,0.08,0.35,1.999687988,16.26571168
+Unit 7,extruder,11/24,08:40:00,10:00:00,90,1.5,Loader and auxiliary loader speed error,Cylinder replacement and speed adjustment,6.3,79.8,1.4,0.35,4.999749373,6.280211677
+Unit 7,extruder,11/25,18:10:00,19:40:00,90,1.5,Loader cylinder replacement work,Cylinder replacement work,6.3,79.8,1.4,0.35,4.999749373,6.280211677
+Unit 7,heating furnace,02/23,13:30:00,14:50:00,80,1.3,VCS for induction heater,replacement work,7.13,123.5,5.77,0.25,3.000566802,4.693365483
+Unit 7,heating furnace,03/16,10:05:00,12:08:00,123,2.1,Billet thermocouple cylinder packing,replacement work,2.1,494.4,0.42,0.25,1.000080906,3.435865483
+Unit 7,heating furnace,05/04,00:25:00,03:00:00,155,2.6,Induction heater VCS S phase burnout,Replacement work with used VCS,1.7,72.8,2.34,0.25,4.999175824,3.335865483
+Unit 7,heating furnace,06/08,03:20:00,06:30:00,190,3.2,Pusher cylinder rod fistula,Rod packing replacement work after disassembling the cylinder,1.73,139.4,1.24,0.25,3.000645624,3.343365483
+Unit 7,heating furnace,06/24,16:30:00,17:40:00,70,1.2,Billet SAW withdrawal C/V,Repair after operation fire conveyor fire,1.73,139.4,1.24,0.25,3.000645624,3.343365483
+Unit 7,heating furnace,08/10,15:00:00,15:15:00,15,0.2,Request to shorten heating time for induction heater unit 7,Induction heating and cooling timer time adjustment,0.74,42.9,1.72,0.25,10,3.095865483
+Unit 7,heating furnace,09/30,08:45:00,20:00:00,675,11.3,Induction heater temperature overheating furnace,"Billet recording OP TIC defective, replace with spare part",2.94,75.6,3.89,0.25,5,3.645865483
+Unit 7,heating furnace,09/30,20:40:00,21:00:00,20,0.3,Induction heater temperature overheating alarm,Actions after recovering from a summer start trip,2.94,75.6,3.89,0.25,5,3.645865483
+Unit 7,heating furnace,09/30,08:45:00,20:00:00,675,11.3,"The billet in the induction heater melts and flows, making the pusher and thermocouple unable to move forward/reverse.",Melt and remove billet using oxygen and replace roller bearings,1.7,34.4,4.95,0.25,10.98837209,3.335865483
+Unit 7,heating furnace,09/30,20:40:00,21:00:00,20,0.3,Alarm occurs due to COIL overtemperature,Normal operation after recovery with Summer Start TRIP,1.7,34.4,4.95,0.25,10.98837209,3.335865483
+Unit 7,heating furnace,10/18,13:50:00,14:20:00,30,0.5,COIL OVER TEMP ALARM.,Normal operation after release with THERMOCOUPLE TRIP,0.74,28.4,2.59,0.25,14.01408451,3.095865483
+Unit 7,heating furnace,10/31,19:35:00,21:00:00,85,1.4,Induction heater unit 7 E/V MOTOR COIL burnt out,"Induction heater unit 7 E/V MOTOR (440V, 1HP) replacement",0.74,28.4,2.59,0.25,14.01408451,3.095865483
+Unit 7,heating furnace,10/31,09:00:00,09:15:00,15,0.3,Coil temperature rise alarm occurs.,Alarm is cleared after resetting the thermostat contact point.,0.74,28.4,2.59,0.25,14.01408451,3.095865483
+Unit 7,heating furnace,10/18,02:55:00,03:00:00,5,0.1,Induction heater cannot be heated,Compensation conductor disconnection repair,0.74,28.4,2.59,0.25,14.01408451,3.095865483
+Unit 7,heating furnace,10/06,15:00:00,15:15:00,15,0.2,Billet temperature controller replacement work.,DX9 replacement and program setup work.,0.74,28.4,2.59,0.25,14.01408451,3.095865483
+Unit 7,heating furnace,09/22,14:23:00,14:35:00,12,0.2,Thermometer air speed valve needs replacement,Speed ​​valve replacement work,7.86,94.8,1.58,0.25,4,4.875865483
+Unit 7,heating furnace,11/26,14:20:00,14:55:00,35,0.6,"Billet cutter groove digging
+Lower motor cannot be driven",Normal operation after reset of lower motor THR trip phenomenon,6.3,79.8,1.4,0.25,4.999749373,4.485865483
+Unit 7,fuller,02/17,02:40:00,03:30:00,50,0.8,Tremor phenomenon when moving the puller,Rail and puller body roller adjustment work,7.13,123.5,5.77,0.09,3.000566802,1.689611574
+Unit 7,fuller,05/18,20:00:00,21:30:00,90,1.5,Puller DC motor overheating,Work after cooling (operator carelessness),1.7,72.8,2.34,0.09,4.999175824,1.200911574
+Unit 7,fuller,05/19,01:30:00,04:30:00,180,3,Puller DC motor overheating,Work after cooling (operator carelessness),1.7,72.8,2.34,0.09,4.999175824,1.200911574
+Unit 7,fuller,06/18,02:56:00,03:46:00,50,0.8,Crack in puller rail connection area,Welding after finishing the rail crack area,1.73,139.4,1.24,0.09,3.000645624,1.203611574
+Unit 7,fuller,07/16,09:15:00,10:30:00,75,1.3,puller jaw up down,Repair of damaged connecting links,1.3,405.5,0.32,0.09,1.000049322,1.164911574
+Unit 7,fuller,08/10,02:20:00,02:40:00,20,0.3,Stuck during puller jaw down,Operation Power Current Collector Brush Replacement Operation,0.74,42.9,1.72,0.09,10,1.114511574
+Unit 7,fuller,08/20,10:00:00,11:30:00,90,1.5,Puller TROY opens and stops during operation.,Puller motor cylinder part replacement,7,77.6,3.89,0.09,4.99806701,1.677911574
+Unit 7,fuller,11/08,04:23:00,05:03:00,40,0.7,Fuller freeze phenomenon,"Fuller SLOW detection photo sensor when moving forward/reverse
+undetectable
+- Sensitivity adjustment after replacing the photo sensor (BEN300-DDT)",6.3,79.8,1.4,0.09,4.999749373,1.614911574
+Unit 7,Hasso,04/07,12:00:00,12:20:00,20,0.3,HOT SAW LIFT not operating,Air solenoid valve replacement work,0.45,181.2,0.25,0.1,1.999558499,1.209346193
+Unit 7,back side,08/12,01:30:00,03:00:00,90,1.5,Butt knocker fastening bolt broken,Fasten after removing bolt,0.74,42.9,1.72,0.15,10,1.85751929
+Unit 7,back side,08/18,11:10:00,11:28:00,18,0.3,Damaged butt shaft cylinder seamless pipe,Crack replacement,0.74,42.9,1.72,0.15,10,1.85751929
+Unit 7,back side,08/18,11:39:00,12:10:00,31,0.5,Photo sensor wiring deterioration and burnout,Flexible wiring disconnection repair,0.74,42.9,1.72,0.15,10,1.85751929
+Unit 7,back side,08/23,03:00:00,03:20:00,20,0.3,Cutting bet conveyor belt does not run,Key and cap fastening work,0.74,42.9,1.72,0.15,10,1.85751929
+Unit 7,back side,09/29,18:20:00,18:30:00,10,0.2,RUNOUT C/V DOWN operation does not work intermittently,RUNOUT C/V UP/DOWN Selector S/W,1.7,34.4,4.95,0.15,10.98837209,2.00151929
+Unit 7,back side,09/09,16:20:00,17:00:00,40,0.7,Gauge C/V does not operate at low speed during automatic operation.,It operates normally after replacing with a spare cable.,1.7,34.4,4.95,0.15,10.98837209,2.00151929
+Unit 7,back side,09/21,22:55:00,23:11:00,16,0.3,Mainsha nisbul damaged and leaking oil,Mainsha nisbul damaged oil leak replacement,1.7,34.4,4.95,0.15,10.98837209,2.00151929
+Unit 7,back side,09/02,12:30:00,13:30:00,60,1,Loader hydraulic pipe crack,Loader hydraulic pipe crack welding repair,1.7,34.4,4.95,0.15,10.98837209,2.00151929
+Unit 7,back side,10/31,10:28:00,11:50:00,82,1.4,Inspection request due to gauge head not moving forward/reverse.,Cable bear side MOTOR single phase jammed.,0.74,28.4,2.59,0.15,14.01408451,1.85751929
+Unit 7,back side,10/17,09:30:00,10:05:00,35,0.6,"MID TEMP C/V does not start, request inspection","110V MC-22 (1EA) replacement, Inverter 440V 5HP (1EA) replacement.",0.74,28.4,2.59,0.15,14.01408451,1.85751929
+Unit 7,back side,10/01,15:45:00,16:30:00,45,0.8,P.H IN FEED V/T C/V operation not possible,"Inverter (SV004IG5A-4 →SV008IG5A-4)
+Recovery after replacement",0.74,28.4,2.59,0.15,14.01408451,1.85751929
+Unit 7,back side,10/21,22:00:00,23:00:00,60,1,"Powerhead manual forward/backward movement is possible, but when calibrating the product
+Stretcher does not work","Tail head correct position detection, proximity sensor fixing bracket bending
+Recovery after correction of bracket due to poor detection",0.74,28.4,2.59,0.15,14.01408451,1.85751929
+Unit 7,back side,10/01,16:40:00,16:55:00,15,0.2,Video monitor screen not working,P.H upper wireless transmitter position misalignment readjusted,0.74,28.4,2.59,0.15,14.01408451,1.85751929
+Unit 7,back side,10/27,10:25:00,10:50:00,25,0.4,SAWFEED C/V operation of cutting unit 7 is not possible,"CLAMP guide cylinder
+Recovery after applying lubricant with foreign substances",0.74,28.4,2.59,0.15,14.01408451,1.85751929
+Unit 7,back side,10/24,09:20:00,09:30:00,10,0.2,GAUGE HEAD forward/backward operation not possible,Recovery after detection of B/K open proximity sensor,0.74,28.4,2.59,0.15,14.01408451,1.85751929
+Unit 7,back side,08/19,21:00:00,21:30:00,30,0.5,Jjoldae insertion does not work,Normal operation after processing the area due to bracket interference,7,77.6,3.89,0.15,4.99806701,2.79651929
+Unit 7,back side,09/26,17:00:00,21:00:00,240,4,Billet moving conveyor chain broken,Chain replacement and repair work,7.86,94.8,1.58,0.15,4,2.92551929
+Unit 7,back side,09/27,05:02:00,06:00:00,58,1,"Billet transfer conveyor
+Guide jamming phenomenon",Sprocket deflection correction and welding work,7.86,94.8,1.58,0.15,4,2.92551929
+Unit 7,back side,10/29,23:30:00,23:40:00,10,0.2,Cutting machine servo alarm occurs,Normal operation after alarm recovery,34.83,192.3,0.08,0.15,1.999687988,6.97101929
+Unit 7,back side,11/19,02:05:00,03:23:00,78,1.3,Crossover C/V not working,Tightening cylinder fixing bolts and replacing air Sol V/V,6.3,79.8,1.4,0.15,4.999749373,2.69151929
+Unit 7,etc,09/13,13:40:00,15:10:00,90,1.5,Request for inspection due to slow temperature rise,Scheduled to be replaced after materials are received. Currently in temporary use.,1.7,34.4,4.95,0.06,10.98837209,0.800607716
+Unit 7,etc,09/03,07:00:00,07:30:00,30,0.5,The podium is blocked due to the old age of the celebrant.,Normal operation after replacement of current collector 3EA,1.7,34.4,4.95,0.06,10.98837209,0.800607716
+Unit 8,extruder,01/14,16:46:00,18:30:00,104,1.7,Aunt pump chain coupler damaged,Replacement with spare parts,1.6,70.7,2.26,0.35,6.00311174,4.635211677
+Unit 8,extruder,02/19,13:50:00,15:15:00,85,1.4,Hydraulic block oil leak,Valve controller valve O-ring replacement work,1.45,215.4,0.67,0.35,2.000232126,4.582711677
+Unit 8,extruder,04/01,13:50:00,14:35:00,45,0.8,container piping leak,Welding after removal of pipe cracks,1.2,57.8,2.07,0.35,6.00432526,4.495211677
+Unit 8,extruder,04/02,22:05:00,23:08:00,63,1.1,Main pipe leak,Welding after removing pipe cracks,1.2,57.8,2.07,0.35,6.00432526,4.495211677
+Unit 8,extruder,05/09,20:10:00,21:05:00,55,0.9,Container piping crack leak,Piping adverse welding work,1.28,87.4,1.46,0.35,4.00194508,4.523211677
+Unit 8,extruder,05/27,19:16:00,21:40:00,144,2.4,Billet loader not operating,Normal operation after pressure setting,1.28,87.4,1.46,0.35,4.00194508,4.523211677
+Unit 8,extruder,05/27,15:55:00,16:40:00,45,0.8,Buttsha auxiliary pipe leak,Welding work after separating pipes,1.28,87.4,1.46,0.35,4.00194508,4.523211677
+Unit 8,extruder,05/31,08:30:00,09:30:00,60,1,Container cylinder rod side leakage,Rod V-PACKING replacement work,1.28,87.4,1.46,0.35,4.00194508,4.523211677
+Unit 8,extruder,08/09,14:52:00,16:30:00,98,1.6,Trans Bear Chain Flyer,chain replacement work,1.36,42.5,3.2,0.35,10.01152941,4.551211677
+Unit 8,extruder,08/10,04:12:00,06:20:00,128,2.1,Main side pipe crack,Welding and repairing leaks,1.36,42.5,3.2,0.35,10.01152941,4.551211677
+Unit 8,extruder,08/22,08:40:00,09:00:00,20,0.3,Sha rises/descends during automatic operation,"After inspecting the PLC twice, request inspection of the machine tool.",1.36,42.5,3.2,0.35,10.01152941,4.551211677
+Unit 8,extruder,08/25,02:50:00,04:00:00,70,1.2,Side high pressure bagona crack,Welding work after separating pipes,1.36,42.5,3.2,0.35,10.01152941,4.551211677
+Unit 8,extruder,08/26,21:00:00,23:30:00,150,2.5,Main side and container cylinder leakage,V/P replacement work,1.36,42.5,3.2,0.35,10.01152941,4.551211677
+Unit 8,extruder,09/01,21:42:00,00:30:00,168,2.8,Tightening work by loosening dummy bolts,No dummy replacement due to screw wear,1.2,91.9,1.31,0.35,4,4.495211677
+Unit 8,extruder,09/02,13:30:00,14:00:00,30,0.5,Mainsha lift hydraulic pipe full range,Welding after removal of leaking welding area,1.2,91.9,1.31,0.35,4,4.495211677
+Unit 8,extruder,09/10,09:20:00,10:30:00,70,1.2,container cylinder oil leak,Container cylinder rod packing replacement work,1.2,91.9,1.31,0.35,4,4.495211677
+Unit 8,extruder,09/01,21:42:00,00:30:00,168,2.8,Deformation of dummy and loosening of stemless fastening bolts,Deformation of dummy and loosening and tightening of stemless fastening bolts,0.95,46,2.07,0.35,7.991304348,4.407711677
+Unit 8,extruder,09/02,12:30:00,14:00:00,90,1.5,Main shaft rising hydraulic pipe flange crack leak,Main shaft rising hydraulic pipe flange crack welding,0.95,46,2.07,0.35,7.991304348,4.407711677
+Unit 8,extruder,09/08,22:15:00,22:28:00,13,0.2,"After lowering the main shaft, repeat the rise/fall several times and then stop in the descending state.",Detection of main shaft lowering completion. Normal operation after L/S replacement.,0.95,46,2.07,0.35,7.991304348,4.407711677
+Unit 8,extruder,09/08,21:11:00,21:50:00,39,0.7,Main Sha UP operation is disabled due to inability to detect Butt Knocker L/S.,1. Knocker UP detection L/S (BL3) replacement,0.95,46,2.07,0.35,7.991304348,4.407711677
+Unit 8,extruder,09/08,19:13:00,19:30:00,17,0.3,Butt knocker rise detection limit S/W detection rod deviation request inspection,Replace the detection rod.,0.95,46,2.07,0.35,7.991304348,4.407711677
+Unit 8,extruder,09/09,00:15:00,00:20:00,5,0.1,Container cannot move forward after raising the main shaft,Mainsha lowering L/S not restored →L/S replaced,0.95,46,2.07,0.35,7.991304348,4.407711677
+Unit 8,extruder,09/10,09:20:00,10:30:00,70,1.2,container cylinder oil leak,Container cylinder leak V packing replacement,0.95,46,2.07,0.35,7.991304348,4.407711677
+Unit 8,extruder,09/20,09:15:00,10:00:00,45,0.8,Nitrogen gas cannot be supplied during extrusion operation of extrusion unit 8.,Repair of wire disconnection by reconnection due to rat in underground bit box,0.95,46,2.07,0.35,7.991304348,4.407711677
+Unit 8,extruder,10/08,08:50:00,10:00:00,70,1.2,Container center is distorted,Container center distortion customization work,1.75,95.1,1.84,0.35,3.997896951,4.687711677
+Unit 8,extruder,10/10,08:30:00,13:00:00,270,4.5,Shinyang 2 100HP compressor water inflow,Cleaning and Part Replacement,1.75,95.1,1.84,0.35,3.997896951,4.687711677
+Unit 8,extruder,11/28,08:30:00,11:07:00,157,2.6,Damaged loader plate fastening bolt,"After removing the damage to the loader plate fastening bolt, fasten it.",3.23,145.1,2.23,0.35,3,5.205711677
+Unit 8,extruder,11/23,03:30:00,10:00:00,390,6.5,Broken auxiliary pump coupler,Replace broken auxiliary pump coupler,3.23,145.1,2.23,0.35,3,5.205711677
+Unit 8,extruder,08/08,17:10:00,17:30:00,20,0.3,Billet push air cylinder check valve stopper removal,Fixing of breakaway part,3.16,39,1.31,0.35,9.998974359,5.181211677
+Unit 8,extruder,08/13,00:20:00,00:30:00,10,0.2,Container sealing and hydraulic hose damage,Sealing and hydraulic hose replacement,3.16,39,1.31,0.35,9.998974359,5.181211677
+Unit 8,extruder,08/18,13:30:00,14:00:00,30,0.5,Butt knocker air cylinder bracket damaged,Welding work on the relevant area,3.16,39,1.31,0.35,9.998974359,5.181211677
+Unit 8,extruder,08/21,00:13:00,01:00:00,17,0.3,Main ram/container cannot move forward or backward,Normal operation while checking forward and backward movement several times.,3.16,39,1.31,0.35,9.998974359,5.181211677
+Unit 8,extruder,08/21,02:23:00,03:10:00,47,0.8,Main ram/container cannot move forward or backward,"p1,p2 hydraulic relay replacement",3.16,39,1.31,0.35,9.998974359,5.181211677
+Unit 8,extruder,08/25,20:05:00,21:40:00,70,1.2,Oil leakage due to wear of container packing,Replace the packing in the relevant area,3.16,39,1.31,0.35,9.998974359,5.181211677
+Unit 8,extruder,10/13,15:53:00,16:55:00,62,1,Butt knocker up operation not possible,Reinstall the cylinder rod fasteners,70.48,362.9,0.28,0.35,0.900716451,28.74321168
+Unit 8,extruder,11/24,02:05:00,13:50:00,20,0.3,Main intermediate pipe damaged,Welding work on damaged areas,4.37,57.9,1.41,0.35,7.003799655,5.604711677
+Unit 8,heating furnace,01/27,10:32:00,12:30:00,118,2,Billet Cutting Machine Shaft Shear,Processing and assembly after partial welding (outsourcing),1.6,70.7,2.26,0.25,6.00311174,3.310865483
+Unit 8,heating furnace,02/24,13:30:00,15:00:00,90,1.5,ACB replacement work for induction,Replacement work according to replacement period,1.45,215.4,0.67,0.25,2.000232126,3.273365483
+Unit 8,heating furnace,04/18,16:30:00,19:00:00,150,2.5,Check that induction VS is not ON,Pusher reversing limit detection not confirmed,1.2,57.8,2.07,0.25,6.00432526,3.210865483
+Unit 8,heating furnace,,15:15:00,15:30:00,15,0.3,Request to shorten heating time for induction heater unit 7,Induction heating and cooling timer time adjustment,1.36,42.5,3.2,0.25,10.01152941,3.250865483
+Unit 8,heating furnace,08/23,17:10:00,17:28:00,15,0.3,Check billet temperature abnormalities,Normal operation after correcting the thermocouple position,3.16,39,1.31,0.25,9.998974359,3.700865483
+Unit 8,heating furnace,08/25,10:35:00,10:50:00,5,0.1,Induction heater L/S damaged,Normal operation after L/S replacement,3.16,39,1.31,0.25,9.998974359,3.700865483
+Unit 8,heating furnace,08/28,20:30:00,21:30:00,5,0.1,Check for abnormal billet detection sensor,"Sensor BM3M-TDT 1,2 replacement",3.16,39,1.31,0.25,9.998974359,3.700865483
+Unit 8,heating furnace,11/16,02:05:00,00:30:00,20,0.3,HV4 cannot operate due to R-phase TRIP,"Induction heater panel twin timer time
+Normal operation after readjustment",4.37,57.9,1.41,0.25,7.003799655,4.003365483
+Unit 8,fuller,03/04,19:45:00,19:55:00,10,0.2,Puller tray not operating,Limit switch adjustment work,0.2,252.3,0.08,0.09,1.999643282,1.065911574
+Unit 8,fuller,03/21,09:00:00,09:10:00,10,0.2,Puller encoder coupling broken,Replacement work with coupling spare parts,0.2,252.3,0.08,0.09,1.999643282,1.065911574
+Unit 8,fuller,04/29,22:36:00,00:20:00,104,1.7,puller wire rope shear,Replacement work with rope spare parts,1.2,57.8,2.07,0.09,6.00432526,1.155911574
+Unit 8,fuller,07/07,20:24:00,22:00:00,96,1.6,Puller rail joint shear,Welding work after rail correction,3.8,202.4,1.88,0.09,1.999604743,1.389911574
+Unit 8,fuller,11/13,02:05:00,12:00:00,149,2.5,Damage to operating shaft and connecting rod,Welding after new processing of damaged area,4.37,57.9,1.41,0.09,7.003799655,1.441211574
+Unit 8,Hasso,08/27,23:27:00,23:45:00,18,0.3,bad touch screen,Normal operation after checking the photo sensor cable on the inlet side,1.36,42.5,3.2,0.1,10.01152941,1.300346193
+Unit 8,back side,01/19,06:40:00,07:40:00,60,1,This Chaju Conveyor UP/DOWN,不 Freezing of moisture in the air due to cold weather,1.6,70.7,2.26,0.15,6.00311174,1.98651929
+Unit 8,back side,01/20,03:00:00,03:20:00,20,0.3,This Chaju Conveyor UP/DOWN,不 Freezing of moisture in the air due to cold weather,1.6,70.7,2.26,0.15,6.00311174,1.98651929
+Unit 8,back side,04/06,15:40:00,16:00:00,20,0.3,Puller encoder coupler wear,Carpooler replacement work,1.2,57.8,2.07,0.15,6.00432526,1.92651929
+Unit 8,back side,04/18,15:10:00,16:00:00,50,0.8,Straightener main cable short circuit,Partial cable replacement work,1.2,57.8,2.07,0.15,6.00432526,1.92651929
+Unit 8,back side,06/13,09:20:00,09:55:00,35,0.6,Power head jaw not lowered,PLC card relay burnout contact position adjustment,0.6,404.9,0.15,0.15,0.831563349,1.83651929
+Unit 8,back side,07/09,09:00:00,15:00:00,360,6,Stekka Genchury Burek Breakdown,In use of bladder improvement (pad replacement),3.8,202.4,1.88,0.15,1.999604743,2.31651929
+Unit 8,back side,08/04,08:30:00,12:25:00,235,3.9,GANTRY T/V not working,GANTRY T/V inverter I/O alarm cannot be cleared Replace inverter (i7 2.2KW),1.36,42.5,3.2,0.15,10.01152941,1.95051929
+Unit 8,back side,08/06,20:00:00,20:40:00,40,0.7,SAW FEED C/V Only operates at low speed due to damaged encoder,Normal operation after replacement of E50S8-200-3-T-24 (1EA),1.36,42.5,3.2,0.15,10.01152941,1.95051929
+Unit 8,back side,08/19,09:06:00,09:50:00,44,0.7,Transformer bearing damage,bearing replacement,1.36,42.5,3.2,0.15,10.01152941,1.95051929
+Unit 8,back side,10/17,16:00:00,16:20:00,20,0.3,T.H Request for inspection due to abnormal low and high speed operation.,Origin detection proximity sensor replacement.PRL30-15DN(1EA),1.75,95.1,1.84,0.15,3.997896951,2.00901929
+Unit 8,back side,10/20,12:30:00,13:30:00,60,1,Stacker tension bolt damaged,Replacement and fastening of damaged stacker tension bolts,1.75,95.1,1.84,0.15,3.997896951,2.00901929
+Unit 8,back side,11/19,03:10:00,03:45:00,35,0.6,Automatic operation is disabled due to operator negligence during puller work.,"AT HOME POSITION After cutting the flexible and deteriorated part due to wire deterioration and disconnection, reconnection recovery",3.23,145.1,2.23,0.15,3,2.23101929
+Unit 8,back side,08/20,17:07:00,18:35:00,88,1.5,Runout table cylinder bracket broken,"After fixing the cylinder rod, tap processing and bolt replacement",3.16,39,1.31,0.15,9.998974359,2.22051929
+Unit 8,back side,09/11,17:00:00,19:35:00,155,2.6,Stecca touch does not work,"Replacement of touch communication card (xp-70, KGL-C42A) and change of communication from RS-232 to RS-422",7.92,127.8,0.83,0.15,2.999843505,2.93451929
+Unit 8,back side,09/11,08:30:00,08:50:00,20,0.3,Runout conveyor inoperable,"Inverter board alarm occurs after alarm reset
+in normal operation",7.92,127.8,0.83,0.15,2.999843505,2.93451929
+Unit 8,back side,11/14,02:05:00,04:00:00,20,0.3,"Touch screen due to communication error
+inoperable",Normal operation after power reboot,4.37,57.9,1.41,0.15,7.003799655,2.40201929
+Unit 8,back side,11/18,02:05:00,07:50:00,65,1.1,Corrector tail head power failure,"Short circuit occurs due to defective cable bare power line
+Reconnection recovery work for disconnected wires",4.37,57.9,1.41,0.15,7.003799655,2.40201929
+Unit 8,back side,11/18,02:05:00,02:50:00,12,0.2,"Fuller, handling stops entirely.","Main breaker power failure, for handling power
+Circuit breaker trip recovery",4.37,57.9,1.41,0.15,7.003799655,2.40201929
+Unit 8,back side,11/25,02:05:00,09:25:00,55,0.9,Runout C/V operation not possible,"The lock nut gets stuck while the roller is running.
+Reassembly and commissioning completed",4.37,57.9,1.41,0.15,7.003799655,2.40201929
+Unit 8,etc,09/24,09:00:00,09:15:00,15,0.3,OP panel touch communication lost,Normal operation after changing PLC communication channel,7.92,127.8,0.83,0.06,2.999843505,1.173807716
